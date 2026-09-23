@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f3eadc" />
+    <meta
+      name="description"
+      content="Jackson 的飲食大王：墨爾本飲食推薦，今日、今個星期，同早前食過嘅地方。"
+    />
+    <title>飲食大王 · Jackson</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="mast">
+      <p class="eyebrow">Melbourne · 東南</p>
+      <div class="title-row">
+        <h1>飲食大王</h1>
+        <span class="seal" aria-hidden="true">印</span>
+      </div>
+      <p class="lede">Jackson 嘅食肆板。今日推邊間，撳入去睇點解、幾時去、點叫。</p>
+      <p class="today-line" id="today-line">墨爾本時間載入緊…</p>
+    </header>
+
+    <main id="board" class="board" aria-live="polite">
+      <p class="status" id="status">載入緊推薦…</p>
+    </main>
+
+    <footer class="colophon">
+      <p>價位：$ 平 · $$ 中等 · $$$ 精緻 · $$$$ 高檔。實際以到店菜單為準。</p>
+      <p>資料來自 <code>data.json</code>。食肆 bot 同呢塊板用同一份。</p>
+    </footer>
+
+    <dialog id="detail" class="sheet" aria-labelledby="detail-title">
+      <div class="sheet-bar">
+        <p class="sheet-kicker" id="detail-kicker"></p>
+        <button type="button" class="close" id="detail-close">關閉</button>
+      </div>
+      <div class="sheet-body" id="detail-body"></div>
+    </dialog>
+
+    <noscript>
+      <p class="status">要開 JavaScript 先睇到推薦。資料喺 data.json。</p>
+    </noscript>
+    <script src="app.js"></script>
+  </body>
+</html>

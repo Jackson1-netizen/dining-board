@@ -1,0 +1,56 @@
+{
+  "board": "飲食大王",
+  "owner": "Jackson",
+  "city": "Melbourne",
+  "recommendations": [
+    {
+      "id": "kitchen-783-yumcha-cafe",
+      "date": "2026-09-23",
+      "name": "Kitchen 783 YumCha Cafe",
+      "cuisine": "港式飲茶 / 中菜",
+      "area": "Doncaster East",
+      "address": "1/32 Jackson Ct, Doncaster East VIC 3109",
+      "priceBand": "$$",
+      "hook": "港式飲茶近東南，適合 brunch。",
+      "vibe": "輕鬆茶樓，適合慢慢飲茶，唔使打扮到好正式。",
+      "partySize": "2–6 人",
+      "dishes": [
+        "蝦餃",
+        "燒賣",
+        "叉燒包",
+        "鳳爪",
+        "皮蛋瘦肉粥、豬腸粉",
+        "盅頭飯"
+      ],
+      "howToOrder": "堂食為主。想外帶可以睇 DoorDash 上的 Kitchen 783 Yum Cha。官網 kitchen783.com.au 有熱食同急凍點心，地址同時寫住 West Melbourne 同 Jackson Court，叫之前確認係 Doncaster East 呢間。",
+      "whenToGo": "朝早到下午兩點半前。週末飲茶最好早啲到。星期五如果真係休息就唔好特登去。",
+      "hours": "週一至四、週六、週日 08:30–14:30；星期五休息。未核實：公開外送資料只寫大約 08:30–14:10，冇按星期分開，星期五是否休息未能確認。",
+      "specials": "外送菜單有早餐送飲品、午餐套餐同飲茶套餐。堂食是否一樣未核實。",
+      "why": "用戶明確話鍾意；港式飲茶近東南；適合 brunch／飲茶。",
+      "sourceUrl": "https://www.instagram.com/reel/DdOVW_TJYAL/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitchen%20783%20YumCha%20Cafe%20Doncaster%20East",
+      "images": []
+    },
+    {
+      "id": "jade-swallow",
+      "date": "2026-09-23",
+      "name": "Jade Swallow",
+      "cuisine": "精緻粵菜 / 中菜",
+      "area": "Glen Waverley",
+      "address": "Level 2/54 Montclair Ave, Glen Waverley VIC 3150",
+      "priceBand": "$$$",
+      "hook": "精緻粵菜，Glen Waverley 方便。",
+      "vibe": "比茶樓正式少少，適合一家人或者朋友慢慢食。",
+      "partySize": "2–8 人",
+      "dishes": [],
+      "howToOrder": "堂食。未找到可靠網上訂位。餐廳喺 Level 2。公開電話 +61 456 604 536，去之前可以打去確認開唔開。",
+      "whenToGo": "午餐或者晚餐都得。Glen Waverley 近車站同 The Glen，收工順路方便。",
+      "hours": "午餐：週一至五 11:30–15:00，週六日 11:00–15:00；晚餐：每日 17:00–22:00。來自公開旅遊資料（AAA），餐廳官網未再確認，出發前再對一次。",
+      "specials": "未見公開特價。當日有咩好食問店員。",
+      "why": "用戶明確話另外一間都鍾意；Glen Waverley 方便。",
+      "sourceUrl": "https://www.instagram.com/reel/DYCh5SsRLCn/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jade%20Swallow%20Glen%20Waverley",
+      "images": []
+    }
+  ]
+}
