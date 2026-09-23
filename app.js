@@ -52,8 +52,17 @@ function weekStart(iso) {
 
 function safeUrl(value) {
   if (typeof value !== "string" || !value.trim()) return null;
+  const trimmed = value.trim();
+  // Allow same-origin relative image/paths used by GitHub Pages data.json
+  if (
+    trimmed.startsWith("images/") ||
+    trimmed.startsWith("./images/") ||
+    trimmed.startsWith("/")
+  ) {
+    return trimmed;
+  }
   try {
-    const url = new URL(value);
+    const url = new URL(trimmed);
     if (url.protocol === "https:" || url.protocol === "http:") return url.href;
   } catch {
     return null;
