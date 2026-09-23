@@ -234,17 +234,6 @@ function openDetail(item) {
   addBlock(detailBody, "營業時間", item.hours);
   addBlock(detailBody, "特價", item.specials);
 
-  if (Array.isArray(item.dishes) && item.dishes.length) {
-    const block = el("div", "block");
-    block.append(el("h4", null, "可以點"));
-    const list = el("ul", "dishes");
-    for (const dish of item.dishes) list.append(el("li", null, dish));
-    block.append(list);
-    detailBody.append(block);
-  } else {
-    addBlock(detailBody, "可以點", "菜單未有記錄，問店員當日推薦。");
-  }
-
   const actions = el("div", "actions");
   const maps = safeUrl(item.mapsUrl);
   if (maps) {
@@ -263,6 +252,43 @@ function openDetail(item) {
     actions.append(link);
   }
   if (actions.childElementCount) detailBody.append(actions);
+
+  // Bottom price reference — always last
+  const priced = Array.isArray(item.menuItems) ? item.menuItems : [];
+  const priceBlock = el("div", "block menu-prices");
+  priceBlock.append(el("h4", null, "食物價錢／可以叫咩"));
+  if (priced.length) {
+    const table = document.createElement("table");
+    table.className = "price-table";
+    const tbody = document.createElement("tbody");
+    for (const row of priced) {
+      const name = typeof row === "string" ? row : (row && row.name) || "";
+      const price = typeof row === "string" ? "" : (row && row.price) || "";
+      const note = typeof row === "string" ? "" : (row && row.note) || "";
+      if (!name) continue;
+      const tr = document.createElement("tr");
+      const tdName = document.createElement("td");
+      tdName.className = "dish-name";
+      tdName.textContent = name + (note ? `（${note}）` : "");
+      const tdPrice = document.createElement("td");
+      tdPrice.className = "dish-price";
+      tdPrice.textContent = price || "—";
+      tr.append(tdName, tdPrice);
+      tbody.append(tr);
+    }
+    table.append(tbody);
+    priceBlock.append(table);
+  } else if (Array.isArray(item.dishes) && item.dishes.length) {
+    const list = el("ul", "dishes");
+    for (const dish of item.dishes) list.append(el("li", null, dish));
+    priceBlock.append(list);
+  } else {
+    priceBlock.append(el("p", null, "菜單價錢未有記錄，問店員當日推薦。"));
+  }
+  if (item.menuPriceNote) {
+    priceBlock.append(el("p", "price-note", item.menuPriceNote));
+  }
+  detailBody.append(priceBlock);
 
   if (!dialog.open) dialog.showModal();
 }

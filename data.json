@@ -15,12 +15,15 @@
       "vibe": "輕鬆茶樓，適合慢慢飲茶，唔使打扮到好正式。",
       "partySize": "2–6 人",
       "dishes": [
-        "蝦餃",
-        "燒賣",
-        "叉燒包",
-        "鳳爪",
-        "皮蛋瘦肉粥、豬腸粉",
-        "盅頭飯"
+        "蝦餃 Prawn Dumpling",
+        "燒賣 Siu Mai",
+        "叉燒包 BBQ Pork Bun",
+        "鳳爪 Chicken Feet",
+        "排骨 Diced Pork Ribs",
+        "牛肉球 Beef Meatball",
+        "臘腸卷 Chinese Sausage Roll",
+        "皮蛋瘦肉粥＋混醬豬腸粉",
+        "九星報喜 9 Happiness"
       ],
       "howToOrder": "堂食為主。想外帶可以睇 DoorDash 上的 Kitchen 783 Yum Cha。官網 kitchen783.com.au 有熱食同急凍點心，地址同時寫住 West Melbourne 同 Jackson Court，叫之前確認係 Doncaster East 呢間。",
       "whenToGo": "朝早到下午兩點半前。週末飲茶最好早啲到。星期五如果真係休息就唔好特登去。",
@@ -36,7 +39,55 @@
         "images/kitchen-783/04.jpg",
         "images/kitchen-783/05.jpg",
         "images/kitchen-783/06.jpg"
-      ]
+      ],
+      "menuItems": [
+        {
+          "name": "蝦餃 Prawn Dumpling",
+          "price": "A$9.90",
+          "note": "3pcs"
+        },
+        {
+          "name": "燒賣 Siu Mai",
+          "price": "A$9.90",
+          "note": "3pcs"
+        },
+        {
+          "name": "叉燒包 BBQ Pork Bun",
+          "price": "A$9.90",
+          "note": "3pcs"
+        },
+        {
+          "name": "鳳爪 Chicken Feet",
+          "price": "A$9.90",
+          "note": ""
+        },
+        {
+          "name": "排骨 Diced Pork Ribs",
+          "price": "A$9.90",
+          "note": ""
+        },
+        {
+          "name": "牛肉球 Beef Meatball",
+          "price": "A$9.90",
+          "note": "3pcs"
+        },
+        {
+          "name": "臘腸卷 Chinese Sausage Roll",
+          "price": "A$9.90",
+          "note": "3pcs"
+        },
+        {
+          "name": "皮蛋瘦肉粥＋混醬豬腸粉",
+          "price": "A$17.90",
+          "note": "套餐"
+        },
+        {
+          "name": "九星報喜 9 Happiness",
+          "price": "A$28.00",
+          "note": "拼盤"
+        }
+      ],
+      "menuPriceNote": "價錢參考：DoorDash 外送價（Kitchen 783 Yum Cha）。堂食可能唔同，以到店為準。"
     },
     {
       "id": "jade-swallow",
@@ -49,7 +100,13 @@
       "hook": "精緻粵菜，Glen Waverley 方便。",
       "vibe": "比茶樓正式少少，適合一家人或者朋友慢慢食。",
       "partySize": "2–8 人",
-      "dishes": [],
+      "dishes": [
+        "澳洲龍蝦／海鮮碟 Australian Lobster",
+        "海鮮／點心類 dumpling／seafood",
+        "例湯／盅湯",
+        "甜品／紅豆雪耳類",
+        "燒味／燒鵝鴨類"
+      ],
       "howToOrder": "堂食。未找到可靠網上訂位。餐廳喺 Level 2。公開電話 +61 456 604 536，去之前可以打去確認開唔開。",
       "whenToGo": "午餐或者晚餐都得。Glen Waverley 近車站同 The Glen，收工順路方便。",
       "hours": "午餐：週一至五 11:30–15:00，週六日 11:00–15:00；晚餐：每日 17:00–22:00。來自公開旅遊資料（AAA），餐廳官網未再確認，出發前再對一次。",
@@ -64,7 +121,35 @@
         "images/jade-swallow/04.jpg",
         "images/jade-swallow/05.jpg",
         "images/jade-swallow/06.jpg"
-      ]
+      ],
+      "menuItems": [
+        {
+          "name": "澳洲龍蝦／海鮮碟 Australian Lobster",
+          "price": "時價／問價",
+          "note": "公開網絡未見標價"
+        },
+        {
+          "name": "海鮮／點心類 dumpling／seafood",
+          "price": "問價",
+          "note": ""
+        },
+        {
+          "name": "例湯／盅湯",
+          "price": "問價",
+          "note": ""
+        },
+        {
+          "name": "甜品／紅豆雪耳類",
+          "price": "問價",
+          "note": ""
+        },
+        {
+          "name": "燒味／燒鵝鴨類",
+          "price": "問價",
+          "note": ""
+        }
+      ],
+      "menuPriceNote": "價錢參考：精緻粵菜 $$$–$$$$$；公開網站／外送未見完整價目。到店或致電 +61 456 604 536 問當日海鮮時價。一有公開價會再更新。"
     }
   ]
 }

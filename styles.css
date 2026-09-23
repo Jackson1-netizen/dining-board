@@ -464,3 +464,33 @@ h1 {
 .card[data-size="large"] .card-thumb {
   height: 200px;
 }
+
+.menu-prices {
+  margin-top: 1.25rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+.price-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.price-table td {
+  padding: 0.45rem 0.25rem;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.price-table .dish-name {
+  padding-right: 0.75rem;
+}
+.price-table .dish-price {
+  text-align: right;
+  white-space: nowrap;
+  font-weight: 600;
+}
+.price-note {
+  margin-top: 0.65rem;
+  font-size: 0.82rem;
+  opacity: 0.75;
+  line-height: 1.4;
+}
