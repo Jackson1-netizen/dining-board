@@ -101,11 +101,16 @@
       "vibe": "比茶樓正式少少，適合一家人或者朋友慢慢食。",
       "partySize": "2–8 人",
       "dishes": [
-        "澳洲龍蝦／海鮮碟 Australian Lobster",
-        "海鮮／點心類 dumpling／seafood",
-        "例湯／盅湯",
-        "甜品／紅豆雪耳類",
-        "燒味／燒鵝鴨類"
+        "韭菜鮮蝦餃 Steamed Chives Prawn Dumpling",
+        "水晶蝦餃 Crystal Prawn Dumpling",
+        "黑蒜帶子餃 Black Garlic Scallop Dumpling",
+        "煎豬肉鍋貼 Pan-fried Pork Potstickers",
+        "招牌脆皮乳鴿 Signature Crispy Glass-Skin Squab",
+        "亞麻籽脆皮燒雞 Flaxseed Crispy Chicken",
+        "上湯海鮮酸辣湯 Superior Seafood Hot & Sour Soup",
+        "凍芒果布甸 Chilled Mango Pudding",
+        "楊枝甘露 Mango Sago with Pomelo",
+        "澳洲龍蝦／鮑魚／蟹／海斑"
       ],
       "howToOrder": "堂食。未找到可靠網上訂位。餐廳喺 Level 2。公開電話 +61 456 604 536，去之前可以打去確認開唔開。",
       "whenToGo": "午餐或者晚餐都得。Glen Waverley 近車站同 The Glen，收工順路方便。",
@@ -124,32 +129,57 @@
       ],
       "menuItems": [
         {
-          "name": "澳洲龍蝦／海鮮碟 Australian Lobster",
-          "price": "時價／問價",
-          "note": "公開網絡未見標價"
-        },
-        {
-          "name": "海鮮／點心類 dumpling／seafood",
-          "price": "問價",
+          "name": "韭菜鮮蝦餃 Steamed Chives Prawn Dumpling",
+          "price": "A$12.80",
           "note": ""
         },
         {
-          "name": "例湯／盅湯",
-          "price": "問價",
+          "name": "水晶蝦餃 Crystal Prawn Dumpling",
+          "price": "A$12.80",
           "note": ""
         },
         {
-          "name": "甜品／紅豆雪耳類",
-          "price": "問價",
+          "name": "黑蒜帶子餃 Black Garlic Scallop Dumpling",
+          "price": "A$16.80",
           "note": ""
         },
         {
-          "name": "燒味／燒鵝鴨類",
-          "price": "問價",
+          "name": "煎豬肉鍋貼 Pan-fried Pork Potstickers",
+          "price": "A$10.80",
           "note": ""
+        },
+        {
+          "name": "招牌脆皮乳鴿 Signature Crispy Glass-Skin Squab",
+          "price": "A$58.80",
+          "note": "全隻"
+        },
+        {
+          "name": "亞麻籽脆皮燒雞 Flaxseed Crispy Chicken",
+          "price": "A$42.80 / A$78.80",
+          "note": "半隻／全隻"
+        },
+        {
+          "name": "上湯海鮮酸辣湯 Superior Seafood Hot & Sour Soup",
+          "price": "A$19.80",
+          "note": "每位"
+        },
+        {
+          "name": "凍芒果布甸 Chilled Mango Pudding",
+          "price": "A$10.80",
+          "note": ""
+        },
+        {
+          "name": "楊枝甘露 Mango Sago with Pomelo",
+          "price": "A$12.80",
+          "note": ""
+        },
+        {
+          "name": "澳洲龍蝦／鮑魚／蟹／海斑",
+          "price": "時價",
+          "note": "海鮮菜單無固定價"
         }
       ],
-      "menuPriceNote": "價錢參考：精緻粵菜 $$$–$$$$$；公開網站／外送未見完整價目。到店或致電 +61 456 604 536 問當日海鮮時價。一有公開價會再更新。"
+      "menuPriceNote": "價錢參考：官網 jadeswallow.com.au 午餐／晚餐菜單 PDF。人均大約 A$40–160（Google Maps）。海鮮時價以到店為準。"
     }
   ]
 }
