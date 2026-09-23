@@ -428,3 +428,39 @@ h1 {
     scroll-behavior: auto;
   }
 }
+
+
+/* photo-first gallery overrides */
+.photos {
+  display: grid !important;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  margin: 0.35rem 0 1rem;
+}
+.photos img {
+  width: 100%;
+  height: auto;
+  max-height: 72vh;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+  background: #161616;
+}
+@media (min-width: 520px) {
+  .photos {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.card-thumb {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 14px;
+  margin-bottom: 0.65rem;
+  display: block;
+  background: #161616;
+}
+.card[data-size="large"] .card-thumb {
+  height: 200px;
+}

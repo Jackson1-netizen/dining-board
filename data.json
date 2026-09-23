@@ -29,7 +29,14 @@
       "why": "用戶明確話鍾意；港式飲茶近東南；適合 brunch／飲茶。",
       "sourceUrl": "https://www.instagram.com/reel/DdOVW_TJYAL/",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitchen%20783%20YumCha%20Cafe%20Doncaster%20East",
-      "images": []
+      "images": [
+        "images/kitchen-783/01.jpg",
+        "images/kitchen-783/02.jpg",
+        "images/kitchen-783/03.jpg",
+        "images/kitchen-783/04.jpg",
+        "images/kitchen-783/05.jpg",
+        "images/kitchen-783/06.jpg"
+      ]
     },
     {
       "id": "jade-swallow",
@@ -50,7 +57,14 @@
       "why": "用戶明確話另外一間都鍾意；Glen Waverley 方便。",
       "sourceUrl": "https://www.instagram.com/reel/DYCh5SsRLCn/",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jade%20Swallow%20Glen%20Waverley",
-      "images": []
+      "images": [
+        "images/jade-swallow/01.jpg",
+        "images/jade-swallow/02.jpg",
+        "images/jade-swallow/03.jpg",
+        "images/jade-swallow/04.jpg",
+        "images/jade-swallow/05.jpg",
+        "images/jade-swallow/06.jpg"
+      ]
     }
   ]
 }

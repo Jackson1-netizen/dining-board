@@ -109,6 +109,16 @@ function card(item, large) {
   button.dataset.id = item.id;
   button.setAttribute("aria-haspopup", "dialog");
 
+  const images = Array.isArray(item.images) ? item.images.map(safeUrl).filter(Boolean) : [];
+  if (images.length) {
+    const thumb = document.createElement("img");
+    thumb.className = "card-thumb";
+    thumb.src = images[0];
+    thumb.alt = item.name;
+    thumb.loading = "lazy";
+    button.append(thumb);
+  }
+
   const top = el("div", "card-top");
   top.append(el("span", "cuisine", item.cuisine || "中菜"));
   top.append(el("span", "price", item.priceBand || "—"));
@@ -190,6 +200,24 @@ function openDetail(item) {
   }
   detailBody.append(facts);
 
+  const images = Array.isArray(item.images) ? item.images.map(safeUrl).filter(Boolean) : [];
+  if (images.length) {
+    const block = el("div", "block");
+    block.append(el("h4", null, "食物相"));
+    const photos = el("div", "photos");
+    for (const src of images) {
+      const img = document.createElement("img");
+      img.src = src;
+      img.alt = item.name;
+      img.loading = "lazy";
+      photos.append(img);
+    }
+    block.append(photos);
+    detailBody.append(block);
+  } else {
+    addBlock(detailBody, "食物相", "暫時未有食物相。");
+  }
+
   addBlock(detailBody, "點解推薦", item.why);
   addBlock(detailBody, "氣氛", item.vibe);
   addBlock(detailBody, "幾時去", item.whenToGo);
@@ -206,21 +234,6 @@ function openDetail(item) {
     detailBody.append(block);
   } else {
     addBlock(detailBody, "可以點", "菜單未有記錄，問店員當日推薦。");
-  }
-
-  const images = Array.isArray(item.images) ? item.images.map(safeUrl).filter(Boolean) : [];
-  if (images.length) {
-    const block = el("div", "block");
-    block.append(el("h4", null, "相片"));
-    const photos = el("div", "photos");
-    for (const src of images) {
-      const img = document.createElement("img");
-      img.src = src;
-      img.alt = item.name;
-      photos.append(img);
-    }
-    block.append(photos);
-    detailBody.append(block);
   }
 
   const actions = el("div", "actions");
