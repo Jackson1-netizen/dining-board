@@ -4,6 +4,186 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "sixteen-h-murrumbeena",
+      "date": "2026-09-24",
+      "name": "Sixteen H 食六合",
+      "cuisine": "馬來西亞／中菜",
+      "area": "Murrumbeena",
+      "address": "440 Neerim Rd, Murrumbeena VIC 3163",
+      "priceBand": "$$",
+      "hook": "Murumbeena 站對面，馬來面＋手工餃子，份量足又抵。",
+      "vibe": "舒服家庭風，唔使打扮；適合慢慢傾偈同埋一齊分享。",
+      "partySize": "2–6 人",
+      "dishes": [
+        "Wan Tan Hor Fun",
+        "Braised Beef Brisket Noodles",
+        "Roti with Satay or Curry Sauce",
+        "Prawn Dumpling (3pcs)",
+        "Chilli Oil Wontons",
+        "Hainanese Chicken Rice",
+        "Curry / Combo Laksa"
+      ],
+      "howToOrder": "堂食為主，近 Murrumbeena 站。想試馬來風味先叫 Wan Tan Hor Fun 或者 curry laksa；點心／餃子可以一齊分享。官網 16h.com.au 有菜單概覽，電話 03 9569 1668。",
+      "whenToGo": "星期二至日午餐或晚餐。星期一休息。週末同飯市可能要等位。",
+      "hours": "星期二至四 11:30–15:00、17:00–21:00；星期五至日 11:30–21:00；星期一休息（官網 16h.com.au）。",
+      "specials": "有時有現金午餐特價（約 A$10.80 起，評論提及）；EatClub 間中有折扣。以到店為準。",
+      "why": "離 Huntingdale 好近（Murrumbeena 一站）；馬來面同粵式點心齊；Ozseer 實測份量足、價錢公道；你之前已確認呢間係馬來西亞菜。",
+      "sourceUrl": "https://ozseer.com/sixteen-h-murrumbeena/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sixteen%20H%20Murrumbeena%20440%20Neerim%20Rd",
+      "images": [
+        "images/sixteen-h/01.jpg",
+        "images/sixteen-h/02.jpg",
+        "images/sixteen-h/03.jpg",
+        "images/sixteen-h/04.jpg",
+        "images/sixteen-h/05.jpg",
+        "images/sixteen-h/06.jpg",
+        "images/sixteen-h/07.jpg",
+        "images/sixteen-h/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Roti with Satay or Curry Sauce",
+          "price": "A$8.80",
+          "note": "Quandoo menu highlight"
+        },
+        {
+          "name": "Wan Tan Hor Fun",
+          "price": "A$18.80",
+          "note": "Ozseer review"
+        },
+        {
+          "name": "Braised Beef Brisket Noodles",
+          "price": "A$17.50",
+          "note": "Ozseer review"
+        },
+        {
+          "name": "Prawn Dumpling (3pcs)",
+          "price": "A$12.90",
+          "note": "EatClub listed"
+        },
+        {
+          "name": "Pork Siu Mai (3pcs)",
+          "price": "A$12.90",
+          "note": "EatClub listed"
+        },
+        {
+          "name": "Chilli Oil Wontons (10pcs)",
+          "price": "A$18.90",
+          "note": "EatClub；中辣"
+        },
+        {
+          "name": "San Choi Bao - Chicken",
+          "price": "A$12.90",
+          "note": "EatClub listed"
+        },
+        {
+          "name": "Prawn and Pork Wonton Soup",
+          "price": "A$12.90",
+          "note": "EatClub listed"
+        },
+        {
+          "name": "Hainanese Chicken Rice",
+          "price": "問價",
+          "note": "官網有菜名，未見可靠公開價"
+        },
+        {
+          "name": "Curry Laksa / Combo Laksa",
+          "price": "問價",
+          "note": "評論常推；未見可靠公開價"
+        }
+      ],
+      "menuPriceNote": "價錢參考：Ozseer 實測（面類）、Quandoo／EatClub 公開價。堂食可能唔同；Laksa／海南雞飯未見可靠公開價，標問價。以到店為準。"
+    },
+    {
+      "id": "dodee-paidang-glen-waverley",
+      "date": "2026-09-24",
+      "name": "Dodee Paidang Glen Waverley",
+      "cuisine": "泰式街頭／泰菜",
+      "area": "Glen Waverley",
+      "address": "100 Kingsway, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "招牌冬陰功麵 7 級辣，東南區最易去到嘅泰式街味。",
+      "vibe": "街市能量、communal 枱、節奏快；嚟食味唔係嚟睇裝修。",
+      "partySize": "2–6 人",
+      "dishes": [
+        "Dodee Noodle Soup Variety / Tom Yum noodles",
+        "Pad Thai",
+        "Pad See Ew",
+        "Som Tum / Papaya Salad",
+        "Crispy Pork Belly with Chinese Broccoli",
+        "Tom Yum Prawns",
+        "Dodee Whole Fish"
+      ],
+      "howToOrder": "堂食或外送。第一次試招牌 DoDee Variety／Tom Yum 麵，辣度由 0 起跳，Super Nova 係第 7 級。想淡啲可以 Pad Thai。電話 1300 363 336；官網 dodeepaidang.com。",
+      "whenToGo": "午餐或晚餐。尖峰可能要等位或訂位；停車位緊張時預留時間。",
+      "hours": "大致午餐約 11:30–15:00、晚餐約 17:00–21:30／22:00（視日子）；DoorDash／公開列表顯示分日唔同，出發前用 Google Maps 再對一次。",
+      "specials": "有評論提到午餐 deal 約 A$12.90（份量偏細）；以到店為準。",
+      "why": "同今日馬來菜唔同菜系；Glen Waverley 方便；Urban List／Asian Inspirations 都推招牌冬陰功麵同辣度可調，適合想食正宗泰式街味。",
+      "sourceUrl": "https://www.theurbanlist.com/melbourne/a-list/box-hill-central-restaurants",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dodee%20Paidang%20Glen%20Waverley%20100%20Kingsway",
+      "images": [
+        "images/dodee-paidang-gw/01.jpg",
+        "images/dodee-paidang-gw/02.jpg",
+        "images/dodee-paidang-gw/03.jpg",
+        "images/dodee-paidang-gw/04.jpg",
+        "images/dodee-paidang-gw/05.jpg",
+        "images/dodee-paidang-gw/06.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Dodee Noodle Soup Variety",
+          "price": "A$22.90",
+          "note": "Doodel listing"
+        },
+        {
+          "name": "Dodee Noodle Soup (levels 0–3)",
+          "price": "A$21.90",
+          "note": "Doodel；更高辣度另算"
+        },
+        {
+          "name": "Dodee Noodle Soup Moo-Num",
+          "price": "A$22.90",
+          "note": "Doodel"
+        },
+        {
+          "name": "Pad Thai",
+          "price": "From A$24.90",
+          "note": "Doodel；視配料"
+        },
+        {
+          "name": "Pad See Ew",
+          "price": "From A$24.90",
+          "note": "Doodel"
+        },
+        {
+          "name": "Dodee Papaya Salad (Som Tum)",
+          "price": "From A$19.90",
+          "note": "Doodel"
+        },
+        {
+          "name": "Crispy Pork Belly with Chinese Broccoli",
+          "price": "A$28.90",
+          "note": "Doodel"
+        },
+        {
+          "name": "Tom Yum Prawns (clear soup)",
+          "price": "A$27.90",
+          "note": "DoorDash Glen Waverley featured"
+        },
+        {
+          "name": "Dodee Whole Fish",
+          "price": "A$48.90",
+          "note": "Doodel"
+        },
+        {
+          "name": "Dessert & Drink",
+          "price": "From A$11.90",
+          "note": "Doodel"
+        }
+      ],
+      "menuPriceNote": "價錢參考：Doodel 同 DoorDash（Glen Waverley）外送／預點價。堂食可能唔同，以到店為準。來源文章：Urban List（Box Hill 同分店概念）＋ Asian Inspirations。"
+    },
+    {
       "id": "kitchen-783-yumcha-cafe",
       "date": "2026-09-23",
       "name": "Kitchen 783 YumCha Cafe",
