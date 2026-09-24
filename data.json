@@ -106,17 +106,16 @@
       "vibe": "街市能量、communal 枱、節奏快；嚟食味唔係嚟睇裝修。",
       "partySize": "2–6 人",
       "dishes": [
-        "Dodee Noodle Soup Variety / Tom Yum noodles",
+        "DoDee Devil / Tom Yum noodles",
+        "DoDee Island seafood noodles",
         "Pad Thai",
-        "Pad See Ew",
-        "Som Tum / Papaya Salad",
-        "Crispy Pork Belly with Chinese Broccoli",
-        "Tom Yum Prawns",
-        "Dodee Whole Fish"
+        "Green Curry",
+        "Chilli & Basil Sauce",
+        "Soft cake Thai tea"
       ],
       "howToOrder": "堂食或外送。第一次試招牌 DoDee Variety／Tom Yum 麵，辣度由 0 起跳，Super Nova 係第 7 級。想淡啲可以 Pad Thai。電話 1300 363 336；官網 dodeepaidang.com。",
       "whenToGo": "午餐或晚餐。尖峰可能要等位或訂位；停車位緊張時預留時間。",
-      "hours": "大致午餐約 11:30–15:00、晚餐約 17:00–21:30／22:00（視日子）；DoorDash／公開列表顯示分日唔同，出發前用 Google Maps 再對一次。",
+      "hours": "今日公開外送顯示約 11:30–14:40、17:00–21:10（DoorDash Glen Waverley）。分日可能唔同，出發前用 Google Maps 再對一次。",
       "specials": "有評論提到午餐 deal 約 A$12.90（份量偏細）；以到店為準。",
       "why": "同今日馬來菜唔同菜系；Glen Waverley 方便；Urban List／Asian Inspirations 都推招牌冬陰功麵同辣度可調，適合想食正宗泰式街味。",
       "sourceUrl": "https://www.theurbanlist.com/melbourne/a-list/box-hill-central-restaurants",
@@ -131,57 +130,47 @@
       ],
       "menuItems": [
         {
-          "name": "Dodee Noodle Soup Variety",
-          "price": "A$22.90",
-          "note": "Doodel listing"
+          "name": "DoDee Devil (Tom Yum Noodles, spicy level 2)",
+          "price": "A$17.90",
+          "note": "DoorDash；豬骨湯底＋魚蛋＋脆雲吞"
         },
         {
-          "name": "Dodee Noodle Soup (levels 0–3)",
-          "price": "A$21.90",
-          "note": "Doodel；更高辣度另算"
-        },
-        {
-          "name": "Dodee Noodle Soup Moo-Num",
-          "price": "A$22.90",
-          "note": "Doodel"
+          "name": "DoDee Island (Tom Yum Noodles)",
+          "price": "A$20.90",
+          "note": "DoorDash；魚／蝦／魷魚"
         },
         {
           "name": "Pad Thai",
-          "price": "From A$24.90",
-          "note": "Doodel；視配料"
+          "price": "A$24.90",
+          "note": "DoorDash delivery"
         },
         {
-          "name": "Pad See Ew",
-          "price": "From A$24.90",
-          "note": "Doodel"
+          "name": "Green Curry",
+          "price": "A$24.90",
+          "note": "DoorDash；椰汁青咖喱"
         },
         {
-          "name": "Dodee Papaya Salad (Som Tum)",
-          "price": "From A$19.90",
-          "note": "Doodel"
+          "name": "Chilli & Basil Sauce",
+          "price": "A$24.90",
+          "note": "DoorDash；金不換炒"
         },
         {
-          "name": "Crispy Pork Belly with Chinese Broccoli",
-          "price": "A$28.90",
-          "note": "Doodel"
+          "name": "Soft cake Thai tea",
+          "price": "A$11.90",
+          "note": "DoorDash dessert"
         },
         {
-          "name": "Tom Yum Prawns (clear soup)",
-          "price": "A$27.90",
-          "note": "DoorDash Glen Waverley featured"
+          "name": "Coconut Juice",
+          "price": "A$11.90",
+          "note": "DoorDash drinks"
         },
         {
-          "name": "Dodee Whole Fish",
-          "price": "A$48.90",
-          "note": "Doodel"
-        },
-        {
-          "name": "Dessert & Drink",
-          "price": "From A$11.90",
-          "note": "Doodel"
+          "name": "Yok Lor",
+          "price": "A$8.90",
+          "note": "DoorDash；泰式黑咖啡加奶"
         }
       ],
-      "menuPriceNote": "價錢參考：Doodel 同 DoorDash（Glen Waverley）外送／預點價。堂食可能唔同，以到店為準。來源文章：Urban List（Box Hill 同分店概念）＋ Asian Inspirations。"
+      "menuPriceNote": "價錢參考：DoorDash Dodee Paidang Glen Waverley 外送價。外送同堂食／自取可能唔同，以到店為準。來源：Urban List＋Asian Inspirations。"
     },
     {
       "id": "kitchen-783-yumcha-cafe",
