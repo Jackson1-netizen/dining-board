@@ -4,6 +4,179 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "chef-wong-huntingdale",
+      "date": "2026-09-25",
+      "name": "Chef Wong Huntingdale",
+      "cuisine": "粵式點心／中菜",
+      "area": "Huntingdale",
+      "address": "284A Huntingdale Road, Huntingdale VIC 3166",
+      "priceBand": "$$",
+      "hook": "The Age 推介：墨爾本最講究嘅郊區飲茶之一，按件叫點心，全部餃子都唔使過 A$4。",
+      "vibe": "細舖、熱鬧、效率高又親切；12 張枱，嚟食手工餃唔係嚟睇裝修。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "香菜燒鴨餃 Coriander & roast duck dumplings",
+        "韭菜鮮蝦餃 Prawn & chive dumplings",
+        "帶子蝦餃 Scallop & prawn dumplings",
+        "叉燒腸粉 Steamed rice rolls w/ BBQ pork",
+        "港式蛋撻 Egg tart",
+        "蝦多士 Prawn toast"
+      ],
+      "howToOrder": "堂食用一頁紙＋筆按件／按籠勾數。餃子多數按件，貴唔過 A$4。亦可買急凍餃帶回家。訂位電話 0423 051 885。官網 chefwong.com.au。",
+      "whenToGo": "朝早／brunch 最佳。今日（五）開到晚；週末早啲到，12 張枱好快滿。",
+      "hours": "星期一 11:00–15:00；星期二至四 11:00–16:00；星期五 11:00–20:30；星期六 10:30–15:30；星期日 10:30–15:00（官網 chefwong.com.au/contact）。",
+      "specials": "有急凍餃零售；Hawthorn East／Point Cook 亦有分店，呢間係 Huntingdale 總店感覺。",
+      "why": "就喺你屋企附近（Huntingdale Rd）；The Age Good Food 2025 大推手工餃同蛋撻；同今日越南粉係兩個唔同菜系。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/is-this-suburban-yum-cha-spot-serving-melbourne-s-best-dim-sum-20250313-p5lja0.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chef%20Wong%20284A%20Huntingdale%20Road%20Huntingdale",
+      "images": [
+        "images/chef-wong/01.jpg",
+        "images/chef-wong/02.jpg",
+        "images/chef-wong/03.jpg",
+        "images/chef-wong/04.jpg",
+        "images/chef-wong/05.jpg",
+        "images/chef-wong/06.jpg",
+        "images/chef-wong/07.jpg",
+        "images/chef-wong/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "香菜燒鴨餃 Coriander & roast duck dumpling",
+          "price": "A$2.90",
+          "note": "The Age 堂食按件價"
+        },
+        {
+          "name": "韭菜鮮蝦餃 Prawn & chive dumpling",
+          "price": "A$3.30",
+          "note": "The Age 堂食按件價"
+        },
+        {
+          "name": "叉燒／燒肉腸粉 Steamed rice rolls",
+          "price": "A$10",
+          "note": "The Age；官網 PDF 腸粉約 A$6–9"
+        },
+        {
+          "name": "港式蛋撻 Egg tart",
+          "price": "A$3.90",
+          "note": "The Age 堂食；PDF 兩件 A$3.20"
+        },
+        {
+          "name": "燒賣 Pork & prawn siu mai (3pcs)",
+          "price": "A$7.80",
+          "note": "官網 Yum Cha PDF Dec 2023"
+        },
+        {
+          "name": "鮮蝦餃 Prawn dumplings (3pcs)",
+          "price": "A$8.40",
+          "note": "官網 PDF"
+        },
+        {
+          "name": "帶子蝦餃 Scallop & prawn (3pcs)",
+          "price": "A$8.40",
+          "note": "官網 PDF"
+        },
+        {
+          "name": "叉燒包 BBQ pork bun (2pcs)",
+          "price": "A$6.40",
+          "note": "官網 PDF"
+        },
+        {
+          "name": "鳳爪 Phoenix claws (5pcs)",
+          "price": "A$8.50",
+          "note": "官網 PDF"
+        },
+        {
+          "name": "小籠包 Xiao long bao (3pcs)",
+          "price": "A$7.20",
+          "note": "官網 PDF"
+        }
+      ],
+      "menuPriceNote": "堂食按件價參考 The Age（2025-03）；籠／套裝價參考官網 Yum Cha Menu Book Dec 2023 PDF。堂食同急凍零售／外送可能唔同，以到店為準。"
+    },
+    {
+      "id": "pho-hung-vuong-clayton",
+      "date": "2026-09-25",
+      "name": "Pho Hung Vuong Saigon (Clayton)",
+      "cuisine": "越南粉／越菜",
+      "area": "Clayton",
+      "address": "346A Clayton Road, Clayton VIC 3168",
+      "priceBand": "$",
+      "hook": "Springvale 老字號分店：清湯牛肉粉、Bun Bo Hue、豬扒碎飯，份量大又抵。",
+      "vibe": "寬敞家庭舖、牆上面單點餐、節奏快；嚟食湯底唔係嚟傾裝修。",
+      "partySize": "1–6 人",
+      "dishes": [
+        "Beef Special pho（稀牛腩筋肚腸）",
+        "Chicken Special pho",
+        "Bun Bo Hue",
+        "Rice and pork chop（碎飯豬扒）",
+        "Fried donuts（油條）",
+        "Three Colours drink"
+      ],
+      "howToOrder": "睇牆上面單；唔清楚就叫 Medium Beef Special。可加牛丸 A$5。電話 +61 478 579 368。注意：門口標 Cash only。",
+      "whenToGo": "午餐或晚餐都得。星期三多數休息（見營業時間）；尖峰可能要等。",
+      "hours": "星期四至星期二 10:00–21:00；星期三休息（Apple Maps／Chiefeater）。門口貼紙寫 Open 7 Days 10:00–21:00，出發前用 Google Maps 再對一次。",
+      "specials": "Cash only（門口紅字）；免費自助茶；冰茶約 A$1。",
+      "why": "離 Huntingdale／Clayton 好近；Ozseer 寫 Springvale 系最好飲嘅牛肉粉之一，Clayton 舖大好多；同今日粵式點心菜系完全唔同。",
+      "sourceUrl": "https://ozseer.com/pho-hung-vuong-clayton-melbourne-australia-from-springvale-to-clayton-in-a-much-larger-floorspace-and-three-additional-menu-items/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pho%20Hung%20Vuong%20346A%20Clayton%20Rd%20Clayton",
+      "images": [
+        "images/pho-hung-vuong-clayton/01.jpg",
+        "images/pho-hung-vuong-clayton/02.jpg",
+        "images/pho-hung-vuong-clayton/03.jpg",
+        "images/pho-hung-vuong-clayton/04.jpg",
+        "images/pho-hung-vuong-clayton/05.jpg",
+        "images/pho-hung-vuong-clayton/06.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Pho (any topping) — Small",
+          "price": "A$14",
+          "note": "Ozseer Clayton 實測"
+        },
+        {
+          "name": "Pho — Medium",
+          "price": "A$15",
+          "note": "Ozseer；份量唔同主要係粉同湯"
+        },
+        {
+          "name": "Pho — Large",
+          "price": "A$16",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Bun Bo Hue",
+          "price": "A$16",
+          "note": "Ozseer Clayton 加菜"
+        },
+        {
+          "name": "Rice and pork chop",
+          "price": "A$15",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Fried donuts",
+          "price": "A$5",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Extra beef balls",
+          "price": "A$5",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Drinks (coffee／Three Colours 等)",
+          "price": "約 A$5",
+          "note": "Ozseer；軟飲另有約 A$3 社區站價"
+        },
+        {
+          "name": "Iced tea",
+          "price": "約 A$1",
+          "note": "Ozseer"
+        }
+      ],
+      "menuPriceNote": "價錢參考：Ozseer Clayton 實測（約 2022–2023）。每年或有調整；社區站多數菜價空白，唔亂估。以到店牆面單為準。Cash only。"
+    },
+    {
       "id": "sixteen-h-murrumbeena",
       "date": "2026-09-24",
       "name": "Sixteen H 食六合",
