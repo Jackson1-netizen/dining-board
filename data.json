@@ -4,6 +4,187 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "dannys-kopitiam-gw",
+      "date": "2026-09-26",
+      "name": "Danny's Kopitiam",
+      "cuisine": "馬來西亞／Kopitiam",
+      "area": "Glen Waverley",
+      "address": "264 Blackburn Road, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "The Age Good Food Guide Critics' Pick：七十歲師傅一鑊炒出墨爾本最有心嘅炒貴刁。",
+      "vibe": "細舖、櫃檯點餐、約 32 座位、無酒牌；嚟食鑊氣唔係嚟睇裝修。",
+      "partySize": "1–4 人",
+      "dishes": [
+        "Char Kuey Teow",
+        "Beef Rendang",
+        "Roti Canai",
+        "Kampung Fried Rice",
+        "Curry Chicken Kapitan",
+        "Assam Laksa",
+        "Mee Pok"
+      ],
+      "howToOrder": "堂食用櫃檯點餐。第一次必試 Char Kuey Teow；想配菜叫 Beef Rendang 或 Kapitan＋Roti Canai。自取／外送可睇官網 dannyskopitiam.com.au。電話 (03) 9886 7699。",
+      "whenToGo": "今日（六）午餐 11:00–14:00 或晚餐 17:00–20:00。星期一／二休息；星期日只開午餐。尖峰早啲到。",
+      "hours": "星期三至六 11:00–14:00、17:00–20:00；星期日 11:00–14:00（只開午餐）；星期一、二休息（官網 dannyskopitiam.com.au）。",
+      "specials": "黑板有時有甜品（椰汁西米露等）；無酒牌。",
+      "why": "東南區方便；The Age／SMH Critics' Pick 大推 wok hei 同牛肋 Rendang；同今日泰菜係兩個唔同菜系。",
+      "sourceUrl": "https://www.smh.com.au/goodfood/vic-good-food-guide/danny-s-kopitiam-20241106-p5koej.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Danny%27s%20Kopitiam%20264%20Blackburn%20Rd%20Glen%20Waverley",
+      "images": [
+        "images/dannys-kopitiam/01.jpg",
+        "images/dannys-kopitiam/02.jpg",
+        "images/dannys-kopitiam/03.jpg",
+        "images/dannys-kopitiam/04.jpg",
+        "images/dannys-kopitiam/05.jpg",
+        "images/dannys-kopitiam/06.jpg",
+        "images/dannys-kopitiam/07.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Roti Canai",
+          "price": "A$8.00",
+          "note": "官網；plain A$7"
+        },
+        {
+          "name": "Char Kuey Teow",
+          "price": "A$17.50",
+          "note": "官網；Age 推招牌"
+        },
+        {
+          "name": "Kampung Fried Rice",
+          "price": "A$16.00",
+          "note": "官網"
+        },
+        {
+          "name": "Assam Laksa",
+          "price": "A$16.00",
+          "note": "官網"
+        },
+        {
+          "name": "Curry Laksa Kopitiam",
+          "price": "A$16.00",
+          "note": "官網"
+        },
+        {
+          "name": "Mee Pok (Bak Chor Mee)",
+          "price": "A$16.00",
+          "note": "官網"
+        },
+        {
+          "name": "Beef Rendang",
+          "price": "A$23.00",
+          "note": "官網"
+        },
+        {
+          "name": "Curry Chicken Kapitan",
+          "price": "A$23.00",
+          "note": "官網"
+        },
+        {
+          "name": "Combination Hor Fun",
+          "price": "A$19.50",
+          "note": "官網"
+        },
+        {
+          "name": "Rojak",
+          "price": "A$16.00",
+          "note": "官網"
+        }
+      ],
+      "menuPriceNote": "價錢參考官網菜單 dannyskopitiam.com.au/menu（2026-09-26）。Sweet & Sour Fork／舊評論堂食價可能略低，以官網／到店為準。"
+    },
+    {
+      "id": "teerak-thai-oakleigh-east",
+      "date": "2026-09-26",
+      "name": "Teerak Thai",
+      "cuisine": "泰菜",
+      "area": "Oakleigh East",
+      "address": "186 Huntingdale Road, Oakleigh East VIC 3166",
+      "priceBand": "$$",
+      "hook": "Huntingdale Rd 街邊泰菜：軟殼蟹咖喱、Pad Thai、正宗辣度，離你家幾分鐘車程。",
+      "vibe": "細舖有 vintage 擺設、親切；適合 2–4 人分享炒菜同咖喱。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Pad Thai",
+        "Pu Nim Pad Pong Kari (soft-shell crab curry)",
+        "Pad Grapow",
+        "Green Curry",
+        "Red Duck Curry",
+        "Satay Chicken",
+        "Tom Yum Soup"
+      ],
+      "howToOrder": "堂食或 Uber Eats／官網外送。想試招牌可叫軟殼蟹咖喱＋Pad Thai；要辣就講清楚。電話 03 9543 6550。",
+      "whenToGo": "今日（六）午餐 11:00–15:00 或晚餐 16:30–21:30。星期一／二休息。",
+      "hours": "星期三、四 16:30–21:30；星期五至日 11:00–15:00、16:30–21:30；星期一、二休息（Uber Eats store hours 2026-09-26）。",
+      "specials": "評論常推 soft-shell crab 同辣度可調；人均約 A$20–40。",
+      "why": "就喺 Huntingdale Rd，近你家；同今日馬來 Kopitiam 菜系完全唔同；Uber Eats 高分、本地評價穩。",
+      "sourceUrl": "https://www.ubereats.com/au/store/teerak-thai/fp38qHQaSKOnz_LIsjeE8A",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teerak%20Thai%20186%20Huntingdale%20Rd%20Oakleigh%20East",
+      "images": [
+        "images/teerak-thai/01.jpg",
+        "images/teerak-thai/02.jpg",
+        "images/teerak-thai/03.jpg",
+        "images/teerak-thai/04.jpg",
+        "images/teerak-thai/05.jpg",
+        "images/teerak-thai/06.jpg",
+        "images/teerak-thai/07.jpg",
+        "images/teerak-thai/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Satay Chicken",
+          "price": "A$17.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Grilled Pork Skewers (Moo Ping)",
+          "price": "A$17.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Tom Yum Soup",
+          "price": "A$13.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pad Thai",
+          "price": "A$19.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pad See Ew",
+          "price": "A$19.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pad Grapow Stir Fried",
+          "price": "A$19.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Green Curry (GF)",
+          "price": "A$20.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Red Duck Curry",
+          "price": "A$26.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pineapple Fried Rice",
+          "price": "A$23.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pu Nim Pad Pong Kari (Soft Shell Crab Curry)",
+          "price": "A$34.90",
+          "note": "Uber Eats；招牌軟殼蟹"
+        }
+      ],
+      "menuPriceNote": "價錢參考 Uber Eats Teerak Thai pickup／外送價（2026-09-26）。堂食可能唔同，以到店為準。"
+    },
+    {
       "id": "chef-wong-huntingdale",
       "date": "2026-09-25",
       "name": "Chef Wong Huntingdale",
