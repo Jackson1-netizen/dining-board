@@ -4,6 +4,208 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "papas-korean-clayton",
+      "date": "2026-09-27",
+      "name": "Papa's Korean Chicken Restaurant",
+      "cuisine": "韓菜／韓式炸雞",
+      "area": "Clayton",
+      "address": "172 Clayton Road, Clayton VIC 3168",
+      "priceBand": "$$",
+      "hook": "Clayton Rd 學生區韓式炸雞：Sweet Soy Garlic 脆雞＋炸醬拉麵，Ozseer 大推，人均親民。",
+      "vibe": "街角細舖、QR 點餐、自助水／甜玉米茶；家庭式、唔花巧，嚟食炸雞同安慰菜。",
+      "partySize": "1–4 人",
+      "dishes": [
+        "Sweet Soy Garlic Fried Chicken (Boneless)",
+        "Jajang Ramen",
+        "Chips (seaweed seasoning)",
+        "Spicy / Yangnyeom Fried Chicken",
+        "Bibimbap",
+        "Spicy Beef & Vegetable Soup",
+        "Fried Seaweed Rolls"
+      ],
+      "howToOrder": "堂食掃枱頭 QR code 落單；自助水同甜玉米茶。第一次必試 Sweet Soy Garlic 炸雞（骨／無骨）＋Chips；想配麵叫 Jajang Ramen。電話 (03) 8782 4262。DoorDash 有外送。",
+      "whenToGo": "今日（日）休息——改去星期一至六 11:30–22:00。週末／晚上泊車難，早啲到或泊遠少少行入去。",
+      "hours": "星期一至六 11:30–22:00；星期日休息（店內告示「We are closed every Sunday」；Restaurant Guru／Curateria 2026 一致）。",
+      "specials": "餐後有時送蜜柑；牆上提醒廚師英語有限請耐心；人均約 A$20–40。",
+      "why": "Clayton／Monash 一帶方便；Ozseer 推 Sweet Soy Garlic 炸雞同 Jajang Ramen；同今日日本居酒屋係兩個唔同菜系。今日星期日休息，記住改平日去。",
+      "sourceUrl": "https://ozseer.com/papas-korean-chicken-restaurant/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papa%27s%20Korean%20Chicken%20Restaurant%20172%20Clayton%20Rd%20Clayton",
+      "images": [
+        "images/papas-korean/01.jpg",
+        "images/papas-korean/02.jpg",
+        "images/papas-korean/03.jpg",
+        "images/papas-korean/04.jpg",
+        "images/papas-korean/05.jpg",
+        "images/papas-korean/06.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Sweet Soy Garlic Fried Chicken (Boneless)",
+          "price": "A$22.00",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Soy Garlic Fried Chicken (Half)",
+          "price": "A$21.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Soy Garlic Fried Chicken (Whole)",
+          "price": "A$40.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Original Fried Chicken (Half)",
+          "price": "A$20.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Chips",
+          "price": "A$7.00",
+          "note": "Ozseer／letterboard"
+        },
+        {
+          "name": "Jajang Ramen",
+          "price": "A$17.00",
+          "note": "Ozseer"
+        },
+        {
+          "name": "Korean Spicy Ramen",
+          "price": "A$15.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Bibimbap",
+          "price": "A$19.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Spicy Beef & Vegetable Soup",
+          "price": "A$22.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Ginseng Chicken Soup",
+          "price": "A$28.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Fried Seaweed Rolls",
+          "price": "A$10.00",
+          "note": "letterboard"
+        },
+        {
+          "name": "Korean Corn Dog",
+          "price": "A$8.00",
+          "note": "letterboard"
+        }
+      ],
+      "menuPriceNote": "價錢以店內 letterboard（Wheree 相）同 Ozseer（2025-08）為準：Soy Garlic Half A$21／Whole A$40、Chips A$7、Jajang Ramen A$17、Ozseer boneless Sweet Soy Garlic A$22。舊紙餐牌價較低已略過。DoorDash 即時價未能 scrape。"
+    },
+    {
+      "id": "matsuki-izakaya-mw",
+      "date": "2026-09-27",
+      "name": "Matsuki Izakaya",
+      "cuisine": "日本／居酒屋",
+      "area": "Mount Waverley",
+      "address": "24 Hamilton Place, Mount Waverley VIC 3149",
+      "priceBand": "$$",
+      "hook": "Mount Waverley 居酒屋：Wagyu Sukiyaki、壽司卷、拉麵丼飯齊全；週末冇位要訂枱。",
+      "vibe": "細舖、日式自然風＋燈籠；QR 點餐；適合 2–4 人分享小食同壽喜燒。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Wagyu Sukiyaki",
+        "Matsuki Special Roll",
+        "Matsuki Crispy Salmon",
+        "Salmon Sashimi",
+        "Pork Ramen",
+        "Teriyaki Salmon Don",
+        "Green Tea Mochi"
+      ],
+      "howToOrder": "建議訂枱（週末 walk-in 常被拒）。堂食掃 QR；想試招牌叫 Wagyu Sukiyaki＋Udon，或者 Special Roll＋Crispy Salmon。現金付有約 5% off（Ozseer）。電話 0434 948 777。Uber Eats 有外送。",
+      "whenToGo": "今日（日）開：午餐 11:30–14:30 或晚餐 17:30–21:30。星期二休息。晚餐建議訂位。",
+      "hours": "星期一、三至日 11:30–14:30、17:30–21:30；星期二休息（官網 matsukiizakaya.gotoeat.net）。",
+      "specials": "現金約 5% 折扣（Ozseer）；Green Tea Mochi 好評；人均約 A$40–50（分享）。",
+      "why": "東南 Mount Waverley 方便；Ozseer 推 Sukiyaki 同 Special Roll；同今日韓式炸雞菜系完全唔同；今日星期日有開。",
+      "sourceUrl": "https://ozseer.com/matsuki-izakaya-mount-waverley/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matsuki%20Izakaya%2024%20Hamilton%20Place%20Mount%20Waverley",
+      "images": [
+        "images/matsuki-izakaya/01.jpg",
+        "images/matsuki-izakaya/02.jpg",
+        "images/matsuki-izakaya/03.jpg",
+        "images/matsuki-izakaya/04.jpg",
+        "images/matsuki-izakaya/05.jpg",
+        "images/matsuki-izakaya/06.jpg",
+        "images/matsuki-izakaya/07.jpg",
+        "images/matsuki-izakaya/08.jpg",
+        "images/matsuki-izakaya/09.jpg",
+        "images/matsuki-izakaya/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Wagyu Sukiyaki",
+          "price": "A$38.90",
+          "note": "Ozseer 堂食"
+        },
+        {
+          "name": "Udon (with Sukiyaki)",
+          "price": "A$4.90",
+          "note": "Ozseer 堂食"
+        },
+        {
+          "name": "Matsuki Special Roll (8 pcs)",
+          "price": "A$18.90",
+          "note": "Ozseer 堂食"
+        },
+        {
+          "name": "Matsuki Crispy Salmon",
+          "price": "A$17.49",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Salmon Sashimi",
+          "price": "A$16.50",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Pork Ramen",
+          "price": "A$23.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Teriyaki Salmon Don",
+          "price": "A$23.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Wagyu Yakiniku Beef Don",
+          "price": "A$22.50",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Karaage Chicken",
+          "price": "A$9.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Green Tea Mochi",
+          "price": "A$7.50",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Wagyu Teriyaki Beef Steak",
+          "price": "A$36.80",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Takoyaki",
+          "price": "A$8.90",
+          "note": "Uber Eats"
+        }
+      ],
+      "menuPriceNote": "堂食價參考 Ozseer（2024-11）：Wagyu Sukiyaki A$38.90、Udon A$4.90、Special Roll A$18.90。其餘為 Uber Eats PICKUP 即時價（2026-09-27），外送／堂食可能略有差別。"
+    },
+    {
       "id": "dannys-kopitiam-gw",
       "date": "2026-09-26",
       "name": "Danny's Kopitiam",
