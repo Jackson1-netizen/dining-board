@@ -4,6 +4,240 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "tang-glen-waverley",
+      "date": "2026-09-28",
+      "name": "Tang 弄唐",
+      "cuisine": "中菜／上海麵點",
+      "area": "Glen Waverley",
+      "address": "23 Railway Parade North, Glen Waverley VIC 3150",
+      "priceBand": "$",
+      "hook": "Glen 火車站北面上海麵點：蔥油麵、雲吞湯、鍋貼；Uber 最貴湯麵都係 A$16.90 級，抵食。",
+      "vibe": "現代細舖、自助螢幕落單／前台；自己攞水同餐具；快節奏、學生／附近上班族。",
+      "partySize": "1–3 人",
+      "dishes": [
+        "Specialty Wonton Soup",
+        "Congyou Noodles",
+        "Signature Beef Soup Noodles",
+        "Signature Pan Fried Dumplings",
+        "Scallion Pancake",
+        "Steamed Mini Pork Buns",
+        "Yangchuan Noodles",
+        "Silky Tofu Pudding"
+      ],
+      "howToOrder": "堂食建議用前台自助螢幕（有相、易睇）或櫃枱；自助水同調味。第一次可試 Specialty Wonton Soup＋Congyou／牛肉湯麵，加鍋貼或蔥油餅。電話 listing 常列 (03) 9887 9191；Uber Eats 有外送／自取。",
+      "whenToGo": "今日（一）休息——改去星期二至日 07:30–14:30 或 16:30–19:30。午餐／早茶時段人多，Glen 站旁方便轉車。",
+      "hours": "星期一休息；星期二至日 07:30–14:30、16:30–19:30（Uber Eats getStoreV1／JSON-LD 2026-09-28）。部分舊 listing 寫午餐至約 3pm、晚餐至約 8pm——以 UE 為準。",
+      "specials": "價位親民（蔥油麵 A$8、雲吞湯 A$9.90）；Ozseer 推抵食麵餃。人均大約 A$15–25。",
+      "why": "東南 Glen Waverley 火車站步行即到；上海麵點同今日越南菜係兩個唔同菜系；Ozseer 長文推介麵同餃子。記住今日星期一休，改平日／週末去。",
+      "sourceUrl": "https://ozseer.com/tang-glen-waverley-melbourne-a-very-affordable-chinese-restaurant-doing-noodles-and-dumplings/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tang%20%E5%BC%84%E5%94%90%2023%20Railway%20Parade%20North%20Glen%20Waverley",
+      "images": [
+        "images/tang-glen-waverley/01.jpg",
+        "images/tang-glen-waverley/02.jpg",
+        "images/tang-glen-waverley/03.jpg",
+        "images/tang-glen-waverley/04.jpg",
+        "images/tang-glen-waverley/05.jpg",
+        "images/tang-glen-waverley/06.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Specialty Wonton Soup",
+          "price": "A$9.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Congyou Noodles",
+          "price": "A$8.00",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Yangchuan Noodles",
+          "price": "A$9.00",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Signature Beef Soup Noodles",
+          "price": "A$16.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Signature Pan Fried Dumplings",
+          "price": "A$12.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Steamed Mini Pork Buns",
+          "price": "A$13.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Scallion Pancake",
+          "price": "A$8.50",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Wonton Noodles",
+          "price": "A$14.50",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Jiangnan Style Beef Vermicelli",
+          "price": "A$14.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Silky Tofu Pudding",
+          "price": "A$7.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Meiji Noodles",
+          "price": "A$16.90",
+          "note": "Uber Eats"
+        },
+        {
+          "name": "Seaweed Rice Cake",
+          "price": "A$6.90",
+          "note": "Uber Eats"
+        }
+      ],
+      "menuPriceNote": "價錢以 Uber Eats PICKUP（getStoreV1，2026-09-28）為準：Congyou Noodles A$8.00、Specialty Wonton Soup A$9.90、Signature Beef Soup Noodles A$16.90、Signature Pan Fried Dumplings A$12.90。Ozseer 2022 堂食舊價已略過。"
+    },
+    {
+      "id": "talami-glen-waverley",
+      "date": "2026-09-28",
+      "name": "Talami",
+      "cuisine": "越菜／越南",
+      "area": "Glen Waverley",
+      "address": "240 Blackburn Rd, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "Blackburn Rd 越南＋部分中菜：生牛肉粉、搖搖牛肉紅飯、春卷；今日星期一有開。",
+      "vibe": "家庭式越南舖、午餐晚餐兩段；適合 2–4 人分享粉麵同小食，氣氛輕鬆。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Com Bo Luc Lac（Shaking Beef Red Rice）",
+        "Pho Tai",
+        "Prawn Spring Roll (6)",
+        "Com Tam Dac Biet",
+        "Bun Rieu",
+        "Lemon Chicken",
+        "Special Fried Rice",
+        "Rice Paper Rolls"
+      ],
+      "howToOrder": "官網 https://talami.yumbojumbo.com.au/ 可網上落單（外賣／送餐）。堂食第一次可試 Pho Tai 或 Com Bo Luc Lac，加蝦春卷。電話 0478 988 839。Uber Eats 亦有。",
+      "whenToGo": "今日（一）有開：午餐 11:30–14:30 或晚餐 17:00–20:30。星期三休息。",
+      "hours": "星期一、二、四至日 11:30–14:30、17:00–20:30；星期三休息（官網 Operating Hours；Uber Eats 一致）。",
+      "specials": "官網有完整中英餐牌；部分菜含花生（串燒／米卷等）。人均約 A$25–40。",
+      "why": "同 Huntingdale／Glen 一帶近；越菜同今日上海麵點菜系唔同；今日星期一 Tang 休但 Talami 開，可先去呢間。IG／官網有食物相可 refer。",
+      "sourceUrl": "https://www.instagram.com/notablecloth/p/Cma9KcyOQ7v/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Talami%20240%20Blackburn%20Rd%20Glen%20Waverley",
+      "images": [
+        "images/talami-glen-waverley/01.jpg",
+        "images/talami-glen-waverley/02.jpg",
+        "images/talami-glen-waverley/03.jpg",
+        "images/talami-glen-waverley/04.jpg",
+        "images/talami-glen-waverley/05.jpg",
+        "images/talami-glen-waverley/06.jpg",
+        "images/talami-glen-waverley/07.jpg",
+        "images/talami-glen-waverley/08.jpg",
+        "images/talami-glen-waverley/09.jpg",
+        "images/talami-glen-waverley/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Com Bo Luc Lac 牛肉粒红饭",
+          "price": "A$18.70",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Pho Tai 生牛肉汤河粉",
+          "price": "A$17.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Prawn Spring Roll (6 Rolls) 虾春卷",
+          "price": "A$15.40",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Pork Spring Roll (6 Rolls) 猪肉春卷",
+          "price": "A$14.30",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Com Tam Dac Biet 越式米粹饭",
+          "price": "A$17.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Lemon Chicken 柠檬雞",
+          "price": "A$25.30",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Bun Rieu 螃蟹酱汤米粉",
+          "price": "A$18.70",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Special Fried Rice 扬州炒饭",
+          "price": "A$17.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Rice Paper Rolls (3 pcs) 米卷",
+          "price": "A$11.00",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Deep Fried Wonton 炸云吞",
+          "price": "A$14.30",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Chicken with Cashew Nuts 腰果雞",
+          "price": "A$26.40",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Spicy Salt & Pepper Chicken Ribs 椒盐鸡扒",
+          "price": "A$28.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Char Kway Teow 炒粿条",
+          "price": "A$17.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Singapore Fried Vermicelli 星洲炒米",
+          "price": "A$17.60",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Honey Chicken 蜜糖雞",
+          "price": "A$25.30",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Wonton Soup 云吞汤",
+          "price": "A$12.10",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Talami Nem Nuong 肉粒串",
+          "price": "A$12.10",
+          "note": "official yumbojumbo menu 2026-09-28"
+        },
+        {
+          "name": "Sui Mai (3 pcs) 烧卖",
+          "price": "A$9.90",
+          "note": "official yumbojumbo menu 2026-09-28"
+        }
+      ],
+      "menuPriceNote": "價錢以官網 yumbojumbo 餐牌（2026-09-28）為準：Com Bo Luc Lac A$18.70、Pho Tai A$17.60、Prawn Spring Roll 6pcs A$15.40、Lemon Chicken A$25.30。Uber Eats 即時價可能唔同（例如 Pho Tai UE A$14.00），唔亂估、唔混用。"
+    },
+    {
       "id": "papas-korean-clayton",
       "date": "2026-09-27",
       "name": "Papa's Korean Chicken Restaurant",
