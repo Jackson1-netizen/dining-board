@@ -4,6 +4,206 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "miss-pings-the-glen",
+      "date": "2026-10-01",
+      "name": "Miss Ping's Thai Eatery",
+      "cuisine": "泰菜／街頭",
+      "area": "Glen Waverley",
+      "address": "Shop G016, The Glen, 235 Springvale Rd, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "The Glen 入口旁泰式街頭：菠蘿炒飯、青木瓜沙律、Pad Thai；粉紅當代舖面，適合分享小食。",
+      "vibe": "當代粉紅白色調、商場舖、輕鬆熱鬧；適合分享小碟同炒麵炒飯，情侶／朋友聚會都得。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Pineapple Fried Rice",
+        "Som Tam Thai",
+        "Pad Thai",
+        "Green Curry",
+        "Thai Fried Chicken",
+        "Massaman Beef",
+        "Crispy Chilli Calamari",
+        "Tom Yum Soft Shell Crab",
+        "Chicken Satay",
+        "Crying Tiger"
+      ],
+      "howToOrder": "The Glen Shopping Centre 舖（Shop G016，近 Kingsway 入口）。堂食可電話訂位 (03) 9887 7914；第一次可試 Pineapple Fried Rice＋Som Tam／Pad Thai，加炸雞或沙爹。Uber Eats 有外送／自取。官網 https://www.misspings.com.au/",
+      "whenToGo": "今日（四）有開：堂食約 12:00–21:30（廚房提早約 30 分收）。週末 11am 開；想食午餐／晚餐都可以。",
+      "hours": "星期一至三 12:00–21:00；星期四 12:00–21:30；星期五 12:00–22:00；星期六 11:00–22:00；星期日 11:00–21:00；廚房提早約 30 分收（官網 misspings.com.au + The Glen store hours 2026-10-01）。Uber Eats 落單窗口更早收（一至三至 20:30、四至 21:00、五／六至 21:30、日至 20:30）。",
+      "specials": "Ozseer 推菠蘿炒飯（用真菠蘿殻）、軟殼蟹同青木瓜沙律。人均大約 A$30–50（視分享幾多碟）。有雞尾酒／泰式奶茶。",
+      "why": "東南 Glen Waverley／The Glen 一站即到；泰菜街頭同今日台菜夜市菜系唔同。Ozseer 長文推介當代舖面同分享食法；今日星期四兩間都有開。",
+      "sourceUrl": "https://ozseer.com/miss-pings-glen-waverley/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Ping%27s%20Thai%20Eatery%20The%20Glen%20235%20Springvale%20Rd%20Glen%20Waverley",
+      "images": [
+        "images/miss-pings-the-glen/01.jpg",
+        "images/miss-pings-the-glen/02.jpg",
+        "images/miss-pings-the-glen/03.jpg",
+        "images/miss-pings-the-glen/04.jpg",
+        "images/miss-pings-the-glen/05.jpg",
+        "images/miss-pings-the-glen/06.jpg",
+        "images/miss-pings-the-glen/07.jpg",
+        "images/miss-pings-the-glen/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Pineapple Fried Rice",
+          "price": "A$29.80",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Som Tam Thai",
+          "price": "A$26.80",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Pad Thai",
+          "price": "A$27.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Green Curry",
+          "price": "A$33.60",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Thai Fried Chicken",
+          "price": "A$19.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Massaman Beef",
+          "price": "A$34.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Crispy Chilli Calamari",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Tom Yum Soft Shell Crab",
+          "price": "A$24.60",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Chicken Satay (Three Pieces)",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Pad See Ew",
+          "price": "A$27.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Thai Ice Milk Tea",
+          "price": "A$8.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Crying Tiger",
+          "price": "A$46.70",
+          "note": "Uber Eats PICKUP"
+        }
+      ],
+      "menuPriceNote": "價錢以 Uber Eats PICKUP（getStoreV1，2026-10-01）為準：Pineapple Fried Rice A$29.80、Som Tam Thai A$26.80、Pad Thai A$27.50、Crispy Chilli Calamari A$22.00、Tom Yum Soft Shell Crab A$24.60。平台價通常高過堂食；Ozseer 舊堂食價（菠蘿炒飯 ~A$22.90 等）已略過。aggregators 如 restaurants-info 另列較低價，唔當即時核實。"
+    },
+    {
+      "id": "taiwan-yes-clayton",
+      "date": "2026-10-01",
+      "name": "Taiwan Yes 夜市",
+      "cuisine": "台菜／夜市",
+      "area": "Clayton",
+      "address": "162 Clayton Rd, Clayton VIC 3168",
+      "priceBand": "$",
+      "hook": "Clayton 台夜市風：魯肉飯、炸雞排、刈包、鹹酥雞；學生／附近上班族抵食。",
+      "vibe": "夜市感覺、快節奏、飯麵便當為主；適合 1–3 人快餐或分享炸物。",
+      "partySize": "1–3 人",
+      "dishes": [
+        "Braised Pork Belly Rice 正宗魯肉飯",
+        "Signature Braised Pork Belly Rice 招牌魯肉飯",
+        "Crispy Chicken Fillet Rice 炸大雞排便當",
+        "Crispy Chicken Fillet",
+        "Two Flavors Popcorn Chicken",
+        "Taiwanese Fried Tofu",
+        "Traditional Gua Bao 傳統刈包",
+        "Ecstasy Mix Bento 黯然雙拼滷肉便當",
+        "Pork Floss Pancake 台式肉鬆蛋餅",
+        "Brown Sugar Bubble Milk Tea"
+      ],
+      "howToOrder": "Clayton Rd 舖面堂食；電話 (03) 9511 0737。第一次可試正宗／招牌魯肉飯，加炸雞排或刈包。官網餐牌 https://www.taiwanyes.com.au/ourmenu ；網上落單 https://taiwanyes.mobi-order.com/ ；Uber Eats／DoorDash 亦有。",
+      "whenToGo": "今日（四）有開：午餐 11:00–15:00，晚餐 17:00–22:30。星期一、二休息——改星期三晚或四至日去。",
+      "hours": "星期一、二休息；星期三 17:00–22:30；星期四 11:00–15:00、17:00–22:30；星期五、六 11:00–15:00、17:00–23:00；星期日 11:00–15:00、17:00–22:30（Uber Eats getStoreV1 2026-10-01；同店 mobi-order 大致一致，五／六晚有寫至 23:30——以 UE 為準）。",
+      "specials": "魯肉飯約 A$15.50 起；炸雞排／便當約 A$14.50–20.80。人均大約 A$15–25。官網有 Chef’s Specials（牛肉麵、三杯雞等）未必全部上 UE。",
+      "why": "Clayton 近 Huntingdale；台菜夜市同今日泰菜街頭菜系唔同。官網餐牌＋UE 即時價齊全；今日星期四午餐／晚餐都有開（一、二休）。",
+      "sourceUrl": "https://www.taiwanyes.com.au/ourmenu",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiwan%20Yes%20162%20Clayton%20Rd%20Clayton%20VIC",
+      "images": [
+        "images/taiwan-yes-clayton/01.jpg",
+        "images/taiwan-yes-clayton/02.jpg",
+        "images/taiwan-yes-clayton/03.jpg",
+        "images/taiwan-yes-clayton/04.jpg",
+        "images/taiwan-yes-clayton/05.jpg",
+        "images/taiwan-yes-clayton/06.jpg",
+        "images/taiwan-yes-clayton/07.jpg",
+        "images/taiwan-yes-clayton/08.jpg",
+        "images/taiwan-yes-clayton/09.jpg",
+        "images/taiwan-yes-clayton/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Braised Pork Belly Rice 正宗魯肉飯",
+          "price": "A$15.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Signature Braised Pork Belly Rice 招牌魯肉飯",
+          "price": "A$17.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Crispy Chicken Fillet Rice 炸大雞排便當",
+          "price": "A$20.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Crispy Chicken Fillet W Sweet Chili Mayonnaise",
+          "price": "A$14.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Two Flavors Popcorn Chicken",
+          "price": "A$28.00",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Taiwanese Fried Tofu",
+          "price": "A$6.80",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Traditional 2pcs 傳統刈包",
+          "price": "A$13.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Ecstasy Mix Bento 黯然雙拼滷肉便當",
+          "price": "A$20.80",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Pork Floss Pancake 台式肉鬆蛋餅",
+          "price": "A$10.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "Brown Sugar Bubble Milk Tea 黑糖珍珠鮮奶茶",
+          "price": "A$10.80",
+          "note": "Uber Eats PICKUP"
+        }
+      ],
+      "menuPriceNote": "價錢以 Uber Eats PICKUP（getStoreV1，2026-10-01）為準：正宗魯肉飯 A$15.50、招牌魯肉飯 A$17.50、炸大雞排便當 A$20.50、Crispy Chicken Fillet A$14.50、Two Flavors Popcorn Chicken A$28.00。官網 ourmenu 無標價；DoorDash 舊見價可能略有差別。"
+    },
+    {
       "id": "tang-glen-waverley",
       "date": "2026-09-28",
       "name": "Tang 弄唐",
