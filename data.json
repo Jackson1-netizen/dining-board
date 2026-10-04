@@ -4,6 +4,217 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "grand-tofu-gw",
+      "date": "2026-10-04",
+      "name": "The Grand Tofu",
+      "cuisine": "馬來西亞／Yong Tofu",
+      "area": "Glen Waverley",
+      "address": "102 Kingsway, Glen Waverley VIC 3150",
+      "priceBand": "$",
+      "hook": "Kingsway 馬來老字號：自選 6 件 Yong Tofu 湯麵、海南雞飯、Assam Laksa、牛腩撈麵；週末要排隊。",
+      "vibe": "街舖熱鬧、節奏快、家庭／朋友分享；室內＋室外位，週末夜晚常要等位。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Combination Crispy Noodles",
+        "Dry Noodles with BBQ Pork",
+        "Curry Laksa Yong Tofu",
+        "Char Kway Teow",
+        "Wat Tan Hor",
+        "Hainanese Chicken Rice",
+        "Beef Brisket Dry Noodles",
+        "Hokkien Mee",
+        "Yong Tofu",
+        "Assam Laksa",
+        "Bak Kut Teh"
+      ],
+      "howToOrder": "102 Kingsway（Dodee Paidang 隔離）。入座叫人落單；有自助辣椒／茶。現金較慳（有卡 surcharge）；週末堂食或有 ~5% surcharge（Ozseer）。電話 (03) 9560 1700。第一次可試 Yong Tofu（揀 6 件豆腐＋湯底＋麵）或海南雞飯／牛腩撈麵。",
+      "whenToGo": "今日（日）有開：約 11:00–22:00 全日。週末晚高峰常排隊——想快啲可坐外面或提早午餐去。",
+      "hours": "星期一至五 11:00–15:00、16:30–22:00；星期六、日 11:00–22:00（restaurants-info／Secondz 2026 列出；另有 listing 寫全日至約 22:00／22:30——以店面為準，電話 (03) 9560 1700）。",
+      "specials": "Yong Tofu 約 A$15.50 起（Ozseer 舊價）；restaurants-info 近期飯麵約 A$19–22。人均大約 A$18–28。週末或要等位。",
+      "why": "東南 Kingsway 一站；馬來 Yong Tofu／麵飯同今日新菜街頭菜系唔同。Ozseer 長文推介抵食同 Yong Tofu；今日星期日全日有開。",
+      "sourceUrl": "https://ozseer.com/the-grand-tofu-glen-waverley/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Grand%20Tofu%20102%20Kingsway%20Glen%20Waverley",
+      "images": [
+        "images/grand-tofu-gw/01.jpg",
+        "images/grand-tofu-gw/02.jpg",
+        "images/grand-tofu-gw/03.jpg",
+        "images/grand-tofu-gw/04.jpg",
+        "images/grand-tofu-gw/05.jpg",
+        "images/grand-tofu-gw/06.jpg",
+        "images/grand-tofu-gw/07.jpg",
+        "images/grand-tofu-gw/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Gado-Gado",
+          "price": "A$21.60",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Plain Roti Bread With Curry Sauce",
+          "price": "A$19.30",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Ipoh Curry Chicken Dry Egg Noodle",
+          "price": "A$21.30",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Black Pepper Beef With Udon Noodle",
+          "price": "A$21.00",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Crispy Chicken With Tomato Rice",
+          "price": "A$21.00",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Stir Fried Combination With Steamed Rice",
+          "price": "A$21.00",
+          "note": "restaurants-info listing"
+        },
+        {
+          "name": "Yong Tofu (6 specialty tofu, choice of soup + noodles)",
+          "price": "A$15.50",
+          "note": "Ozseer review Jun 2023 — confirm in-store"
+        },
+        {
+          "name": "Penang Assam Laksa",
+          "price": "A$16.30",
+          "note": "Ozseer review Jun 2023 — confirm in-store"
+        },
+        {
+          "name": "Kampong Nasi Goreng",
+          "price": "A$15.50",
+          "note": "Ozseer review Jun 2023 — confirm in-store"
+        },
+        {
+          "name": "Hainanese Chicken Rice",
+          "price": "A$15.50",
+          "note": "Ozseer review Jun 2023 — confirm in-store"
+        },
+        {
+          "name": "Beef Brisket on Noodles",
+          "price": "A$16.80",
+          "note": "Ozseer review Jun 2023 — confirm in-store"
+        },
+        {
+          "name": "Fish Head Noodle Soup",
+          "price": "問價／時價",
+          "note": "listed without price on restaurants-info"
+        }
+      ],
+      "menuPriceNote": "近期價以 restaurants-info Popular Menu 為準（Gado-Gado A$21.60、Ipoh Curry Chicken Dry Egg Noodle A$21.30、Black Pepper Beef Udon A$21.00 等）。Yong Tofu A$15.50、Assam Laksa A$16.30、海南雞飯 A$15.50、牛腩撈麵 A$16.80 來自 Ozseer 2023-06 堂食記錄——可能已調價，落單前問店；冇公開價嘅菜寫「問價／時價」。DoorDash 頁面自動化被擋，未能用平台即時價核對。"
+    },
+    {
+      "id": "local-hero-singapore-glen",
+      "date": "2026-10-04",
+      "name": "Local Hero Singapore",
+      "cuisine": "新菜／街頭",
+      "area": "Glen Waverley",
+      "address": "Food Gallery G-054, The Glen, 235 Springvale Rd, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "The Glen 美食廣場星級街頭新：海南雞飯、Katong 喇沙、36 小時豬腩乾撈麵、椰漿飯。",
+      "vibe": "商場 Food Gallery 小檔、快節奏街頭風；適合 1–3 人午餐／下午茶，唔使正餐大餐。",
+      "partySize": "1–3 人",
+      "dishes": [
+        "NS06- BBQ Pork (Char Siew) Dry Ramen",
+        "NS01 - Michelin 36h Slow Cooked Pork Belly Dry Ramen",
+        "P05 - Rendang Chicken Nasi Lemak",
+        "S02 - BBQ Pork (Char Siew) Side",
+        "TB02 - Hainanese Chicken + BBQ Pork(Char Siew) Rice",
+        "TB03 - BBQ Pork (Char Siew) Rice",
+        "L01 - Original Laksa (Prawn)",
+        "L02 - Hainanese Chicken Laksa",
+        "L03 - Fried Fish Laksa",
+        "L04 - Soft Shell Crab Laksa"
+      ],
+      "howToOrder": "The Glen Shopping Centre Ground Floor Food Gallery（G-054）。堂食排隊即叫；外賣可 Uber Eats／DoorDash。官網餐牌 https://www.local-hero.com.au/menu ；電話 +61 466 038 425。第一次可試 Michelin Hainanese Chicken Rice 或 Original Laksa，加 BBQ Pork side。",
+      "whenToGo": "今日（日）有開：約 10:30–17:00／UE 至約 17:50。想食晚餐要改星期四、五（UE 四至 20:00、五至 20:30）。",
+      "hours": "星期一至三 10:30–17:00；星期四 10:30–20:00；星期五 10:30–20:30；星期六、日 10:30–17:50（Uber Eats getStoreV1 2026-10-04；官網 local-hero.com.au/locations 寫六／日至 17:00——以 UE 為準並註明）。",
+      "specials": "海南雞飯／燒雞飯約 A$25.50；喇沙約 A$25.50–28.20；36h 豬腩乾撈約 A$26.90。人均大約 A$25–35。平台價或高過堂食。",
+      "why": "東南 Glen Waverley／The Glen 一站即到；新菜街頭同今日馬來 Yong Tofu 菜系唔同。Michelin hawker 概念＋官網／UE 價錢齊；今日星期日午餐／下午茶有開。",
+      "sourceUrl": "https://www.local-hero.com.au/menu",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Local%20Hero%20Singapore%20The%20Glen%20235%20Springvale%20Rd%20Glen%20Waverley",
+      "images": [
+        "images/local-hero-singapore-glen/01.jpg",
+        "images/local-hero-singapore-glen/02.jpg",
+        "images/local-hero-singapore-glen/03.jpg",
+        "images/local-hero-singapore-glen/04.jpg",
+        "images/local-hero-singapore-glen/05.jpg",
+        "images/local-hero-singapore-glen/06.jpg",
+        "images/local-hero-singapore-glen/07.jpg",
+        "images/local-hero-singapore-glen/08.jpg",
+        "images/local-hero-singapore-glen/09.jpg",
+        "images/local-hero-singapore-glen/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "TB01 - Michelin Hainanese Chicken Rice",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "TB04 - Michelin Roast Chicken Rice",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "NS06- BBQ Pork (Char Siew) Dry Ramen",
+          "price": "A$26.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "L04 - Soft Shell Crab Laksa",
+          "price": "A$28.20",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "TB02 - Hainanese Chicken + BBQ Pork(Char Siew) Rice",
+          "price": "A$28.20",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "P04 - Roast Chicken Nasi Lemak",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "TB03 - BBQ Pork (Char Siew) Rice",
+          "price": "A$26.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "L01 - Original Laksa (Prawn)",
+          "price": "A$26.90",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "TB05 - Michelin 36h Slow Cooked Pork Belly Rice",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "L03 - Fried Fish Laksa",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "S02 - BBQ Pork (Char Siew) Side",
+          "price": "A$21.50",
+          "note": "Uber Eats PICKUP"
+        },
+        {
+          "name": "NS01 - Michelin 36h Slow Cooked Pork Belly Dry Ramen",
+          "price": "A$26.90",
+          "note": "Uber Eats PICKUP"
+        }
+      ],
+      "menuPriceNote": "價錢以 Uber Eats PICKUP（getStoreV1，2026-10-04）為準：Michelin Hainanese Chicken Rice A$25.50、Original Laksa (Prawn) A$26.90、Soft Shell Crab Laksa A$28.20、36h Pork Belly Dry Ramen A$26.90、Rendang Chicken Nasi Lemak A$24.20。平台價通常高過堂食。"
+    },
+    {
       "id": "miss-pings-the-glen",
       "date": "2026-10-01",
       "name": "Miss Ping's Thai Eatery",
