@@ -4,6 +4,239 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "dpenyetz-clayton",
+      "date": "2026-10-07",
+      "name": "D'Penyetz & D'Cendol (Clayton)",
+      "cuisine": "印尼菜／Ayam Penyet",
+      "area": "Clayton",
+      "address": "335A Clayton Rd, Clayton VIC 3168",
+      "priceBand": "$",
+      "hook": "Clayton Road 清真印尼連鎖：招牌 Ayam Penyet 壓扁炸雞＋蝦醬辣椒、烤牛肋 Iga Bakar、炭烤全魚 Ikan Bakar、沙爹、Cendol；辣度可以揀到 Level 5。",
+      "vibe": "街舖食堂、熱鬧快節奏、家庭／朋友分享；午餐、晚餐繁忙時段常要排隊（Wongnai 食評話開張已經好旺）。Halal，無豬無酒。",
+      "partySize": "2–4 人（叫全魚／分享菜 4–6 人更抵）",
+      "dishes": [
+        "Ayam Penyet Asli（壓扁炸雞＋Terasi 辣椒，Level 4）",
+        "Nasi Goreng Special D'Penyetz",
+        "Iga Bakar（烤牛肋）",
+        "Ikan Bakar Aroma（烤全魚）",
+        "Sate Ayam Nusantara",
+        "Ayam Geprek Sambal Hijau",
+        "Tahu Telor",
+        "Sop Buntut（牛尾湯）",
+        "Tumis Kangkung Terasi",
+        "Cendol"
+      ],
+      "howToOrder": "335A Clayton Rd（由 Huntingdale 屋企揸車約 3–4 公里）。入座落單；電話 (03) 9548 7229。外賣可 Uber Eats／DoorDash。第一次 2 人：Ayam Penyet Asli＋Iga Bakar＋Sate Ayam，再加一杯 Cendol；怕辣同店員講降辣度（Chiefeater 話店員會按你要求加到 Level 5）。",
+      "whenToGo": "今日（三）有開：11:30–21:30 全日。想避排隊可 14:30–17:30 下午去，或 20:00 後。",
+      "hours": "每日 11:30–21:30，無休息日（官網 dpenyetz.com.au Clayton 分店；Uber Eats getStoreV1 2026-10-07 顯示每日 11:30–21:20 接單）。",
+      "specials": "Ayam Penyet 系列 A$14.95 起，係全店最抵；Uber Eats 新品 Beef Rendang Coconut Rice Complete Set A$24.80。人均大約 A$20–30。（以上 Uber Eats PICKUP 價，堂食或略有不同）",
+      "why": "近屋企（Huntingdale 去 Clayton Road 好快到）；印尼菜係飲食看板第一次出現，同今日斯里蘭卡菜完全唔同國家。Uber Eats 4.8★（3000+ 評分）、Chiefeater 食記大讚炸雞同辣椒；今日星期三全日有開，收工去都得。",
+      "sourceUrl": "https://chiefeater.com/chiefeaters/dpenyetz-dcendol-clayton-ayam-penyet/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D%27Penyetz%20%26%20D%27Cendol%20335A%20Clayton%20Rd%20Clayton",
+      "images": [
+        "images/dpenyetz-clayton/01.jpg",
+        "images/dpenyetz-clayton/02.jpg",
+        "images/dpenyetz-clayton/03.jpg",
+        "images/dpenyetz-clayton/04.jpg",
+        "images/dpenyetz-clayton/05.jpg",
+        "images/dpenyetz-clayton/06.jpg",
+        "images/dpenyetz-clayton/07.jpg",
+        "images/dpenyetz-clayton/08.jpg",
+        "images/dpenyetz-clayton/09.jpg",
+        "images/dpenyetz-clayton/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Ayam Penyet Asli (smashed fried chicken, terasi chilli, Level 4)",
+          "price": "A$14.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Ayam Geprek Sambal Hijau",
+          "price": "A$16.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Nasi Goreng Special D'Penyetz",
+          "price": "A$25.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Iga Bakar (grilled beef ribs)",
+          "price": "A$19.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "(Imported) Ikan Bakar Aroma (grilled whole fish)",
+          "price": "A$29.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Sate Ayam Nusantara",
+          "price": "A$17.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Tahu Telor",
+          "price": "A$19.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Sop Buntut (oxtail soup)",
+          "price": "A$28.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Gado Gado",
+          "price": "A$17.50",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Tumis Kangkung Terasi",
+          "price": "A$23.95",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Beef Rendang Coconut Rice Complete Set",
+          "price": "A$24.80",
+          "note": "Uber Eats PICKUP 2026-10-07 (NEW)"
+        },
+        {
+          "name": "Cendol",
+          "price": "A$7.90",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Steamed Rice (Nasi Putih)",
+          "price": "A$4.50",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        }
+      ],
+      "menuPriceNote": "全部價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-07 抓取，117 款）。官網 dpenyetz.com.au 冇公開價目；堂食價或同平台有出入，落單前以店內餐牌為準。活泥蟹等時價菜冇列。"
+    },
+    {
+      "id": "elephant-corridor-gw",
+      "date": "2026-10-07",
+      "name": "Elephant Corridor",
+      "cuisine": "斯里蘭卡菜／北印度",
+      "area": "Glen Waverley",
+      "address": "179 Coleman Parade, Glen Waverley VIC 3150",
+      "priceBand": "$$",
+      "hook": "Glen Waverley 十幾年老牌斯里蘭卡＋北印度：Good Food 推介 kotthu roti、黑豬肉咖喱、string hoppers；週四起有辣椒泥蟹，週日／一 Hopper Nights。",
+      "vibe": "細細間、溫馨坐低食正餐；朋友聚會、拍拖、家庭飯都啱，有雞尾酒（Good Food：friendly, cosy）。",
+      "partySize": "2–4 人",
+      "dishes": [
+        "Chicken Kothu-roti",
+        "Dry Dark (Black) Pork Curry",
+        "String Hoppers (Idi Appam)",
+        "Kukul Mas Chicken Curry",
+        "Jaffna Mutton",
+        "Sri Lankan Devilled Chicken",
+        "Red Prawn (Rathu Isso) Curry",
+        "Fish Cutlets",
+        "Sri Lankan Lamprais",
+        "Hopper Deal／Egg Hopper",
+        "Wattalapan"
+      ],
+      "howToOrder": "179 Coleman Parade（Kingsway 隔一條街）。8 人以下用官網 OpenTable 訂位；10 人以上打 (03) 9561 8810 或 email eat@elephantcorridor.com.au。外賣可官網落單或 Uber Eats。2 人第一次：Chicken Kothu-roti＋Black Pork Curry＋String Hoppers＋Pol Sambol，啱啱好。泊車：Good Food 推 Bogong Avenue 免費停車場。",
+      "whenToGo": "今日（三）只開晚市 17:00–21:30。建議 18:00 前到或者先 book；Hopper Nights 係星期日、一晚，辣椒泥蟹星期四晚起先有——今日叫普通 hoppers／咖喱。",
+      "hours": "星期一至四 17:00–21:30；星期五至日 12:00–15:00、17:00–21:30；無固定休息日（官網 elephantcorridor.com.au）。Uber Eats getStoreV1 2026-10-07：一至三 17:00–21:30、四 17:00–22:00、五 12:00–22:00、六 17:00–22:00、日 12:00–21:30（平台接單時間同官網略有出入，堂食以官網為準）。",
+      "specials": "Hopper Nights（星期日、一晚）；Chilli Mud Crabs（星期四晚起）。Uber Eats Hopper Deal（6 plain＋2 egg hoppers）A$19.90。咖喱主菜約 A$32–42，人均大約 A$40–55（平台價，堂食或不同）。",
+      "why": "斯里蘭卡菜係看板第一次，同今日印尼菜唔同國家；Good Food 2026-02 Glen Waverley 指南專段推介（kotthu＋黑豬咖喱）。Glen Waverley 係你成日去嘅區，今晚收工直接去食晚飯啱晒。",
+      "sourceUrl": "https://www.watoday.com.au/goodfood/melbourne-eating-out/people-around-here-understand-food-insider-tips-for-eating-your-way-through-one-of-melbourne-s-best-suburban-dining-hubs-20260218-p5o39q.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Corridor%20179%20Coleman%20Parade%20Glen%20Waverley",
+      "images": [
+        "images/elephant-corridor-gw/01.jpg",
+        "images/elephant-corridor-gw/02.jpg",
+        "images/elephant-corridor-gw/03.jpg",
+        "images/elephant-corridor-gw/04.jpg",
+        "images/elephant-corridor-gw/05.jpg",
+        "images/elephant-corridor-gw/06.jpg",
+        "images/elephant-corridor-gw/07.jpg",
+        "images/elephant-corridor-gw/08.jpg",
+        "images/elephant-corridor-gw/09.jpg",
+        "images/elephant-corridor-gw/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Chicken Kothu-roti",
+          "price": "A$32.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Beef Kothu-roti",
+          "price": "A$32.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Dry Dark Pork Curry (GF)",
+          "price": "A$32.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Fifteen String Hoppers (Idi Appam) (V)",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Hopper Deal (6 plain + 2 egg hoppers)",
+          "price": "A$19.90",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Kukul Mas (Chicken) Curry (GF)",
+          "price": "A$32.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Jaffna Mutton (GF)",
+          "price": "A$42.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Sri Lankan Devilled Chicken (GF)",
+          "price": "A$35.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Red Prawn (Rathu Isso) Curry",
+          "price": "A$38.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Fish Cutlets (3pcs)",
+          "price": "A$21.90",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Sri Lankan Lamprais",
+          "price": "A$35.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Pol Sambol",
+          "price": "A$12.90",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Wattalapan (GF)",
+          "price": "A$16.90",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": "A$32.00",
+          "note": "Uber Eats PICKUP 2026-10-07"
+        },
+        {
+          "name": "Crab Curry (Kakuluwo) / Chilli Mud Crab",
+          "price": "問價／時價",
+          "note": "Uber Eats lists A$0.00 placeholder — ask in store"
+        }
+      ],
+      "menuPriceNote": "價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-07 抓取，94 款）。官網 /menu 頁冇列價錢；平台價通常高過堂食，落單前以店內餐牌為準。蟹（Crab Curry／Chilli Mud Crab）平台冇實價，寫「問價／時價」。"
+    },
+    {
       "id": "grand-tofu-gw",
       "date": "2026-10-04",
       "name": "The Grand Tofu",
