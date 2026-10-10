@@ -4,6 +4,243 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "super-rapsa-dandenong",
+      "date": "2026-10-10",
+      "name": "Super Rapsa (Dandenong)",
+      "cuisine": "菲律賓菜／Pinoy 家常",
+      "area": "Dandenong",
+      "address": "8/10 McCrae St, Dandenong VIC 3175（Dandenong Market 同 Dandenong Square 之間行人路，樓上）",
+      "priceBand": "$$",
+      "hook": "Dandenong 樓上嘅菲律賓家常菜館：招牌 Crispy Pata 炸豬手、鐵板 Sisig、花生醬 Kare-Kare、酸湯 Sinigang，甜品 Halo-Halo；午市 Silog 早餐式套餐都係人氣之選。",
+      "vibe": "樓上大廳、座位多，家庭／朋友圍枱叫幾味 share 加白飯係菲律賓人食法；氣氛輕鬆家常。注意：要行樓梯，冇 lift（Ozseer 提到唔啱 BB 車／輪椅）；出菜可以慢少少。",
+      "partySize": "2–6 人（Crispy Pata、Kare-Kare 呢啲 share 菜，3–4 人叫 3–4 味＋飯最抵）",
+      "dishes": [
+        "Crispy Pata（炸脆豬手）",
+        "Sizzling Sisig Pork（鐵板豬面肉）",
+        "Beef Kare Kare（花生醬燉牛）",
+        "Pork Bagnet Kare-kare（脆豬腩 Kare-Kare）",
+        "Pork Sinigang（羅望子酸湯）",
+        "Lechon Kawali（炸豬腩）",
+        "Pancit Bihon（炒米粉）",
+        "Lumpiang Shanghai（菲式春卷）",
+        "Pork BBQ skewers（甜醬燒豬肉串）",
+        "Halo Halo（雜錦刨冰）",
+        "Tapsilog（牛肉＋蒜飯＋煎蛋）"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線直去 Dandenong 站（約 20 分鐘），行幾分鐘到 McCrae St；揸車約 15–20 分鐘，可泊 Dandenong Market／Square。入座落單，電話 (03) 9769 2738。外賣有 Uber Eats／DoorDash。第一次 2–3 人：Crispy Pata＋Beef Kare Kare＋Sizzling Sisig＋白飯，甜品 Halo Halo share。",
+      "whenToGo": "今日（六）有開：11:00–21:00（官網話繁忙時開到夜啲）。可以配 Dandenong Market（星期六有開）一齊行；想避人龍可 14:30–17:30 去。",
+      "hours": "Sun–Wed 11:00–20:30；Thu–Sat 11:00–21:00（busy 時開更夜），無固定休息日（官網 superrapsa.com.au，2026-10-10）。Uber Eats getStoreV1 2026-10-10：Sun／Mon／Thu／Sat 11:00–20:30 接單，Tue–Wed／Fri 11:00–20:00 起。",
+      "specials": "午市 Silog 套餐（Tapsilog／Tocilog 等）Uber Eats A$22；Ozseer 2025 年堂食 Silog 午市 A$18（堂食可能平過平台）。Crispy Pata A$38 夠 2–3 人 share。人均約 A$25–35。",
+      "why": "菲律賓菜係飲食看板第一次出現，同今日 Box Hill 蘭州拉麵完全唔同國家；Dandenong 由 Huntingdale 一程火車直達，唔使揸車都得。官網招牌 Crispy Pata／Kare-Kare／Sisig 都係重口味送飯菜，啱你鍾意食肉；Ozseer 食記讚 Tapsilog 牛肉腍、味道平衡。星期六全日有開，可以順便行 Dandenong Market。",
+      "sourceUrl": "https://ozseer.com/super-rapsa-dandenong/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Rapsa%2010%20McCrae%20St%20Dandenong",
+      "images": [
+        "images/super-rapsa-dandenong/01.jpg",
+        "images/super-rapsa-dandenong/02.jpg",
+        "images/super-rapsa-dandenong/03.jpg",
+        "images/super-rapsa-dandenong/04.jpg",
+        "images/super-rapsa-dandenong/05.jpg",
+        "images/super-rapsa-dandenong/06.jpg",
+        "images/super-rapsa-dandenong/07.jpg",
+        "images/super-rapsa-dandenong/08.jpg",
+        "images/super-rapsa-dandenong/09.jpg",
+        "images/super-rapsa-dandenong/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Crispy Pata",
+          "price": "A$38.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Sizzling Sisig Pork",
+          "price": "A$25.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Beef Kare Kare",
+          "price": "A$26.50",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Pork Bagnet Kare-kare",
+          "price": "A$25.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Pork Sinigang",
+          "price": "A$27.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Lechon Kawali",
+          "price": "A$30.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Bicol Express",
+          "price": "A$25.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Chicken Adobo",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Pancit Bihon",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Lumpiang Shanghai",
+          "price": "A$17.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Pork Barbecue skewers (3)",
+          "price": "A$18.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Tapsilog",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 2026-10-10 (Si-Log meals)"
+        },
+        {
+          "name": "Garlic Fried Rice",
+          "price": "A$18.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Plain Rice",
+          "price": "A$4.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Halo Halo",
+          "price": "A$19.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Leche Flan",
+          "price": "A$14.00",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        }
+      ],
+      "menuPriceNote": "全部價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-10 抓取，74 款）。官網 superrapsa.com.au 冇公開價目；Ozseer 2025-02 食記堂食 Silog 午市 A$18，所以堂食價或低過平台，落單前以店內餐牌為準。"
+    },
+    {
+      "id": "bowltiful-box-hill",
+      "date": "2026-10-10",
+      "name": "Bowltiful 壹碗 蘭州牛肉麵 (Box Hill)",
+      "cuisine": "中國西北菜／蘭州拉麵（清真）",
+      "area": "Box Hill",
+      "address": "SP018/17–21 Market St, Box Hill VIC 3128（Uber Eats 寫 F25, 17–21 Market St；Box Hill Central 行一分鐘）",
+      "priceBand": "$$",
+      "hook": "Good Food Guide 14/20：窗口睇師傅即場手拉 9 種粗幼蘭州拉麵；清真牛骨湯、薄切牛肉、自家醃菜，乾拌燉羊排係人氣王，配牛肉洋蔥包、冰蜂蜜山楂茶。",
+      "vibe": "快餐式麵館、出餐快（Good Food 話幾分鐘就上枱）、有分隔吧枱啱一個人慢慢食；Box Hill 中心地段，晚市同週末多人。Halal，無豬。",
+      "partySize": "1–4 人（一人一碗最正常；2–4 人再加涼菜、牛肉包 share）",
+      "dishes": [
+        "Authentic Lanzhou Beef Noodle Soup（招牌蘭州牛肉麵）",
+        "Dry Noodle with Braised Lamb Flap（乾拌燉羊排麵）",
+        "Braised Beef Shank Noodle Soup（紅燒牛腱麵）",
+        "Stewed Beef Rib Noodle Soup（燉牛肋骨麵）",
+        "Hot & Spicy Beef Noodle Soup",
+        "Special Stir-fried Noodle（特色炒麵）",
+        "Beef & Onion Steamed Buns（牛肉洋蔥包）",
+        "Spicy Honeycomb Tripe Salad（紅油牛肚）",
+        "Dry Noodles with Tomato & Egg（番茄炒蛋拌麵）"
+      ],
+      "howToOrder": "由 Huntingdale 揸車去 Box Hill 約 25–30 分鐘（泊 Box Hill Central）；入店點單揀麵條粗幼（9 種）。Good Food 貼士：記得要芫荽，上枱即刻撈勻芝麻辣油，唔係麵會黐埋。外賣有 Uber Eats。第一次：招牌牛肉麵（細／二細）＋乾拌羊排麵＋牛肉洋蔥包，再加杯冰蜂蜜山楂／杏仁茶。",
+      "whenToGo": "今日（六）有開：11:00–23:00 全日（官網）。夜晚 9 點後去宵夜都得；週末 12:00–14:00、18:00–20:00 最多人。",
+      "hours": "每日 11:00–23:00，無休息日（官網 bowltiful.com.au/stores Box Hill 分店）；Uber Eats getStoreV1 2026-10-10 顯示每日 11:00–22:40 接單。",
+      "specials": "Uber Eats PICKUP 價：招牌蘭州牛肉麵 A$28.80、乾拌羊排 A$32.80、牛肉包 A$17.80 —— 平台價明顯偏貴，堂食通常平啲（未有公開堂食價，以店內為準）。人均約 A$25–40。另有 CBD（Elizabeth St／Swanston St，開到 2am）同 Glen Waverley Kingsway 分店。",
+      "why": "Box Hill 係看板第一次出現嘅區，避開最近成日去嘅 Glen Waverley／Clayton；蘭州清真牛肉麵同之前推過嘅粵菜、川菜、台菜完全唔同路數，同今日菲律賓菜亦唔同國家。Good Food Guide 14/20、手拉麵即場睇得到；星期六由朝 11 點開到夜 11 點，幾時去都得，一個人食都舒服。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/bowltiful-20241106-p5koap.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bowltiful%2017-21%20Market%20St%20Box%20Hill",
+      "images": [
+        "images/bowltiful-box-hill/01.jpg",
+        "images/bowltiful-box-hill/02.jpg",
+        "images/bowltiful-box-hill/03.jpg",
+        "images/bowltiful-box-hill/04.jpg",
+        "images/bowltiful-box-hill/05.jpg",
+        "images/bowltiful-box-hill/06.jpg",
+        "images/bowltiful-box-hill/07.jpg",
+        "images/bowltiful-box-hill/08.jpg",
+        "images/bowltiful-box-hill/09.jpg",
+        "images/bowltiful-box-hill/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "BOWLTIFUL Authentic Lanzhou Beef Noodle Soup",
+          "price": "A$28.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Braised Beef Shank Noodle Soup 🌶️",
+          "price": "A$32.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Hot & Spicy Beef Noodle Soup 🌶️🌶️🌶️",
+          "price": "A$29.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Stewed Beef Rib Noodle Soup",
+          "price": "A$34.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Braised Lamb Flap Noodle Soup 🌶️",
+          "price": "A$32.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Dry Noodle with Braised Lamb Flap 🌶️",
+          "price": "A$32.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Special Stir-fried Noodle",
+          "price": "A$33.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Dry Noodles with Stir-fried Tomato and Egg (V)",
+          "price": "A$27.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Beef & Onion Steamed Buns",
+          "price": "A$17.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Spicy Honeycomb Tripe Salad 🌶️",
+          "price": "A$14.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Spicy Cucumber Salad 🌶️",
+          "price": "A$10.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Tea Braised Egg",
+          "price": "A$5.60",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        },
+        {
+          "name": "Bowltiful Apricot Tea ❄️",
+          "price": "A$9.80",
+          "note": "Uber Eats PICKUP 2026-10-10"
+        }
+      ],
+      "menuPriceNote": "全部價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-10 抓取，49 款，Market Street 店）。官網 bowltiful.com.au 冇公開價目；平台價明顯高過一般堂食價，堂食請以店內餐牌為準（問價）。"
+    },
+    {
       "id": "dpenyetz-clayton",
       "date": "2026-10-07",
       "name": "D'Penyetz & D'Cendol (Clayton)",
