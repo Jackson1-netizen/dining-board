@@ -4,6 +4,264 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "dakao-hoang-springvale",
+      "date": "2026-10-13",
+      "name": "Dakao Hoang 大膠黃 (Springvale)",
+      "cuisine": "越菜／河粉·乾麵·飯",
+      "area": "Springvale",
+      "address": "6/17 Balmoral Avenue, Springvale VIC 3171（Springvale Rd 附近，Balmoral Ave／Buckingham Ave 一帶越南食肆區）",
+      "priceBand": "$$",
+      "hook": "Springvale 廿幾年老字號越南家常：招牌乾蛋麵配蠔油甜醬、Com Tam 碎米飯、牛肉河粉、Bun／春卷；Ozseer 推乾蛋麵，官網同 Uber Eats 餐牌齊全。",
+      "vibe": "家庭式大廳、座位夠四口之家；氣氛輕鬆家常。星期五晚、星期六同星期日日間多人；門口帶 BB 車有少少窄（Ozseer）。",
+      "partySize": "1–4 人（一人一碗河粉／乾麵最舒服；2–3 人加春卷、Com Tam share）",
+      "dishes": [
+        "Fresh Sliced Rare Beef Pho（鮮切片牛肉河粉）",
+        "Beef special pho（牛肉特餐河粉）",
+        "Spicy Beef Soup Thick Vermicelli（辣牛肉粗粉湯）",
+        "Beef egg gravy fried noodles（牛肉蛋汁炒麵／乾蛋麵）",
+        "Special broken rice（招牌碎米飯）",
+        "Pork chop with broken rice（豬扒碎米飯）",
+        "Diced beef dry noodles（粒粒牛肉乾麵）",
+        "Vermicelli with the Lot（綜合米線）",
+        "Prawn Spring Rolls（蝦春卷）",
+        "Prawn and Pork Rice Paper Rolls（蝦肉米紙卷）",
+        "Vietnamese Pancake（越南煎餅 Bánh Xèo）"
+      ],
+      "howToOrder": "由 Huntingdale 揸車去 Springvale 約 15–20 分鐘；或火車到 Springvale 站再行幾分鐘入 Balmoral Ave。入座落單，電話 (03) 9558 5996。外賣／外送：官網 takeaway、Uber Eats、DoorDash。第一次 2 人：牛肉河粉／乾蛋麵各一＋蝦春卷或米紙卷；想食飯就 Special broken rice／豬扒碎米飯。",
+      "whenToGo": "今日（二）有開：9:00–21:00（官網 Mon–Wed／Sun）。想避人龍可 14:00–17:00；星期五晚、星期六、星期日日間最旺。",
+      "hours": "Mon–Wed、Sun 9:00–21:00；Thu–Sat 9:00–21:30，無固定休息日（官網 dakaohoang.com.au，2026-10-13）。Uber Eats getStoreV1 2026-10-13：Sun–Wed 9:00–20:30 接單，Thu–Sat 9:00–21:00 接單。",
+      "specials": "Uber Eats PICKUP：鮮切牛肉河粉 A$21、辣牛肉粗粉湯 A$21、牛肉蛋汁炒麵 A$23.50、招牌碎米飯 A$21、蝦春卷 A$20。Ozseer 寫堂食多數飯／粉 A$15–22，平台或偏貴少少，堂食以店內餐牌為準。人均約 A$20–30。",
+      "why": "越菜係你住 Huntingdale 東南走廊最抵玩嘅一類，但看板近期推過泰／台／馬／新／印尼／斯里蘭卡／菲律賓／蘭州，仲未推過 Springvale 越菜老字號（Clayton 嘅 Pho Hung Vuong 唔同店）。Dakao Hoang 廿幾年、Ozseer 推乾蛋麵，由 Huntingdale／StrikeFit Burwood 去 Springvale 順路，一個人食河粉或者打完拳叫 Com Tam 都啱。",
+      "sourceUrl": "https://ozseer.com/dakao-hoang-springvale/",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dakao%20Hoang%2017%20Balmoral%20Avenue%20Springvale",
+      "images": [
+        "images/dakao-hoang-springvale/01.jpg",
+        "images/dakao-hoang-springvale/02.jpg",
+        "images/dakao-hoang-springvale/03.jpg",
+        "images/dakao-hoang-springvale/04.jpg",
+        "images/dakao-hoang-springvale/05.jpg",
+        "images/dakao-hoang-springvale/06.jpg",
+        "images/dakao-hoang-springvale/07.jpg",
+        "images/dakao-hoang-springvale/08.jpg",
+        "images/dakao-hoang-springvale/09.jpg",
+        "images/dakao-hoang-springvale/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "030 Fresh Sliced Rare Beef Pho",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "040 Beef special pho",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "050 Spicy Beef Soup Thick Vermicelli",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "070 Beef egg gravy fried noodles",
+          "price": "A$23.50",
+          "note": "Uber Eats PICKUP 2026-10-13 Ozseer 推乾蛋麵系列"
+        },
+        {
+          "name": "059 Diced beef dry noodles",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "092 Special broken rice",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "093 Pork chop with broken rice",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "079 Vermicelli with the Lot",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "084 Vermicelli with Grilled Meat Skewers and Spring Rolls",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "010 Prawn Spring Rolls",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "012 Prawn and Pork Rice Paper Rolls",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "009 Pork Spring Rolls",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "129 Vietnamese Pancake",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "134 Deep Fried Whole Flounder Fish",
+          "price": "A$60.00",
+          "note": "Uber Eats PICKUP 2026-10-13 share 菜"
+        },
+        {
+          "name": "019 Rare Beef Salad",
+          "price": "A$35.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "251 Vietnamese Iced White Coffee",
+          "price": "A$10.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "246 Three Colour Drink and Dessert",
+          "price": "A$10.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        }
+      ],
+      "menuPriceNote": "全部價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-13 抓取，145 款，Shop 6 Balmoral Ave）。官網 dakaohoang.com.au/menu 有菜名無公開價目；Ozseer 2025-04 寫堂食多數飯／粉 A$15–22，所以堂食可能低過平台，落單前以店內餐牌為準。"
+    },
+    {
+      "id": "ka-gyi-box-hill",
+      "date": "2026-10-13",
+      "name": "Ka Gyi Restaurant and Bar (Box Hill North)",
+      "cuisine": "緬甸菜／Mohinga·Laphet",
+      "area": "Box Hill North",
+      "address": "768 Station St, Box Hill North VIC 3129（Station St，Box Hill 北面）",
+      "priceBand": "$$",
+      "hook": "SMH Good Food（Dani Valent，2026-03）：墨爾本少有緬甸菜；招牌 Tofu Noodle（豆腐白汁＋雞咖喱）、Laphet Thoke 茶葉沙律、Mote Hin Khar／Mohinga 魚湯粉、Kyay oo／Nan Gyi Thoke。",
+      "vibe": "新店、wraparound 卡座同緬甸風景燈箱；氣氛舒服現代，適合兩人試菜或者小聚會。服務友善；SMH 話想要多啲菜式解說。",
+      "partySize": "2–4 人（先叫 Laphet Thoke share，再各叫一碗粉／麵；3–4 人可加 Meat Platter）",
+      "dishes": [
+        "Tofu Noodle（豆腐白汁麵＋雞／豬咖喱）",
+        "Laphet Thoke（發酵茶葉沙律）",
+        "Mote Hin Khar／Mohinga（魚湯米線）",
+        "Nan Gyi Thoke（乾米線沙律）",
+        "Burmese Coconut Noodle（緬甸椰奶麵）",
+        "Special Beef Curry（特製牛肉咖喱）",
+        "Kyay Oo Noodle（乾米線＋自製豬肉丸）",
+        "Smoked Pork Ribs with Salad",
+        "Pal Ei Kyar（油條配黃豆醬）",
+        "Shwe yin aye（緬甸甜品）"
+      ],
+      "howToOrder": "由 Huntingdale 揸車去 Box Hill North 約 25–30 分鐘（沿 Warrigal／Station St）；近 Box Hill。電話 +61 450 851 710（UE）／+61 402 608 834（Best Restaurants）。入座落單；有 Uber Eats。第一次：Laphet Thoke＋Tofu Noodle＋Mote Hin Khar（或 Coconut Noodle），甜品 Shwe yin aye。SMH 勸多叫緬甸菜、少叫 risotto／burger。",
+      "whenToGo": "今日（二）UE 顯示 16:00 開（晚餐）；星期一休息。星期六全日、星期日午晚市較方便；想試完整緬甸菜式建議晚市。",
+      "hours": "星期一休息。Uber Eats getStoreV1 2026-10-13：Tue–Fri 16:00–21:30；Sat 11:30–21:30；Sun 11:30–14:30 同 17:00–21:30。EatClub／Best Restaurants 另列部分日子有午市（約 10:00/11:30–14:00/14:30）同晚市開到 22:00–22:30，實際以店內／電話為準。",
+      "specials": "Uber Eats PICKUP：Tofu Noodle A$26、Laphet Thoke A$17、Mote Hin Khar A$24、Coconut Noodle A$26、Beef Curry A$24。EatClub 偶有折扣。人均約 A$30–45。",
+      "why": "緬甸菜係飲食看板第一次出現，同今日 Springvale 越菜完全唔同國家；SMH Good Food 2026-03 專文推介，夠新鮮。Box Hill 方向你最近先去過 Bowltiful，Ka Gyi 喺 Station St 北面，打完拳／健身想試少見菜系就啱；Tofu Noodle 同 Mohinga 都係重口味安慰食物。",
+      "sourceUrl": "https://www.smh.com.au/goodfood/melbourne-eating-out/i-can-imagine-expats-weeping-over-it-this-new-eatery-spotlights-burmese-comfort-food-20260312-p5o9t6.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ka%20Gyi%20768%20Station%20St%20Box%20Hill%20North",
+      "images": [
+        "images/ka-gyi-box-hill/01.jpg",
+        "images/ka-gyi-box-hill/02.jpg",
+        "images/ka-gyi-box-hill/03.jpg",
+        "images/ka-gyi-box-hill/04.jpg",
+        "images/ka-gyi-box-hill/05.jpg",
+        "images/ka-gyi-box-hill/06.jpg",
+        "images/ka-gyi-box-hill/07.jpg",
+        "images/ka-gyi-box-hill/08.jpg",
+        "images/ka-gyi-box-hill/09.jpg",
+        "images/ka-gyi-box-hill/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Tofu Noodle (chicken or pork)",
+          "price": "A$26.00",
+          "note": "Uber Eats PICKUP 2026-10-13 SMH must-try"
+        },
+        {
+          "name": "Laphet Thoke",
+          "price": "A$17.00",
+          "note": "Uber Eats PICKUP 2026-10-13 發酵茶葉沙律"
+        },
+        {
+          "name": "Mote Hin Khar",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13 Mohinga 魚湯粉"
+        },
+        {
+          "name": "Nan Gyi Thoke",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Burmese Coconut Noodle",
+          "price": "A$26.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Kyay Oo Noodle",
+          "price": "A$26.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Special Beef Curry",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Black bean pork curry",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Smoked Pork Ribs with Salad",
+          "price": "A$26.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Burmese style Maryland chicken",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Signature Chicken Wings",
+          "price": "A$18.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Pal Ei Kyar",
+          "price": "A$16.00",
+          "note": "Uber Eats PICKUP 2026-10-13 油條＋黃豆醬"
+        },
+        {
+          "name": "Kagyi Meat Platter",
+          "price": "A$60.00",
+          "note": "Uber Eats PICKUP 2026-10-13 share"
+        },
+        {
+          "name": "Shwe yin aye",
+          "price": "A$16.00",
+          "note": "Uber Eats PICKUP 2026-10-13 甜品"
+        },
+        {
+          "name": "Burmese yoghurt",
+          "price": "A$12.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        },
+        {
+          "name": "Burmese milk tea",
+          "price": "A$7.00",
+          "note": "Uber Eats PICKUP 2026-10-13"
+        }
+      ],
+      "menuPriceNote": "全部價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-13 抓取，35 款，768 Station St）。官網未見獨立價目頁；SMH／Best Restaurants 無逐項公開價。平台價供參考，堂食以店內餐牌為準。"
+    },
+    {
       "id": "super-rapsa-dandenong",
       "date": "2026-10-10",
       "name": "Super Rapsa (Dandenong)",
