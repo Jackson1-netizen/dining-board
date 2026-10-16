@@ -4,6 +4,273 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "my-cambodia-springvale",
+      "date": "2026-10-16",
+      "name": "My Cambodia (Springvale)",
+      "cuisine": "柬埔寨菜／金邊粿條·五香牛腩粉",
+      "area": "Springvale",
+      "address": "28 Buckingham Ave, Springvale VIC 3171（Springvale 站附近，Balmoral Ave／Buckingham Ave 食街）",
+      "priceBand": "$",
+      "hook": "The Age Good Food 專文（2019）話佢係 Springvale 最好嘅食肆之一，十幾年無靜過；Ozseer 推金邊粿條湯同酸甜炸麵。招牌 Phnom Penh Noodle Soup、Cambodian Five Spice 牛腩粉、紅米飯配嫩牛粒、柬式香茅湯。",
+      "vibe": "冇乜裝修嘅家庭式老店，膠枱、圖片餐牌；好熱鬧、出菜快，繁忙時間可能要搭枱。Tripadvisor 食客話可能只收現金、可 BYO，洗手間比較簡陋。",
+      "partySize": "1–6 人（一人一碗粉最快；3–6 人可叫大碗湯＋紅米飯＋小炒 share，湯有大／超大份）",
+      "dishes": [
+        "Phnom Penh Noodle Soup（金邊粿條湯：豬肉、豬雜、蝦）",
+        "Cambodian Five Spice Noodle Soup（柬式五香牛腩粉，Good Food 推）",
+        "Tender Beef Cubes with Red Rice（嫩牛粒紅米飯）",
+        "Boat Noodle Soup（船麵）",
+        "Fried Noodle with Sweet and Sour Sauce（酸甜炸麵，Ozseer 推）",
+        "Cambodian Vermicelli Green Curry Fish Soup（黃薑青咖喱魚湯米線）",
+        "Cambodian Traditional Lemongrass Soup（柬式香茅湯，share）",
+        "Spicy Chicken Ribs（辣雞軟骨）",
+        "Fried Pork with Red Rice（炸豬肉紅米飯）",
+        "Special Broken Rice（招牌碎米飯）"
+      ],
+      "howToOrder": "由 Huntingdale 揸車去約 15 分鐘（North Rd／Centre Rd 轉 Springvale Rd）；或者火車去 Springvale 站行 3–4 分鐘。電話 (03) 9540 3551；人多建議先打電話。入座睇圖片餐牌落單，帶定現金。第一次一人：金邊粿條湯（乾／湯都得）或五香牛腩粉；兩人加嫩牛粒紅米飯＋春卷／辣雞軟骨。想 share 就叫香茅湯或酸湯配白飯。",
+      "whenToGo": "今日（五）有開，約 8:30–21:00。早餐／午餐食粉最正；想避人 14:00–17:00。星期五晚、週末中午最多人。",
+      "hours": "每日營業，無固定休息日：約 8:30–21:00（menuweb／Restaurant Guru 2026-03 資料；另一目錄寫 8:00–21:00）。Uber Eats getStoreV1 2026-10-16：Sun–Wed 8:35–20:00、Thu–Sat 8:30–20:00 接單（DoorDash 顯示 8:35–19:40）。⚠️ 晚市最後入座時間未有官方公佈，夜晚去前先打電話。",
+      "specials": "堂食好抵：Ozseer 2022 寫金邊粿條 A$11、酸甜炸麵 A$13；2025 Google 食評寫一碗金邊粿條約 A$12。Uber Eats 價貴好多（金邊粿條 A$22.50、嫩牛粒紅米飯 A$24.90），所以最好堂食。人均堂食約 A$15–25（平台約 A$25–35）。可能只收現金、可 BYO（食評，未經官方確認）。",
+      "why": "柬埔寨菜係飲食看板第一次出現，同之前推過嘅越／泰／馬／印尼完全唔同；Springvale 離 Huntingdale 好近，揸車十幾分鐘。The Age Good Food 同 Ozseer 都推，老字號十幾年，一碗金邊粿條堂食十幾蚊，打完拳／收工想食碗熱湯粉最啱。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/my-cambodia-review-20190514-h1ee1c.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Cambodia%2028%20Buckingham%20Ave%20Springvale",
+      "images": [
+        "images/my-cambodia-springvale/01.jpg",
+        "images/my-cambodia-springvale/02.jpg",
+        "images/my-cambodia-springvale/03.jpg",
+        "images/my-cambodia-springvale/04.jpg",
+        "images/my-cambodia-springvale/05.jpg",
+        "images/my-cambodia-springvale/06.jpg",
+        "images/my-cambodia-springvale/07.jpg",
+        "images/my-cambodia-springvale/08.jpg",
+        "images/my-cambodia-springvale/09.jpg",
+        "images/my-cambodia-springvale/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Phnom Penh Noodle Soup 金邊粿條湯",
+          "price": "A$22.50",
+          "note": "Uber Eats PICKUP 2026-10-16；Ozseer 2022 堂食 A$11"
+        },
+        {
+          "name": "Cambodian Five Spice Noodle Soup 五香牛腩粉",
+          "price": "A$24.50",
+          "note": "Uber Eats PICKUP 2026-10-16；Good Food 推"
+        },
+        {
+          "name": "Boat Noodle Soup 船麵",
+          "price": "A$23.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Fried Noodle with Sweet and Sour Sauce 酸甜炸麵",
+          "price": "A$24.50",
+          "note": "Uber Eats PICKUP 2026-10-16；Ozseer 2022 堂食 A$13"
+        },
+        {
+          "name": "Cambodian Vermicelli Green Curry Fish Soup",
+          "price": "A$23.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Tender Beef Cubes with Red Rice 嫩牛粒紅米飯",
+          "price": "A$24.90",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Fried Pork with Red Rice 炸豬肉紅米飯",
+          "price": "A$22.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Special Broken Rice 招牌碎米飯",
+          "price": "A$22.90",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Crab Fried Rice 蟹肉炒飯",
+          "price": "A$26.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Spicy Chicken Ribs 辣雞軟骨",
+          "price": "A$30.00",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Tender Beef Cube 嫩牛粒（小菜）",
+          "price": "A$24.90",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Cambodian Traditional Lemongrass Soup 柬式香茅湯",
+          "price": "A$28.80",
+          "note": "Uber Eats PICKUP 2026-10-16；share"
+        },
+        {
+          "name": "Cambodian sour soup 柬式酸湯",
+          "price": "A$38.50",
+          "note": "Uber Eats PICKUP 2026-10-16；share"
+        },
+        {
+          "name": "Prawn Spring Roll 蝦春卷",
+          "price": "A$18.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Papaya Salad 木瓜沙律",
+          "price": "A$22.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Steamed Barramundi 蒸盲鰽",
+          "price": "A$37.50",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Red Rice 紅米飯（加）",
+          "price": "A$7.00",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        }
+      ],
+      "menuPriceNote": "價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-16 抓取，103 款，28 Buckingham Ave）。My Cambodia 冇官網價目表。平台價明顯高過堂食：Ozseer 2022 寫金邊粿條 A$11、酸甜炸麵 A$13，2025 Google 食評寫一碗粉約 A$12。堂食以店內圖片餐牌為準，可能只收現金。"
+    },
+    {
+      "id": "dolan-uyghur-cbd",
+      "date": "2026-10-16",
+      "name": "Dolan Uyghur Cuisine（City）",
+      "cuisine": "新疆維吾爾菜／手拉麵·羊肉串（清真）",
+      "area": "Melbourne CBD",
+      "address": "382 Lonsdale St, Melbourne VIC 3000（近 Hardware Lane；由 166 Little Lonsdale St 舊址搬過嚟）",
+      "priceBand": "$$",
+      "hook": "Time Out Melbourne 推：炭燒孜然羊肉串（kawap）、手拉麵、大盤雞（tohu qorumisi）配手拉麵，仲有 Ayran 乳酪飲品解膩。2025-12 Halal Culinary Adventures 確認搬咗去 Lonsdale St 新舖，清真、乾淨、出菜快。",
+      "vibe": "新舖乾淨企理，木枱、維吾爾風格裝飾；午市多上班族同外賣，晚市適合兩個人拍拖或者三五知己 share。全清真、唔賣酒。",
+      "partySize": "2–4 人（大盤雞大份 3–4 人 share；2 人叫一碟拉麵＋羊肉串＋一個小炒啱啱好）",
+      "dishes": [
+        "Big Plate Chicken Korma with Noodle（大盤雞配手拉麵）",
+        "Shish Kebab（孜然羊肉串）",
+        "Cold Noodle with Lamb Skewers（涼麵配羊肉串）",
+        "Dolan's Secret Fried Noodle（招牌炒拉條子）",
+        "Stir Fried Lamb and Naan（羊肉炒饢）",
+        "Chopped Noodle with Rib Eye Sauce（肉眼牛炒麵片）",
+        "Lamb Ribs Pilaf（羊排抓飯）",
+        "Lamb & Chopped Noodle Soup（羊肉麵片湯）",
+        "Beef Pastry（牛肉餡餅）",
+        "Ayran（鹹乳酪飲品）"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線入城約 30 分鐘，喺 Melbourne Central 或 Flagstaff 落車，行 5 分鐘到 Lonsdale St（近 Elizabeth／Queen St、Hardware Lane 口）。電話 (03) 9427 9021（官網）。入座落單；官網可網上落單外賣，亦有 Uber Eats。2 人第一次：大盤雞（細）＋羊肉串＋羊肉炒饢或涼麵，飲 Ayran。",
+      "whenToGo": "今日（五）有開：11:30–15:00、17:00–21:30。午市 12:00–13:30 多上班族，想坐得舒服 17:30 前後去晚市。星期一休息。",
+      "hours": "官網 dolancuisine.com.au（2026-10-16）：星期一休息；Tue–Sun 11:30–15:00 同 17:00–21:30（Halal Culinary Adventures 2025-12 一樣）。Uber Eats getStoreV1 2026-10-16：Mon 無接單；Tue–Sun 11:30–14:55、17:00–21:15 接單。⚠️ Time Out 頁仲寫舊址 166 Little Lonsdale St 同舊時間（Tue–Sun 11:30–21:30），以官網為準。",
+      "specials": "官網落單價：羊肉麵片湯 A$18.80、招牌炒麵 A$19.80、涼麵配羊肉串 A$20.80、大盤雞 細 A$22.80／大 A$35.80。Uber Eats 每樣貴大約 A$4–5。EatClub 有時有最多 25% off（以 app 為準）。人均約 A$25–40。",
+      "why": "維吾爾菜係飲食看板第一次出現，同 Springvale 柬埔寨菜係兩個完全唔同菜系；你搭火車入城好方便（Huntingdale 直達）。羊肉串、手拉麵、大盤雞全部重口味高蛋白，打完拳／健身後食好夠力；清真、唔賣酒，價錢喺 CBD 嚟講合理。",
+      "sourceUrl": "https://www.timeout.com/melbourne/restaurants/dolan-uyghur-cuisine",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolan%20Uyghur%20Cuisine%20382%20Lonsdale%20St%20Melbourne",
+      "images": [
+        "images/dolan-uyghur-cbd/01.jpg",
+        "images/dolan-uyghur-cbd/02.jpg",
+        "images/dolan-uyghur-cbd/03.jpg",
+        "images/dolan-uyghur-cbd/04.jpg",
+        "images/dolan-uyghur-cbd/05.jpg",
+        "images/dolan-uyghur-cbd/06.jpg",
+        "images/dolan-uyghur-cbd/07.jpg",
+        "images/dolan-uyghur-cbd/08.jpg",
+        "images/dolan-uyghur-cbd/09.jpg",
+        "images/dolan-uyghur-cbd/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Big Plate Chicken Korma with Noodle – Regular 大盤雞（細）",
+          "price": "A$22.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16（UE A$25.80）"
+        },
+        {
+          "name": "Big Plate Chicken Korma with Noodle – Large 大盤雞（大）",
+          "price": "A$35.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16；3–4 人 share"
+        },
+        {
+          "name": "Lamb & Chopped Noodle Soup 羊肉麵片湯",
+          "price": "A$18.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16（UE A$23.80）"
+        },
+        {
+          "name": "Dolan's Secret Fried Noodle 招牌炒麵",
+          "price": "A$19.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16（UE A$23.80）"
+        },
+        {
+          "name": "Chopped Noodle with Rib Eye Sauce 肉眼牛炒麵片",
+          "price": "A$19.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Cold Noodle with Lamb Skewers 涼麵配羊肉串",
+          "price": "A$20.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Lamb Neck Noodle 羊頸肉拉麵",
+          "price": "A$21.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Noodle with Hot Chilli 辣子拉麵",
+          "price": "A$21.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Gourmet Noodle 招牌拌麵",
+          "price": "A$22.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Tiger Prawns Noodle 虎蝦拉麵",
+          "price": "A$26.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Beef Pastry 牛肉餡餅",
+          "price": "A$24.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Beef Samosa 牛肉烤包子",
+          "price": "A$11.80",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        },
+        {
+          "name": "Shish Kebab 羊肉串",
+          "price": "A$18.80",
+          "note": "Uber Eats PICKUP 2026-10-16；官網價未列"
+        },
+        {
+          "name": "Stir Fried Lamb and Naan 羊肉炒饢",
+          "price": "A$25.80",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Lamb Ribs Pilaf 羊排抓飯",
+          "price": "A$26.80",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Tender Lamb Ribs 嫩羊排",
+          "price": "A$36.80",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Garlic Cucumber 拍青瓜",
+          "price": "A$12.80",
+          "note": "Uber Eats PICKUP 2026-10-16"
+        },
+        {
+          "name": "Ayran 鹹乳酪飲品",
+          "price": "A$5.00",
+          "note": "官網 dolancuisine.com.au 網上落單價 2026-10-16"
+        }
+      ],
+      "menuPriceNote": "官網 dolancuisine.com.au 網上落單價（2026-10-16 讀取：拉麵類、部分小菜）優先；官網未見價嘅（羊肉串、炒饢、抓飯、羊排、涼菜）用 Uber Eats PICKUP 餐牌（getStoreV1，2026-10-16，44 款，382 Lonsdale St）。Uber Eats 一般比官網貴 A$4–5，堂食以店內餐牌為準。"
+    },
+    {
       "id": "dakao-hoang-springvale",
       "date": "2026-10-13",
       "name": "Dakao Hoang 大膠黃 (Springvale)",
