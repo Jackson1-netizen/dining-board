@@ -4,6 +4,278 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "namma-bangalore-vibbes-carnegie",
+      "date": "2026-10-19",
+      "name": "Namma Bangalore Vibbes（Carnegie）",
+      "cuisine": "南印度菜／班加羅爾 Dosa·Idli·Donne Biryani",
+      "area": "Carnegie",
+      "address": "118 Koornang Rd, Carnegie VIC 3163（Koornang Rd 食街，Carnegie 站行 2–3 分鐘）",
+      "priceBand": "$",
+      "hook": "The Age Good Food Guide 2026「100 Essential Restaurants」＋ Critics' Pick：Dani Valent 2026-01 專文話「I truly love it」。班加羅爾（Karnataka）家鄉菜：CTR 式脆皮 Masala Dosa、牛油 Benne Dosa、灑滿 podi 嘅 Ghee Thatte Idli、用 seeraga samba 短米煮、盛喺葉碗嘅 Donne Biryani，仲有正宗南印度 Filter Coffee。",
+      "vibe": "2025 年 10 月開嘅新店，橄欖綠色調、弧形椅、牆身係墨爾本 × 班加羅爾壁畫，乾淨明亮、服務好熱情；樓上有 RCB Lounge（40+ 座位、私人吧枱、露台），睇板球／包場一流。有酒牌（Kingfisher 啤酒、King Kohli 咖啡威士忌雞尾酒）。",
+      "partySize": "1–6 人（一個人叫一塊 dosa＋一杯 filter coffee 就搞掂；2–4 人叫 dosa＋idli＋biryani＋ghee roast share 最正；大班人可訂樓上 lounge）",
+      "dishes": [
+        "CTR Masala Dosa With Ghee（CTR 式脆皮薯仔馬沙拉 dosa，Good Food 推）",
+        "Ruchi Ghee Pudi Thatte Idli（灑 podi 香料粉＋牛油嘅大塊蒸米糕，Good Food 推）",
+        "Nati Style Chicken Donne Biryani（葉碗綠馬沙拉雞肉 biryani，Good Food 推）",
+        "Chicken Jo, Yen Boss!（老闆為老闆娘創作嘅招牌無骨炸雞）",
+        "Bangalore Chicken Kabab（班加羅爾式香脆炸雞）",
+        "Benne Dosa With Butter（牛油 dosa，夾紅辣醬同薯仔）",
+        "Mutton Ghee Roast／Prawn Ghee Roast（Mangalore 式牛油辣烤羊／蝦）",
+        "Chikpet Masala Puri（班加羅爾街頭 chaat，Good Food 推）",
+        "South Indian Filter Coffee（Chikmagalur 咖啡豆＋菊苣）",
+        "Pineapple Kesari Bath（菠蘿粗麥甜糕）"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線往城方向 4 個站（Oakleigh → Hughesdale → Murrumbeena → Carnegie）約 8 分鐘，出站行 2–3 分鐘；揸車經 North Rd／Koornang Rd 約 10 分鐘（Koornang Rd 一帶街泊／Woolworths 停車場）。電話 (03) 9191 2712；官網可 Book a Table（Good Food 寫 walk-ins only，人多建議先打電話）。入座睇餐牌落單；外賣有 Uber Eats、DoorDash、官網 Square 網上落單。第一次 2 人：CTR Masala Dosa＋Ghee Pudi Thatte Idli＋Nati Chicken Donne Biryani＋Chicken Jo，飲兩杯 filter coffee，最後 share 一個 Pineapple Kesari。",
+      "whenToGo": "今日（一）晚市有開 17:00–22:30（星期一冇午市）。平日 18:00 前去最易有位；Fri／Sat 夜晚最旺。想食早餐 dosa 就揀 Sat／Sun 10:00 開門。星期二休息。",
+      "hours": "官網 Location 頁（2026-10-19）：Mon 17:00–22:30；Tue 休息；Wed–Thu 17:00–22:30；Fri 11:30–23:00；Sat 10:00–23:00；Sun 10:00–22:00。Uber Eats getStoreV1（2026-10-19）接單：Mon 17:00–21:45、Tue 無、Wed–Thu 12:00–21:45、Fri 11:30–22:45、Sat–Sun 10:00 起（Sat 至 22:45、Sun 至 21:45）。⚠️ Good Food 2026-01 寫「供應食物至凌晨 1 點」，但官網而家寫最遲 23:00，以官網為準；Wed–Thu 午市 Uber Eats 有接單但官網冇寫，想午市去先打電話。",
+      "specials": "堂食價比外賣平：CTR Masala Dosa 堂食 A$20.99（UE A$25.18）、Masala Puri A$15.99（UE A$19.18）、Nati Chicken Donne Biryani A$27.99（UE A$32.38）。Filter coffee 只係 A$6.99。有非辣 kids menu，大部分菜式無麩質；樓上 RCB Lounge 可包場（生日、公司活動、睇板球）。暫時未見固定優惠／happy hour。人均堂食約 A$25–40。",
+      "why": "南印度菜係飲食看板第一次出現（之前只推過斯里蘭卡／北印度），同今日嘅川湘菜完全唔同國家。Carnegie 同 Huntingdale 同一條火車線，4 個站就到，係近排推過咁多 Glen Waverley／Springvale／Box Hill 之外嘅新地區。Good Food 2026 100 Essential＋Critics' Pick，價錢又平；Ghee Roast、Chicken Kabab、Chicken Jo 高蛋白，打完拳（StrikeFit Burwood）或者 Muscle City 練完晚市直落一流，Fri／Sat 開到 23:00。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/i-truly-love-it-the-late-night-carnegie-restaurant-that-had-our-reviewer-in-raptures-20260105-p5nrq2.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Namma%20Bangalore%20Vibbes%20118%20Koornang%20Rd%20Carnegie%20VIC%203163",
+      "images": [
+        "images/namma-bangalore-vibbes-carnegie/01.jpg",
+        "images/namma-bangalore-vibbes-carnegie/02.jpg",
+        "images/namma-bangalore-vibbes-carnegie/03.jpg",
+        "images/namma-bangalore-vibbes-carnegie/04.jpg",
+        "images/namma-bangalore-vibbes-carnegie/05.jpg",
+        "images/namma-bangalore-vibbes-carnegie/06.jpg",
+        "images/namma-bangalore-vibbes-carnegie/07.jpg",
+        "images/namma-bangalore-vibbes-carnegie/08.jpg",
+        "images/namma-bangalore-vibbes-carnegie/09.jpg",
+        "images/namma-bangalore-vibbes-carnegie/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "CTR Masala Dosa With Ghee",
+          "price": "A$20.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$25.18）"
+        },
+        {
+          "name": "Benne Dosa With Butter",
+          "price": "A$22.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$27.99）"
+        },
+        {
+          "name": "Kamath Ghee Pudi Dosa",
+          "price": "A$18.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Sukh Sagar Set Dosa With Saagu",
+          "price": "A$18.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Malleshwaram Ghee Thatte Idli",
+          "price": "A$13.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Ruchi Ghee Pudi Thatte Idli",
+          "price": "A$15.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$16.78）"
+        },
+        {
+          "name": "Nati Style Chicken Donne Biryani",
+          "price": "A$27.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$32.38）"
+        },
+        {
+          "name": "Hoskote Mutton Biryani",
+          "price": "A$29.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$35.98）"
+        },
+        {
+          "name": "Special Chicken Jo Biryani（無骨）",
+          "price": "A$32.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Chicken Jo, Yen Boss!",
+          "price": "A$25.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Bangalore Chicken Kabab",
+          "price": "A$24.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Peenya Ghee Roast（雞）",
+          "price": "A$24.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Mutton Ghee Roast",
+          "price": "A$27.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "price": "A$32.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Chikpet Masala Puri",
+          "price": "A$15.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價（UE A$19.18）"
+        },
+        {
+          "name": "Commercial Street Pani Puri",
+          "price": "A$15.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "South Indian Filter Coffee",
+          "price": "A$6.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Srirangapatna Pineapple Kesari Bath",
+          "price": "A$8.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        },
+        {
+          "name": "Death by Bangalore Chocolate (DBC)",
+          "price": "A$21.99",
+          "note": "官網餐牌 PDF（nammabangalorevibbes.com.au/menu，2026-10-19 讀取）堂食價"
+        }
+      ],
+      "menuPriceNote": "價錢來自官網餐牌 PDF（Beverage & Kitchen Menu，2026-10-19 下載）堂食價；括號係 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-19，117 款）價，平台一般貴 A$1–5。堂食以店內餐牌為準。"
+    },
+    {
+      "id": "red-cliff-cbd",
+      "date": "2026-10-19",
+      "name": "Red Cliff 赤壁（City）",
+      "cuisine": "川湘菜／麻辣·小龍蝦拌麵",
+      "area": "Melbourne CBD",
+      "address": "Ground Floor, 256 Queen St, Melbourne VIC 3000（Queen St 近 Lonsdale St）",
+      "priceBand": "$$",
+      "hook": "The Age Good Food Guide「100 Essential Restaurants」＋ Critics' Pick（14.5/20，2026-10 更新）：主打四川、湖南（加少少湖北）菜。招牌小龍蝦拌麵（yabby noodles）據講賣咗超過 10 萬碗，可揀麻辣、湘辣或十三香；仲有重慶辣子雞、自貢鮮椒仔薑牛肉、擂辣椒皮蛋、金湯酸菜魚。",
+      "vibe": "紅牆、紅黃燈籠、古代公主卡通壁畫，播住中文金曲，好「熱鬧」、好嘈、成晚爆滿；QR code 或者大張紙餐牌落單。Good Food 話服務比較直接、洗手間唔算靚，但係就係嗰種熱鬧。有私人房（轉盤枱）同酒牌（平到貴嘅白酒、中國啤酒）。",
+      "partySize": "2–8 人（菜份量大，最少 2–3 人先叫到幾款；4–8 人最啱，大班人可以訂有轉盤嘅私人房）",
+      "dishes": [
+        "Signature Yabby Noodle（招牌小龍蝦拌麵：麻辣／湘辣／十三香）",
+        "Kongfu Master Chinese Sauerkraut Fish（金湯酸菜魚）",
+        "Smashed Peppers with Century Eggs Salad（擂辣椒皮蛋，自己用擂缽搗）",
+        "Sichuan Style Braised Beef with Fresh Chilli and Pickled Ginger（自貢鮮椒仔薑牛肉）",
+        "Chongqing Spicy Chicken（重慶辣子雞）",
+        "Twice-Cooked Pork Belly（回鍋肉）",
+        "Wok Fried Fragrant Chilli Blue Swimmer Crab（香辣藍花蟹）",
+        "Sichuan Cold Noodle Salad（四川涼麵，唔食得辣可以揀麻醬）",
+        "Stinky Black Tofu with Chilli（長沙臭豆腐）",
+        "Ice Jelly with Brown Sugar（紅糖冰粉，解辣）"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線入城約 30 分鐘，喺 State Library 站（Metro Tunnel）落車，向西行約 10 分鐘去 Queen St／Lonsdale St 口。電話 (03) 9696 6666。晚市成日爆，walk-in 要攞籌（Good Food 等咗約 10 分鐘），4 人以上建議打電話訂位／私人房。入座掃 QR code 落單；外賣有 Uber Eats。2 人第一次：小龍蝦拌麵（揀湘辣或十三香）＋酸菜魚或自貢牛肉＋涼麵，最後叫紅糖冰粉。",
+      "whenToGo": "今日（一）有開：11:30–15:00、17:00–23:30。午市 12:00–13:30 多上班族；晚市 19:00–20:30 最多人，想唔等位 17:00–18:00 去，或者 21:00 後食宵夜。",
+      "hours": "Uber Eats getStoreV1（2026-10-19）：每日 11:30–15:00、17:00–23:30（無休息日）；Restaurant Guru／Apple Maps 星期一同樣 11:30–15:00、17:00–23:30。⚠️ 另一華文目錄寫晚市 17:30–22:00；佢冇官方網站公佈時間（redmelbourne.com 只叫你打電話），夜晚去前最好打 (03) 9696 6666 確認。",
+      "specials": "Good Food 2025 評論堂食價：小龍蝦拌麵 A$38.80、酸菜魚 A$38.80、擂辣椒皮蛋 A$26.80，兩人約 A$100（唔計飲品）。Uber Eats 價貴約兩成（拌麵／酸菜魚 A$47.28）。有平價同高檔白酒、中國啤酒。暫時未見固定優惠。人均堂食約 A$45–60。",
+      "why": "川湘菜係飲食看板第一次出現（之前推過嘅中菜係粵菜、上海麵點、蘭州拉麵、新疆菜），同 Carnegie 南印度菜係兩個唔同國家。Good Food 100 Essential，係墨爾本最出名嘅川湘館之一，你由 Huntingdale 搭火車直入城就到；份量大、夠辣夠刺激，啱約朋友／打完拳一班人 share，開到 23:30 食宵夜都得。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/red-cliff-melbourne-20250829-p5mqv0.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Cliff%20Chinese%20Restaurant%20256%20Queen%20St%20Melbourne",
+      "images": [
+        "images/red-cliff-cbd/01.jpg",
+        "images/red-cliff-cbd/02.jpg",
+        "images/red-cliff-cbd/03.jpg",
+        "images/red-cliff-cbd/04.jpg",
+        "images/red-cliff-cbd/05.jpg",
+        "images/red-cliff-cbd/06.jpg",
+        "images/red-cliff-cbd/07.jpg",
+        "images/red-cliff-cbd/08.jpg",
+        "images/red-cliff-cbd/09.jpg",
+        "images/red-cliff-cbd/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Signature Yabby Noodle 招牌小龍蝦拌麵",
+          "price": "A$47.28",
+          "note": "Uber Eats PICKUP 2026-10-19；Good Food 2025-06 評論堂食價 A$38.80"
+        },
+        {
+          "name": "Kongfu Master Chinese Sauerkraut Fish 金湯酸菜魚",
+          "price": "A$47.28",
+          "note": "Uber Eats PICKUP 2026-10-19；Good Food 2025-06 評論堂食價 A$38.80"
+        },
+        {
+          "name": "Smashed Peppers with Century Eggs Salad 擂辣椒皮蛋",
+          "price": "A$31.84",
+          "note": "Uber Eats PICKUP 2026-10-19；Good Food 2025-06 評論堂食價 A$26.80"
+        },
+        {
+          "name": "Sichuan Style Braised Beef with Fresh Chilli and Pickled Ginger 自貢鮮椒仔薑牛肉",
+          "price": "A$38.96",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Chongqing Spicy Chicken 重慶辣子雞",
+          "price": "A$38.96",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Sautéed Chicken with Hot Chilli and Peppercorn 辣椒花椒炒雞",
+          "price": "A$43.72",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Twice-Cooked Pork Belly 回鍋肉",
+          "price": "A$40.15",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Wok Fried Fragrant Chilli Blue Swimmer Crab 香辣藍花蟹",
+          "price": "A$69.86",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Sichuan Style Boiled Fish Slice in Fragrant Chilli Soup 水煮魚",
+          "price": "A$47.28",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Mapo Tofu 麻婆豆腐",
+          "price": "A$24.70",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Stinky Black Tofu with Chilli 臭豆腐",
+          "price": "A$16.39",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Sichuan Cold Noodle Salad 四川涼麵",
+          "price": "A$12.83",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Sour and Spicy Shredded Potatoes 酸辣土豆絲",
+          "price": "A$23.52",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Peking Duck (Half) 北京烤鴨（半隻）",
+          "price": "A$57.99",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Handmade noodles 手工麵",
+          "price": "A$9.50",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Fragrant Jasmin Rice 白飯（每碗）",
+          "price": "A$4.28",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        },
+        {
+          "name": "Ice Jelly with Brown Sugar 紅糖冰粉",
+          "price": "A$10.46",
+          "note": "Uber Eats PICKUP 2026-10-19"
+        }
+      ],
+      "menuPriceNote": "價錢來自 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-19 抓取，118 款，256 Queen St）。Red Cliff 冇官網價目表（redmelbourne.com 只叫人打電話問）。平台價比堂食貴約兩成：Good Food 2025-06 評論寫小龍蝦拌麵、酸菜魚各 A$38.80、擂辣椒皮蛋 A$26.80。堂食以店內餐牌為準。"
+    },
+    {
       "id": "my-cambodia-springvale",
       "date": "2026-10-16",
       "name": "My Cambodia (Springvale)",
