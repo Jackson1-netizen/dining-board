@@ -4,6 +4,249 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "gaon-gamasot-carnegie",
+      "date": "2026-10-22",
+      "name": "Gaon Gamasot Gomtang 가온 가마솥 곰탕（Carnegie）",
+      "cuisine": "韓國菜／가마솥 곰탕·설렁탕 牛骨清湯·炭烤牛肉",
+      "area": "Carnegie",
+      "address": "Shop 2/23 Koornang Rd, Carnegie VIC 3163（Koornang Rd 北段，Carnegie 站向北行約 250 米）",
+      "priceBand": "$",
+      "hook": "The Age Good Food Guide 2026（2026-10-12 收錄，13.5/20）＋ Dani Valent 2026-07 專文「A collagen-rich chorus」：前 Nobu／Crown 廚師 Michael（Hyunjin）Kim 用兩個由韓國運嚟、240 公升嘅鑄鐵大釜（gamasot）煲湯——清澈嘅 gomtang 牛肉湯（胸腩、牛心、牛面、牛腱）煲半日；奶白色嘅 seolleongtang 牛骨湯分三次、煲足 20 個鐘。湯底唔落鹽、唔落 MSG，鹽、胡椒、蔥自己加。",
+      "vibe": "40 個位嘅細舖，木枱＋吧枱，好似韓國街坊湯飯館，好多韓國長輩一家大細嚟飲湯；成日排隊，排隊時老闆娘會奉上熱茶。安靜、暖笠笠，一個人坐吧枱飲碗湯好自在。有 Cass／Asahi 生啤同南瓜甜米露。",
+      "partySize": "1–4 人（一人一碗湯最正，坐吧枱都得；2–4 人加一碟炭烤牛肉同白菜煎餅 share；細舖唔適合大班人）",
+      "dishes": [
+        "Gomtang 곰탕（清澈牛肉湯：胸腩、牛心、牛面、牛腱，配白飯同蘿蔔泡菜）",
+        "Seolleongtang 설렁탕（煲 20 個鐘嘅奶白牛骨湯，有麵）",
+        "Eonyang Bulgogi 언양 불고기（彥陽式炭烤和牛＋安格斯牛，甜甜鹹鹹有芝麻）",
+        "Baechujeon 배추전（整塊白菜葉炸成嘅煎餅，點醬油）",
+        "Tteok Mandu Guk 떡만두국（牛骨湯年糕豬肉韭菜餃子）",
+        "Jangeotang 장어탕（塔斯曼尼亞活鰻魚湯，逢星期四到貨）",
+        "炭烤牛肚牛筋（辣醬、紫蘇葉、韭菜）／辣炒牛尾",
+        "LA Galbi（韓式牛仔骨）",
+        "Sujeonggwa 수정과（肉桂薑人參熱甜湯，飯後解膩）"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線往城方向 4 個站（約 8 分鐘）到 Carnegie，出站沿 Koornang Rd 向北（Dandenong Rd 方向）行 3–4 分鐘；揸車約 10 分鐘，Koornang Rd 一帶街泊／附近停車場。電話 (03) 9022 8282。Walk-in only（Good Food），唔接訂位，人多就排隊；入座睇餐牌落單，湯底自己加鹽、胡椒、蔥。冇 Uber Eats。第一次 2 人：一碗 Gomtang（清）＋一碗 Seolleongtang（濃）對比，加 Eonyang Bulgogi 同 Baechujeon share，最後飲杯 Sujeonggwa。",
+      "whenToGo": "今日（四）有開（各來源都寫至少 11:00–21:00）；Broadsheet 話星期四有新鮮塔斯曼尼亞鰻魚，想試鰻魚湯就今日去。午市 12:00–13:30、晚市 18:00–19:30 最多人排隊；Good Food 建議避開正餐時間，15:00–17:00 或 20:00 後去最快有位。星期日有冇開各來源講法唔同，去之前打電話。",
+      "hours": "⚠️ 各來源唔一致：Broadsheet 店家頁（2026-06-29 更新）＋ Table Atlas：Mon–Thu 11:00–21:00；Fri–Sat 11:00–22:00；Sun 11:00–21:00（無休）。Broadsheet 開業專文（2026-05-05 更新）：Mon–Sat 10:00–22:00（冇寫星期日）。Google 資料（經 Exa／Curateria 轉載）：Mon–Sat 10:00–22:00，Sun 休息。冇官網、唔喺 Uber Eats。星期一至六 11:00–21:00 一定有開；星期日同 21:00 後請先打 (03) 9022 8282 確認。",
+      "specials": "價錢實惠：Gomtang、Tteok Mandu Guk 各 A$26、Baechujeon A$8（2026-08 食評）；Good Food 評為「兩人唔計飲品 A$100 以下」，網上食評話兩人連燒肉約 A$65。蘿蔔泡菜免費添。有網上食評提到現金 9 折，未經店方確認，記得問。人均約 A$25–40。",
+      "why": "韓國菜上次出現已經係 9 月尾嘅韓式炸雞，今次係完全唔同嘅韓國「湯飯」路線，同今日嘅尼泊爾菜係兩個唔同國家。Carnegie 同 Huntingdale 同一條火車線 4 個站，出站行幾分鐘就到。一碗牛肉清湯配白飯，高蛋白、低油、唔加 MSG，打完拳（StrikeFit Burwood）或者 Muscle City 練完嚟補身最啱；Good Food Guide 2026 新收錄、Broadsheet 都專訪過。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/a-collagen-rich-chorus-this-20-hour-korean-noodle-soup-attracts-daily-queues-20260708-p60dqg.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaon%20Gamasot%20Gomtang%202%2F23%20Koornang%20Rd%20Carnegie%20VIC%203163",
+      "images": [
+        "images/gaon-gamasot-carnegie/01.jpg",
+        "images/gaon-gamasot-carnegie/02.jpg",
+        "images/gaon-gamasot-carnegie/03.jpg",
+        "images/gaon-gamasot-carnegie/04.jpg",
+        "images/gaon-gamasot-carnegie/05.jpg",
+        "images/gaon-gamasot-carnegie/06.jpg",
+        "images/gaon-gamasot-carnegie/07.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Gomtang 곰탕（清牛肉湯）",
+          "price": "A$26",
+          "note": "Sweet and Sour Fork 食評（2026-08-12）堂食價"
+        },
+        {
+          "name": "Tteok Mandu Guk 떡만두국（年糕餃子牛骨湯）",
+          "price": "A$26",
+          "note": "Sweet and Sour Fork 食評（2026-08-12）堂食價"
+        },
+        {
+          "name": "Baechujeon 배추전（白菜煎餅）",
+          "price": "A$8",
+          "note": "Sweet and Sour Fork 食評（2026-08-12）堂食價"
+        },
+        {
+          "name": "Seolleongtang 설렁탕（奶白牛骨湯）",
+          "price": "問價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價"
+        },
+        {
+          "name": "Eonyang Bulgogi 언양 불고기（炭烤牛肉）",
+          "price": "問價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價"
+        },
+        {
+          "name": "Jangeotang 장어탕（鰻魚湯）",
+          "price": "問價／時價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價；鰻魚每週四由塔斯曼尼亞空運到貨"
+        },
+        {
+          "name": "LA Galbi（韓式牛仔骨）",
+          "price": "問價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價"
+        },
+        {
+          "name": "炭烤辣牛肚牛筋／辣炒牛尾",
+          "price": "問價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價"
+        },
+        {
+          "name": "Sujeonggwa 수정과／南瓜甜米露",
+          "price": "問價",
+          "note": "未有公開價目（冇官網餐牌、唔喺 Uber Eats），問價"
+        }
+      ],
+      "menuPriceNote": "Gaon 冇官網、唔喺 Uber Eats／DoorDash，網上搵唔到完整價目表。Gomtang、Tteok Mandu Guk 各 A$26、Baechujeon A$8 來自 Sweet and Sour Fork 食評（2026-08-12）；其他菜式未有公開價，標「問價」，以店內餐牌為準。Good Food：兩人唔計飲品 A$100 以下。"
+    },
+    {
+      "id": "lah-bros-windsor",
+      "date": "2026-10-22",
+      "name": "Lah Bros（Windsor）",
+      "cuisine": "尼泊爾菜／現代 Nepali·Momo·咖喱",
+      "area": "Windsor",
+      "address": "119 Chapel St, Windsor VIC 3181（Chapel St 近 Dandenong Rd 口，Windsor 站行約 5 分鐘）",
+      "priceBand": "$$",
+      "hook": "The Age Good Food：Dani Valent 2025-03 專文「‘Outstanding curries’: Chapel Street spot showcases a new side of Nepalese cuisine」。加德滿都出身嘅老闆兼主廚 Rajeev Chakradhar（曾喺 Peppina 做）用現代手法煮尼泊爾家鄉菜：配 pickled fennel 嘅豬肉 momo、媽媽食譜煙燻茄子醬配炸麵包、Newari 黑豆餅 bara、皮脆嘅豬腩咖喱、帶骨慢煮山羊咖喱。Broadsheet 都有收錄。",
+      "vibe": "38 個位嘅細小溫馨餐廳，牆上掛尼泊爾藝術品，員工好熱情健談（「Lah bros」即係「OK 啦兄弟」）；擺盤精緻但唔拘謹，啱約會或者三五知己。有酒牌：尼泊爾精釀啤酒、雞尾酒。",
+      "partySize": "2–6 人（菜式係 share 形式，2 人叫 3–4 款小碟＋1 個咖喱啱啱好；4–6 人可以叫 Feed Me 套餐；大班人包場要直接聯絡）",
+      "dishes": [
+        "Pork Momo（豬肉 momo 餃子，番茄芝麻花生 achaar、醃茴香、辣油）",
+        "Crispy Pork Belly Curry（脆皮豬腩咖喱配印度香米、ghee，Good Food 推）",
+        "Slow Cooked Goat Curry（帶骨慢煮山羊咖喱，Good Food 推）",
+        "Nepali Fried Bread（炸麵包配媽媽食譜煙燻茄子番茄醬）",
+        "Lentil Pancake 'Bara'（Newari 黑豆餅＋63 度蛋＋gundruk 羊肉汁）",
+        "Cured Bluefin Tuna（金槍魚、柚子、西柚、檳榔葉）",
+        "Grilled Lamb Skewers（烤羊肉串配芫荽 chutney）",
+        "Crispy Chilli Chicken Ribs（辣炒雞軟骨排）",
+        "Triple Cooked Timmur Potatoes（timmur 花椒三重炸薯仔）",
+        "Basque 'Kheer' Cheesecake（荳蔻米布甸味巴斯克芝士蛋糕）"
+      ],
+      "howToOrder": "揸車由 Huntingdale 經 Dandenong Rd（Princes Hwy）一直向城方向約 20–25 分鐘就到 Chapel St 口，附近街泊（Chapel St 一帶要留意泊車時限）；公共交通：Huntingdale 搭 Pakenham／Cranbourne 線到 Caulfield 或 Richmond 轉 Sandringham 線到 Windsor 站，約 35–40 分鐘，出站行約 5 分鐘；亦可以喺 Dandenong Rd 搭 5／64 號電車。電話 (03) 9421 6215，官網可網上訂位（人多建議訂）；外賣有 Uber Eats（只有 11 款）。第一次 2 人：Pork Momo＋Nepali Fried Bread＋Bara 做前菜，再叫 Crispy Pork Belly 或 Goat 咖喱（跟飯），最後 share Kheer Cheesecake；唔想諗就叫 Feed Me A$60pp。",
+      "whenToGo": "今日（四）有開：午市 12:00–14:30、晚市 17:30–22:00。平日午市有 A$20 Lunch Express（咖喱飯碗或炭烤雞）最抵；星期二晚 Curry Night A$25（只限堂食）。Fri／Sat 晚最旺，要訂位。星期一休息、星期二三冇午市。",
+      "hours": "官網（2026-10-22）：午市 Thu–Sun 12:00–14:30；晚市 Tue–Sun 17:30–22:00；Mon 休息（Tue–Wed 只有晚市）。Uber Eats getStoreV1（2026-10-22）接單：Thu–Sun 12:00–15:00、Tue–Sun 17:00–21:30，Mon 無。Broadsheet（2024-08 更新）：星期日晚市只到 21:30。以官網為準；星期日夜晚去最好 21:00 前到。",
+      "specials": "Tuesday Curry Night：任揀一款招牌咖喱＋每週轉嘅配菜 A$25（只限堂食）；Lunch Express（12:00–14:30）咖喱飯碗或炭烤雞 A$20；Feed Me 套餐 A$60pp／A$80pp。不定期有主題晚（例如 2026-10-14 Newari Night A$75pp）。堂食大多比 Uber Eats 平 A$1–4（但 Kheer Cheesecake UE A$13 反而平過堂食 A$15）。人均堂食約 A$45–70。",
+      "why": "尼泊爾菜係飲食看板第一次出現，同今日嘅韓國湯飯係兩個唔同國家。Windsor 喺東南區 inner south-east，由 Huntingdale 經 Dandenong Rd 一條路揸車就到，係之前未推過嘅新地區。Good Food 讚佢咖喱「outstanding」，豬腩咖喱、山羊咖喱、羊肉串都係高蛋白，練完拳（StrikeFit Burwood）晚市去一流；平日午市 A$20、星期二 A$25 咖喱夜都好抵。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/outstanding-curries-chapel-street-spot-showcases-a-new-side-of-nepalese-cuisine-20250311-p5lisg.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lah%20Bros%20119%20Chapel%20St%20Windsor%20VIC%203181",
+      "images": [
+        "images/lah-bros-windsor/01.jpg",
+        "images/lah-bros-windsor/02.jpg",
+        "images/lah-bros-windsor/03.jpg",
+        "images/lah-bros-windsor/04.jpg",
+        "images/lah-bros-windsor/05.jpg",
+        "images/lah-bros-windsor/06.jpg",
+        "images/lah-bros-windsor/07.jpg",
+        "images/lah-bros-windsor/08.jpg",
+        "images/lah-bros-windsor/09.jpg",
+        "images/lah-bros-windsor/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Nepali Fried Bread（煙燻茄子番茄醬）",
+          "price": "A$7",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE 2 件 A$9.00）"
+        },
+        {
+          "name": "Masala Whitebait",
+          "price": "A$9",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Aalu Nimki Tart（每件）",
+          "price": "A$7",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Pork Momo",
+          "price": "A$15",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE 5 件 A$16.00）"
+        },
+        {
+          "name": "Cured Bluefin Tuna（檳榔葉）",
+          "price": "A$24",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Crispy Chilli Chicken Ribs",
+          "price": "A$17",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$21.00）"
+        },
+        {
+          "name": "Curry Braised Pork Croquettes",
+          "price": "A$16",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE 3 件 A$17.00）"
+        },
+        {
+          "name": "Grilled Lamb Skewers",
+          "price": "A$22",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE 2 串 A$25.00）"
+        },
+        {
+          "name": "Lentil Pancake 'Bara'",
+          "price": "A$16",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Duck 'Chhoila' Roti Tacos",
+          "price": "A$22",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Chargrilled Tiger Prawn",
+          "price": "A$26",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Crispy Pork Belly Curry（跟飯）",
+          "price": "A$34",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$34.00）"
+        },
+        {
+          "name": "Slow Cooked Goat Curry（帶骨，跟飯）",
+          "price": "A$35",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$36.00）"
+        },
+        {
+          "name": "Seasonal Vegetables Curry（跟飯）",
+          "price": "A$29",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Spiced Chargrilled Chicken",
+          "price": "A$38",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Gippsland Lamb Chop",
+          "price": "A$38",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Triple Cooked Timmur Potatoes",
+          "price": "A$14",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$16.00）"
+        },
+        {
+          "name": "Steamed Basmati Rice w/ ghee",
+          "price": "A$5",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$6.00）"
+        },
+        {
+          "name": "Basque 'Kheer' Cheesecake",
+          "price": "A$15",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價（UE A$13.00）"
+        },
+        {
+          "name": "Feed Me #1／#2（每位）",
+          "price": "A$60／A$80",
+          "note": "官網餐牌 lahbros.com.au/eat（2026-10-22 讀取）堂食價"
+        },
+        {
+          "name": "Tuesday Curry Night（咖喱＋配菜）",
+          "price": "A$25",
+          "note": "官網 What's On（2026-10-22）；只限堂食"
+        },
+        {
+          "name": "Lunch Express 咖喱飯碗／炭烤雞",
+          "price": "A$20",
+          "note": "官網 What's On（2026-10-22）；12:00–14:30"
+        }
+      ],
+      "menuPriceNote": "價錢來自官網 Eat 餐牌（lahbros.com.au/eat，2026-10-22 讀取）堂食價；括號係 Uber Eats PICKUP 即時餐牌（getStoreV1，2026-10-22，11 款）價。官網註明餐牌會因季節轉，堂食以店內餐牌為準。"
+    },
+    {
       "id": "namma-bangalore-vibbes-carnegie",
       "date": "2026-10-19",
       "name": "Namma Bangalore Vibbes（Carnegie）",
