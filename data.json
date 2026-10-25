@@ -4,6 +4,284 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "prince-of-yazh-dandenong",
+      "date": "2026-10-25",
+      "name": "The Prince of Yazh（Dandenong）",
+      "cuisine": "斯里蘭卡菜／北部 Jaffna 泰米爾菜·Hoppers·Kottu Roti",
+      "area": "Dandenong",
+      "address": "111 Foster St, Dandenong VIC 3175（Dandenong 站行約 8–10 分鐘，近 Dandenong Market／Little India 一帶）",
+      "priceBand": "$",
+      "hook": "The Age Good Food Guide 14/20 Critics' Pick（2026 版，2026-10-11 更新，2026-06 再訪）＋ 2025-05 Good Food 專文「The flavours are alive」：老闆兼主廚 Jay Mahendran 同媽媽 Maharani（前 Mount Waverley Palms Food Court 大廚）、太太 Nayani 一家人主理，專做斯里蘭卡北部 Jaffna 泰米爾家鄉菜——大部分墨爾本斯里蘭卡餐廳都係南部 Sinhalese 口味，呢度少有。咖喱粉由 Jaffna 自家香料磨坊運嚟；hoppers、parotta 喺門口窗邊即場整，星期日有蕉葉 thali 任添。",
+      "vibe": "深藍色牆嘅兩間細飯廳，一家大細開，老闆會親自過嚟介紹、幫你添咖喱；好似去咗 Jaffna 朋友屋企食飯，輕鬆隨意，用手食都得（後面有洗手位）。冇酒牌，飲 masala tea 或者 nelli crush。",
+      "partySize": "2–6 人（2 人叫 hoppers＋kottu＋一個咖喱啱啱好；4–6 人 share 多款咖喱、parotta 最抵；星期日 thali 一人一份）",
+      "dishes": [
+        "Banana Leaf Thali（星期日午市蕉葉套餐，咖喱任添）",
+        "Egg Hopper／Hopper Deal（即叫即整嘅碗形米漿薄餅，配雞咖喱、seeni sambal、椰子 sambal）",
+        "Kothu Roti（即製 godamba roti 切碎同蛋、菜、咖喱汁炒，Good Food 推）",
+        "Parotta（超鬆化嘅層層餅，配咖喱）",
+        "Atu Kari 山羊咖喱（帶骨）／Koli Kari 雞咖喱",
+        "Iraal Poriyal 薑黃炒蝦（Good Food 推）",
+        "Arisi Maa Puttu 米粉椰絲蒸筒＋咖喱",
+        "Fish Cutlets 辣魚肉薯仔炸餅",
+        "Nelli Crush（油甘子菠蘿羅勒籽飲品）／Watalappan 椰汁焦糖布甸"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線往 Dandenong 方向約 20 分鐘到 Dandenong 站，出站行 8–10 分鐘；揸車經 Princes Hwy／Monash Fwy 約 20 分鐘，Foster St 一帶有街泊同 Dandenong Market 停車場。Walk-in 為主，大枱可以打電話（Uber Eats 登記 0431 942 517；Google 資料另有 0490 440 847）。外賣有 Uber Eats。第一次 2 人：Hopper Deal（4 個 hoppers＋蛋 hopper＋雞咖喱）＋ Kothu Roti ＋ 一個 Atu Kari 山羊咖喱，加兩塊 parotta，飲 nelli crush；星期日午市就直接叫蕉葉 thali，用右手指撈飯同 dhal 食。",
+      "whenToGo": "今日（日）有開：午市 12:00／12:30 起（星期日蕉葉 thali 任添只限午市）、晚市 17:30 至深夜。Good Food（2025）話每月第一個星期六有 Jaffna 海鮮湯 odiyal kool（全墨爾本少有），想試就揀嗰日。星期六晚 20:00–22:00 最旺可能要等 15 分鐘；平日晚 18:00 前去最鬆動。星期二休息，星期三有冇開各來源唔同（見營業時間）。",
+      "hours": "⚠️ 各來源唔一致：Uber Eats getStoreV1（2026-10-25）：Mon 17:30–22:30；Tue–Wed 休息；Thu 17:30–22:30；Fri 17:30–23:45；Sat–Sun 12:00–23:45。Google 資料（經 Curateria／Exa 轉載）：Mon、Wed–Fri 17:30–22:30；Sat–Sun 午市 12:30–15:30＋晚市 17:30 起（Curateria 寫星期日晚市到 01:00）；Tue 休息。即係：星期二一定休息；星期三 Google 話有開、Uber Eats 話冇；週末午市 12:00–12:30 開。星期三去或者夜晚 22:30 後去，請先打電話確認。",
+      "specials": "星期日蕉葉 thali 任添（Good Food 2025 寫 A$30／位，現價請問）；Uber Eats 有「$10 Deals」：雞肉 Biriyani、Rice & Curry、Parotta Deal（2 塊 parotta＋細雞咖喱）、Chilli Egg Roti 各 A$10。有兒童餐（唔辣）。冇酒牌、唔可以飲酒。Good Food：兩人唔計飲品約 A$60，人均約 A$25–40。",
+      "why": "斯里蘭卡菜係飲食看板第一次出現，而且係少見嘅北部 Jaffna 泰米爾風味；同今日嘅日本茶屋 café 係兩個完全唔同國家。Dandenong 同 Huntingdale 同一條 Pakenham／Cranbourne 線，唔使轉車。今日星期日啱啱有蕉葉 thali 任添，Good Food Guide 14/20 Critics' Pick；山羊咖喱、雞咖喱、炒蝦都係高蛋白，練完拳或者 Muscle City 之後夜晚嚟醫肚一流，價錢又抵（Uber Eats 有 A$10 套餐）。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/prince-of-yazh-dandenong-20250829-p5mqut.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Prince%20of%20Yazh%20111%20Foster%20St%20Dandenong%20VIC%203175",
+      "images": [
+        "images/prince-of-yazh-dandenong/01.jpg",
+        "images/prince-of-yazh-dandenong/02.jpg",
+        "images/prince-of-yazh-dandenong/03.jpg",
+        "images/prince-of-yazh-dandenong/04.jpg",
+        "images/prince-of-yazh-dandenong/05.jpg",
+        "images/prince-of-yazh-dandenong/06.jpg",
+        "images/prince-of-yazh-dandenong/07.jpg",
+        "images/prince-of-yazh-dandenong/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Banana Leaf Thali（星期日午市，任添）",
+          "price": "A$30（2025 價，現價問）",
+          "note": "Good Food 2025-05 食評「Go-to dishes」堂食價"
+        },
+        {
+          "name": "Kottu Roti",
+          "price": "A$19",
+          "note": "Good Food 2025-05 食評「Go-to dishes」堂食價；Uber Eats「Kothu Roti」（蛋＋菜）A$10.65"
+        },
+        {
+          "name": "Egg Hopper（每個）",
+          "price": "A$3",
+          "note": "Good Food 2025-05 食評「Go-to dishes」堂食價"
+        },
+        {
+          "name": "Parotta（每塊）",
+          "price": "A$3",
+          "note": "Good Food 2025-05 食評「Go-to dishes」堂食價；Uber Eats A$6.00"
+        },
+        {
+          "name": "Hopper Deal（4 個 hoppers＋蛋＋雞咖喱）",
+          "price": "A$12.20",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Atu Kari 山羊咖喱（帶骨，跟少量飯）",
+          "price": "A$25.55",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Koli Kari 雞咖喱（帶骨，跟少量飯）",
+          "price": "A$23.30",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Meen Kari 魚咖喱",
+          "price": "A$27.75",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Iraal Poriyal 炒蝦",
+          "price": "A$20.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Lamb Poriyal 炒羊肉",
+          "price": "A$14.45",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Fish Cutlets（2 件）",
+          "price": "A$10.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Arisi Maa Puttu 米粉椰絲蒸筒",
+          "price": "A$8.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Sri Lankan Chicken Biriyani",
+          "price": "A$15.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Rice & Curry（4 款素咖喱＋飯）",
+          "price": "A$15.20",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "$10 Deals：Chicken Biriyani／Rice & Curry／Parotta Deal／Chilli Egg Roti",
+          "price": "A$10.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Watalappan 椰汁焦糖布甸",
+          "price": "A$12.20",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Nelli Crush",
+          "price": "A$7.75",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Masala Tea",
+          "price": "A$5.55",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        }
+      ],
+      "menuPriceNote": "Prince of Yazh 冇官網餐牌。Thali、Kottu Roti、Egg Hopper、Parotta 價錢來自 Good Food 2025-05 食評（堂食價，可能已調整）；其餘來自 Uber Eats PICKUP 即時餐牌（2026-10-25 讀取，43 款）。Uber Eats 價同堂食可能有出入，以店內餐牌為準。"
+    },
+    {
+      "id": "chayo-clayton",
+      "date": "2026-10-25",
+      "name": "Chayō 茶葉 Japanese Café（Clayton）",
+      "cuisine": "日本菜／茶屋 Café·定食·丼·抹茶",
+      "area": "Clayton",
+      "address": "351 Clayton Rd, Clayton VIC 3168（Clayton Rd 主街，Clayton 站行約 5 分鐘；隔籬係日本雜貨舖 Minimaru）",
+      "priceBand": "$",
+      "hook": "The Age Good Food 收錄（2026-01-12）：「Here to fulfil any Japanese food cravings」——早餐有抹茶 granola、紅豆 Ogura 多士，午市有 teishoku 定食、日式咖喱飯同炸雞 burger；抹茶由茶藝師（tea sommelier）揀選，仲有冷熱柚子飲品。官網有賣丸久小山園抹茶粉、茶筅，亦辦抹茶／咖啡班。",
+      "vibe": "細細間、光猛木系嘅日式茶屋 café，好似東京住宅區嘅喫茶店；坐低好舒服，啱一個人食個定食飲杯抹茶，或者兩三個朋友 brunch 傾偈。週末午餐時間好多人，可能要等位。隔籬 Minimaru 可以順手行下日本廚具雜貨。",
+      "partySize": "1–4 人（細舖，一個人坐都自在；2–4 人 brunch／午餐最啱；大班人唔太適合）",
+      "dishes": [
+        "Aburi Salmon Donburi 炙燒三文魚丼",
+        "Salmon Sashimi Donburi 三文魚刺身丼",
+        "Prawn Tempura Teishoku 炸蝦天婦羅定食",
+        "Agedashi Tofu Teishoku 揚出豆腐定食（純素）",
+        "Hokke／Saba Shioyaki 鹽燒魚定食",
+        "Chicken Katsu Curry／Omu Curry Rice 日式咖喱飯",
+        "Karaage Chicken Burger／Mini Karaage bites 日式炸雞",
+        "Ogura Toast 紅豆牛油厚多士（早餐）",
+        "Iced Yuzu Matcha／Premium Matcha Latte／Matcha Basque Cheesecake"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線往 Dandenong 方向 1 個站到 Clayton（約 3 分鐘），出站沿 Clayton Rd 行約 5 分鐘；揸車約 7–10 分鐘，Clayton Rd 一帶街泊或者站旁停車場。Walk-in，入座掃 QR／櫃枱落單；外賣可以喺官網 chayo.com.au 網上落單自取（官網價比 Uber Eats 平），亦有 Uber Eats。電話（Uber Eats 登記）(03) 8524 4103。第一次：一個人叫 Aburi Salmon Donburi 或 Prawn Tempura Teishoku＋Iced Yuzu Matcha；兩個人加 Mini Karaage bites share，飯後叫件 Matcha Basque Cheesecake。",
+      "whenToGo": "今日（日）有開到 16:00（午市餐牌 10:30–15:30）。早餐 08:00–10:30（Ogura Toast、Breakfast Teishoku），午市 10:30–15:30（丼、定食、咖喱）。週末 11:30–13:30 最多人；平日或者 14:00 後去最易有位。只開日間，夜晚冇得食。",
+      "hours": "官網（chayo.com.au，2026-10-25 讀取）：Mon–Sun 08:00–16:00；公眾假期 09:00–15:00。官網網上餐牌分早餐 08:00–10:30、午市 10:30–15:30。Uber Eats getStoreV1（2026-10-25）接單：每日 08:30–15:30（Mon–Thu、Sat 至 15:45）。冇休息日。",
+      "specials": "官網網上落單自取價比 Uber Eats 平約 A$1–4（例如 Karaage Chicken Burger 兩邊都係 A$17，但 Aburi Salmon Don 官網 A$25 vs UE A$28.95）。官網有賣丸久小山園抹茶粉、茶筅、整蛋糕（Matcha Nama Chocolate Tart 等全個 A$70 起），亦有抹茶／咖啡工作坊。有清酒、Kirin／Suntory 啤酒。人均約 A$25–40（定食＋飲品）。",
+      "why": "日本菜上次係 9 月嘅 Matsuki 居酒屋（晚市飲酒），今次係日間茶屋 café＋定食路線，同今日嘅斯里蘭卡菜係兩個唔同國家。Clayton 離 Huntingdale 只係一個火車站，係看板最近屋企嘅選擇之一，平日午餐或者週末 brunch 好方便。三文魚丼、鹽燒魚、天婦羅定食高蛋白又清淡，練完拳之後食都唔會太膩；抹茶由茶藝師揀，鍾意飲茶一定要試。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/melbourne-eating-out/chayo-20260112-p5ntd4.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chay%C5%8D%20Japanese%20Cafe%20351%20Clayton%20Rd%20Clayton%20VIC%203168",
+      "images": [
+        "images/chayo-clayton/01.jpg",
+        "images/chayo-clayton/02.jpg",
+        "images/chayo-clayton/03.jpg",
+        "images/chayo-clayton/04.jpg",
+        "images/chayo-clayton/05.jpg",
+        "images/chayo-clayton/06.jpg",
+        "images/chayo-clayton/07.jpg",
+        "images/chayo-clayton/08.jpg",
+        "images/chayo-clayton/09.jpg",
+        "images/chayo-clayton/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Aburi Salmon Donburi 炙燒三文魚丼",
+          "price": "A$25.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$28.95）"
+        },
+        {
+          "name": "Salmon Sashimi Donburi 三文魚刺身丼",
+          "price": "A$30.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Unagi & Omelette Donburi 鰻魚蛋丼",
+          "price": "A$35.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE Unagi Don A$39.40）"
+        },
+        {
+          "name": "Prawn Tempura Teishoku 天婦羅定食",
+          "price": "A$24.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Agedashi Tofu Teishoku 揚出豆腐定食（純素）",
+          "price": "A$25.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Hokke Shioyaki 鹽燒𩸽魚",
+          "price": "A$19.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE 便當 A$29.90）"
+        },
+        {
+          "name": "Saba Shioyaki 鹽燒鯖魚",
+          "price": "A$17.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE 便當 A$26.45）"
+        },
+        {
+          "name": "Teriyaki Chicken 照燒雞",
+          "price": "A$16.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE 便當 A$27.00）"
+        },
+        {
+          "name": "Omu Curry Rice 蛋包咖喱飯",
+          "price": "A$20.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Chicken Katsu Curry 吉列雞咖喱",
+          "price": "A$25.50",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-25）"
+        },
+        {
+          "name": "Karaage Chicken Burger",
+          "price": "A$17.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$17.00）"
+        },
+        {
+          "name": "Mini Karaage bites",
+          "price": "A$13.50",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Tofu Katsu Sando（素）",
+          "price": "A$19.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$20.70）"
+        },
+        {
+          "name": "Takoyaki 章魚燒（8 粒）",
+          "price": "A$12.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$12.65）"
+        },
+        {
+          "name": "Ogura Toast 紅豆多士（早餐）",
+          "price": "A$14.50",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$14.00）"
+        },
+        {
+          "name": "Salmon Ochazuke 三文魚茶漬飯",
+          "price": "A$23.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$25.95）"
+        },
+        {
+          "name": "Iced Yuzu Matcha",
+          "price": "A$8.25",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$9.13）"
+        },
+        {
+          "name": "Matcha Latte（熱）",
+          "price": "A$6.25",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）（UE A$6.38）"
+        },
+        {
+          "name": "Premium Matcha Tea Latte（熱）",
+          "price": "A$9.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        },
+        {
+          "name": "Matcha Basque Cheesecake",
+          "price": "A$10.00",
+          "note": "官網 Square 網上餐牌 chayo.com.au（2026-10-25 讀取）"
+        }
+      ],
+      "menuPriceNote": "價錢主要來自 Chayō 官網 Square 網上落單餐牌（chayo.com.au，2026-10-25 讀取，自取價）；括號係 Uber Eats PICKUP 即時餐牌（2026-10-25）價。官網部分單品（如鹽燒魚、照燒雞）係單點價，Uber Eats 係便當套餐價，所以差距較大。堂食以店內餐牌為準。"
+    },
+    {
       "id": "gaon-gamasot-carnegie",
       "date": "2026-10-22",
       "name": "Gaon Gamasot Gomtang 가온 가마솥 곰탕（Carnegie）",
