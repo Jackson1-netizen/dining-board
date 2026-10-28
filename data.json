@@ -4,6 +4,310 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "cha-adda-hughesdale",
+      "date": "2026-10-28",
+      "name": "Cha Adda（Hughesdale）",
+      "cuisine": "孟加拉菜／Bangladeshi 家常·Kacchi Biryani·Khichuri",
+      "area": "Hughesdale",
+      "address": "73 Warrigal Rd, Hughesdale VIC 3166（Warrigal Rd 近 Poath Rd 一帶，Hughesdale 站行約 10–15 分鐘；門口有泊車位）",
+      "priceBand": "$",
+      "hook": "The Age Good Food Guide 12.5/20 Critics' Pick（2026 版 Critics' Picks 名單有佢，2026-09-24 更新）：「Tucked away and hiding lots of surprises」。墨爾本少有嘅正宗孟加拉（Bangladeshi）家庭菜館，由老闆 Sanam Chowdhury 主理；Good Food 讚 kacchi biryani 羊肉「軟到吹一吹就甩骨」，khichuri 薑黃飯慢慢辣上嚟，仲有孟加拉街頭小食 mughlai paratha、chotpoti，自家製 mishti doi 焦糖乳酪同辣味乳酪飲品 borhani。",
+      "vibe": "溫暖、安靜、乾淨嘅家庭式飯廳，似去孟加拉朋友屋企食飯；唔係花巧餐廳，但坐得舒服，一家大細或者朋友聚會都啱。Good Food 話服務好熱情但有時會唔記得嘢，唔好趕時間。",
+      "partySize": "2–6 人（2 人叫一個 biryani＋一個咖喱＋小食；4 人以上可以叫 Family Deal A$74 share）",
+      "dishes": [
+        "Lamb Kacchi Biriyani 羊肉 Kacchi 香飯（Good Food Must-order：羊肉、薯仔、藏紅花飯一層層焗）",
+        "Chicken／Beef Khichuri 薑黃雞／牛肉粥飯（Good Food 推）",
+        "Egg Mughlai Paratha 蛋餡酥皮煎餅（孟加拉街頭小食）",
+        "Chotpoti 黃豌豆蛋碎配脆殼 fuchka（酸辣街頭小食）",
+        "Chicken Roast with egg and polao 孟加拉婚宴式烤雞＋蛋＋Polao 香米飯",
+        "Beef Teheri 牛肉香料飯",
+        "Lamb Rogan Josh／Bengali Chicken Curry／Deshi Mach Vuna 孟加拉魚咖喱",
+        "Mishti Doi 自家製焦糖乳酪＋Burhani（Borhani）辣味乳酪飲品"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線往城方向 2 個站到 Hughesdale（約 5 分鐘），出站沿 Poath Rd／Warrigal Rd 行約 10–15 分鐘；揸車約 8–10 分鐘，餐廳有泊車位（食客評語都話 plenty of parking）。Walk-in 為主，大枱可以打電話 0412 992 268（Good Food／Uber Eats 登記同一個號碼）。外賣有 Uber Eats。第一次 2 人：Egg Mughlai Paratha 或 Chotpoti 做前菜，主食一個 Lamb Kacchi Biriyani＋一個 Chicken Khichuri 或 Bengali Chicken Curry，飲 Burhani，最後一人一杯 Mishti Doi。唔食得辣同店員講。",
+      "whenToGo": "今日（三）有開：夜晚 17:00／17:30 起到 21:45–22:00。平日只開晚市；週末（六日）中午 12:00／12:30 起開到夜晚，想食午飯揀週末。週五六晚 19:00 前去最穩陣。齋戒月（Ramadan）有 Iftar 自助餐、孟加拉新年（Pohela Boishakh）有節慶自助（Curateria 整理嘅食客評語）。",
+      "hours": "各來源有少少出入：Good Food 頁面（Google 資料）：Mon–Fri 17:00–22:00，Sat–Sun 12:00–22:00。Uber Eats getStoreV1（2026-10-28）接單：Mon–Fri 17:30–21:45，Sat–Sun 12:30–21:45。冇固定休息日。官網 chaadda.com.au 2026-10-28 打唔開（伺服器 500），未能用官網核實；第一次去建議 17:30 後、21:30 前到。",
+      "specials": "Uber Eats 有 Daily Thali for 1（A$23，一人份套餐）、Mixed Kebab（A$24）、Family Deal（A$74）。Good Food 價錢級別屬平（$）。節日（Ramadan Iftar、Pohela Boishakh）有自助餐，但有食客話份量相對價錢偏細，散叫 à la carte 最抵（Curateria 整理）。",
+      "why": "孟加拉菜係飲食看板第一次出現，同今日嘅泰國 Isan 菜係兩個完全唔同國家（一個南亞香料飯、一個東南亞酸辣沙律）。Hughesdale 離 Huntingdale 只係 2 個火車站，揸車 10 分鐘，係看板數一數二近屋企嘅選擇。Good Food Guide 2026 Critics' Pick；羊肉 biryani、烤雞、khichuri 高蛋白又飽肚，練完拳或者收工夜晚嚟食一流，人均大約 A$25–35。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/cha-adda-hughesdale-20241113-p5kqcz.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cha%20Adda%2073%20Warrigal%20Rd%20Hughesdale%20VIC%203166",
+      "images": [
+        "images/cha-adda-hughesdale/01.jpg",
+        "images/cha-adda-hughesdale/02.jpg",
+        "images/cha-adda-hughesdale/03.jpg",
+        "images/cha-adda-hughesdale/04.jpg",
+        "images/cha-adda-hughesdale/05.jpg",
+        "images/cha-adda-hughesdale/06.jpg",
+        "images/cha-adda-hughesdale/07.jpg",
+        "images/cha-adda-hughesdale/08.jpg",
+        "images/cha-adda-hughesdale/09.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Lamb Kacchi Biriyani 羊肉 Kacchi 香飯",
+          "price": "A$24.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）；Good Food Must-order"
+        },
+        {
+          "name": "Lamb Biriyani 羊肉香飯",
+          "price": "A$23.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chicken Khichuri 雞肉 Khichuri",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Beef Khichuri 牛肉 Khichuri",
+          "price": "A$23.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Beef Teheri 牛肉香料飯",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chicken Roast with egg and polao 烤雞＋蛋＋Polao",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chicken Roast 孟加拉烤雞（單點）",
+          "price": "A$12.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Egg Mughlai Paratha 蛋餡酥皮煎餅",
+          "price": "A$15.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chotpoti 黃豌豆酸辣小食",
+          "price": "A$12.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chicken Tikka",
+          "price": "A$14.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Tuna Kebab（3 件）",
+          "price": "A$13.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Bengali Chicken Curry 孟加拉雞咖喱",
+          "price": "A$23.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Deshi Mach Vuna 孟加拉式乾煮魚",
+          "price": "A$22.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Fish Do Peyaja 洋蔥魚咖喱",
+          "price": "A$25.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Lamb Rogan Josh",
+          "price": "A$25.30",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": "A$25.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Daily Thali for 1 一人套餐",
+          "price": "A$23.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Family Deal 家庭套餐",
+          "price": "A$74.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Polao 香米飯",
+          "price": "A$8.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Paratha",
+          "price": "A$5.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Mishti Doi 焦糖乳酪",
+          "price": "A$6.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Burhani（Borhani）辣味乳酪飲品",
+          "price": "A$6.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        }
+      ],
+      "menuPriceNote": "官網 chaadda.com.au 2026-10-28 打唔開，冇官方網上餐牌；所有價錢來自 Uber Eats PICKUP 即時餐牌（2026-10-28 讀取，50 款）。Uber Eats 價可能比堂食略高，以店內餐牌為準。"
+    },
+    {
+      "id": "zabb-nua-cbd",
+      "date": "2026-10-28",
+      "name": "Zabb Nua（City）",
+      "cuisine": "泰國菜／東北 Isan·Som Tum 青木瓜沙律·Larb·酸辣湯鍋",
+      "area": "Melbourne CBD",
+      "address": "275 King St, Melbourne VIC 3000（King St 近 Lonsdale St／La Trobe St 一段，主要座位喺樓上）",
+      "priceBand": "$$",
+      "hook": "The Age Good Food Guide 13.5/20 Critics' Pick，仲入咗 Good Food「100 Essential Restaurants」（2026-10）：「Zabb Nua is the spiciest joint on King Street」。2024 年 1 月由四對掛住家鄉味嘅泰國夫婦開，主廚 Preepaween “Far” Dejwatcharanon；專做泰國東北 Isan 菜——19 款 som tum 青木瓜沙律、8 款 larb、酸辣湯鍋，Good Food 2026-06 專文稱讚。",
+      "vibe": "熱鬧、色彩繽紛，牆身貼滿菜式海報，好似去咗曼谷街邊大排檔；掃 QR code 落單，主要座位喺樓上。啱一班朋友 share 幾碟辣嘢，唔係靜靜傾偈嗰種。",
+      "partySize": "2–6 人（Isan 菜最啱 share：2 人一個 som tum＋一個 larb／yum＋一個燒肉＋糯米飯；4 人以上加湯鍋或者鹽焗魚）",
+      "dishes": [
+        "Yum Naem Khao Tod 酸肉脆米沙律（Good Food Must-order）",
+        "Som Tum Zabb Nua 招牌海鮮青木瓜沙律（青口、蜆、藍蟹、魷魚、生蝦、三文魚、醃蟹）",
+        "Som Tum Raw Salmon 生三文魚青木瓜沙律",
+        "Larb Ped 鴨肉 Larb",
+        "Pad Krapow Grilled Pork Jowl 打拋燒豬頸肉飯",
+        "Crying Tiger 泰式炭燒牛扒配 Jaew 醬",
+        "Miang Pla Pao 鹽焗香茅原條盲䱽",
+        "Tom Zabb 酸辣豬軟骨湯／Mama Tom Yum Hotpot",
+        "Chicken Zabb（Yum Gai Zabb）辣炸雞沙律飯（午市限定，Good Food 推）",
+        "Steam bread with pandan dipping 班蘭醬蒸麵包"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線入城約 30–35 分鐘，喺 State Library 或 Flagstaff 一帶落車行約 5–10 分鐘（以 PTV 即時路線為準）；揸車入城要泊收費停車場。Walk-in，入座掃 QR code 落單；電話 (03) 9942 2175。外賣有 Uber Eats。辣度可以揀，第一次建議 medium。第一次 2 人：Yum Naem Khao Tod＋Som Tum Zabb Nua（或 Raw Salmon）＋Crying Tiger 或 Pad Krapow Grilled Pork Jowl，加糯米飯，甜品 Steam bread with pandan；平日午市一個人就叫 Chicken Zabb 飯。",
+      "whenToGo": "今日（三）午市 11:30–15:00、晚市 17:00–23:00 都有開。平日午市有 Lunch Special（A$17.90–25.90，辣炸雞沙律飯等只限午市），最抵；晚市 18:30–20:00 最多人。週末有冇午市各來源唔同（見營業時間），週末想食午飯先打電話。",
+      "hours": "⚠️ 各來源唔一致：官方 Instagram @zabb_nua 簡介：「Open Everyday Lunch 11.30–3.00PM, Dinner 5.00pm–11.00pm」。Google 資料（bestthai.com.au／Forksake 轉載）及 The City Lane：Mon–Fri 11:30–15:00＋17:00–23:00；Sat–Sun 只開 17:00–23:00。Uber Eats getStoreV1（2026-10-28）接單：每日 11:30–14:45＋17:00–22:30。即係：平日午晚都有開，冇休息日；週末午市未確定。",
+      "specials": "平日 Lunch Special：Steam／Grilled Chicken Rice、Grilled Pork Jowl Rice 各 A$17.90，Chicken Zabb 飯 A$18.90，Som Tum Set A$25.90（Uber Eats 價）。Good Food 價錢級別屬中低（$）。有泰式奶茶、粉紅奶、椰青。",
+      "why": "泰國菜之前上過看板（Miss Ping's、Teerak、Dodee Paidang），但都係中部／街頭泰菜；今次係第一間專做東北 Isan 菜，酸、辣、鮮，同今日嘅孟加拉香料飯完全兩個國家兩種口味。Good Food 2026 年 10 月最新 100 Essential Restaurants 之一，係而家城入面最熱門嘅泰菜。返城、去 CBD 辦事或者約朋友夜晚食都方便；燒豬頸、Crying Tiger 牛扒、鴨 larb、海鮮沙律高蛋白又唔油膩，練完拳都啱。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/zabb-nua-melbourne-20261012-p60tr3.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zabb%20Nua%20275%20King%20St%20Melbourne%20VIC%203000",
+      "images": [
+        "images/zabb-nua-cbd/01.jpg",
+        "images/zabb-nua-cbd/02.jpg",
+        "images/zabb-nua-cbd/03.jpg",
+        "images/zabb-nua-cbd/04.jpg",
+        "images/zabb-nua-cbd/05.jpg",
+        "images/zabb-nua-cbd/06.jpg",
+        "images/zabb-nua-cbd/07.jpg",
+        "images/zabb-nua-cbd/08.jpg",
+        "images/zabb-nua-cbd/09.jpg",
+        "images/zabb-nua-cbd/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "Yum Naem Khao Tod 酸肉脆米沙律",
+          "price": "A$19.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Som Tum Zabb Nua 招牌海鮮青木瓜沙律",
+          "price": "A$27.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Som Tum Thai 泰式青木瓜沙律",
+          "price": "A$16.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Som Tum Raw Salmon 生三文魚青木瓜沙律",
+          "price": "A$21.00",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Larb Ped 鴨肉 Larb",
+          "price": "A$19.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Larb Moo 豬肉 Larb",
+          "price": "A$16.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Yum Zabb Nua 招牌海鮮 Yum",
+          "price": "A$29.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Crying Tiger 炭燒牛扒",
+          "price": "A$21.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Grilled Pork Jowl 燒豬頸肉",
+          "price": "A$16.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Pad Krapow Grilled Pork Jowl 打拋燒豬頸肉飯",
+          "price": "A$21.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）（大份 A$24.90）"
+        },
+        {
+          "name": "Pad See Ew",
+          "price": "A$17.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Miang Pla Pao 鹽焗香茅原條魚",
+          "price": "A$36.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Tom Zabb 酸辣豬軟骨湯",
+          "price": "A$18.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Mama Tom Yum Hotpot",
+          "price": "A$27.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Chicken Zabb 辣炸雞沙律飯（午市）",
+          "price": "A$18.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Grilled Chicken Rice（午市）",
+          "price": "A$17.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Som Tum Set（午市）",
+          "price": "A$25.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Sticky Rice 糯米飯",
+          "price": "A$3.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Steam bread with pandan dipping 班蘭醬蒸麵包",
+          "price": "A$10.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Durian Sticky Rice 榴槤糯米飯",
+          "price": "A$13.90",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        },
+        {
+          "name": "Thai Milk Tea 泰式奶茶",
+          "price": "A$7.50",
+          "note": "Uber Eats PICKUP 即時餐牌（2026-10-28）"
+        }
+      ],
+      "menuPriceNote": "冇官網餐牌（堂食用 QR code 落單）；所有價錢來自 Uber Eats PICKUP 即時餐牌（2026-10-28 讀取，110 款）。Uber Eats 價可能比堂食略高，以店內 QR 餐牌為準。"
+    },
+    {
       "id": "prince-of-yazh-dandenong",
       "date": "2026-10-25",
       "name": "The Prince of Yazh（Dandenong）",
