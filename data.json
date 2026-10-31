@@ -4,6 +4,326 @@
   "city": "Melbourne",
   "recommendations": [
     {
+      "id": "ho-liao-cbd",
+      "date": "2026-10-31",
+      "name": "Ho Liao 好料（City）",
+      "cuisine": "馬來西亞菜／檳城福建·娘惹家常·啤酒館（Ho Jiak 集團）",
+      "area": "Melbourne CBD",
+      "address": "Level 2, Rainbow Alley, 235–251 Bourke St, Melbourne VIC 3000（Tivoli Arcade 翻新大樓 2 樓，Bourke St 近 Swanston St／Russell St 一段，由 Rainbow Alley 入口上樓；地下係同集團 Da Bao 外賣店、1 樓係 Ho Jiak: Junda's Playground）",
+      "priceBand": "$$",
+      "hook": "Broadsheet First Look（2025-05）：「Junda Khoo's Ho Liao Is Finally Here」。悉尼人氣馬來西亞菜 Ho Jiak 主廚 Junda Khoo（檳城人）喺墨爾本開嘅第一間店，係佢投資 A$7 百萬、三層高 Ho Jiak Melbourne 嘅頂層啤酒館；主打佢阿嫲嘅檳城／娘惹家常菜：沙爹、Loh Bak 五香肉卷（加蝦）、Assam Nyonya 酸辣魚、10 日風乾馬來烤鴨、炒粿條、叻沙，仲有 Teh Tarik Affogato 甜品。OpenTable 4.6/5（91 評）。",
+      "vibe": "屋頂啤酒館 feel：工業風、編織吊燈、大卡位，光猛熱鬧，似高級版 Pappa Rich（Broadsheet 形容）；一班朋友飲啤酒 share 菜最啱，唔係靜靜傾偈嗰種。有東南亞啤酒（Tiger、Chang、Kingfisher）同馬來風味雞尾酒。",
+      "partySize": "2–8 人（2 人叫 2 個前菜＋1 個肉／海鮮＋2 個粉麵飯；4 人以上可以叫 A$75 Signature Banquet 或者 A$138 Asian BBQ Wrap 三拼烤肉卷餅；10 人以上加 10% 服務費）",
+      "dishes": [
+        "N1 Char Koay Teow 招牌炒粿條（「Not Traditional, Not Authentic, Just Ho Jiak」）",
+        "M4 Malaysian Roast Duck 10 日風乾馬來脆皮烤鴨（可加餅皮小料）",
+        "SF1 Assam Nyonya 亞參娘惹酸辣盲鰽魚（主廚阿嫲食譜）",
+        "S3 Loh Bak 五香豬頸肉蝦卷（Broadsheet 重點介紹）",
+        "S2 Kiam Ah Nui Kay 金沙鹹蛋黃雞翼",
+        "M8 Twice Cooked Angus Char Siu Ribs 蜜汁叉燒牛肋排",
+        "N3 Chicken Laksa 雞肉咖喱叻沙／R3 Nasi Lemak 椰漿飯",
+        "R2 Wagyu Rendang Roti Canai 冷當和牛印度煎餅",
+        "LS3 Malaysian Chilli Crab 馬來辣椒蟹（活蟹時價，配炸饅頭）",
+        "DS3 Teh Tarik Affogato 拉茶雪糕咖啡／DS1 Ice Kacang 三色冰"
+      ],
+      "howToOrder": "由 Huntingdale 站搭 Pakenham／Cranbourne 線入城約 30–35 分鐘，喺 Melbourne Central 或 Parliament 落車行約 5–8 分鐘到 Bourke St（以 PTV 即時路線為準）；揸車入城要泊收費停車場（OpenTable 寫冇泊車）。可以喺 SevenRooms 網上訂位（官網「Book Now」）或者打 (03) 8637 0889；Walk-in 都得，週末夜晚建議訂位。外賣／自取有官網「Order Online」（Abacus）同外送平台。第一次 2 人：Loh Bak＋Kiam Ah Nui Kay 做前菜，主菜 Malaysian Roast Duck 或 Assam Nyonya，加一個 Char Koay Teow（主份 A$23）同椰漿飯／白飯，甜品 Teh Tarik Affogato。粉麵飯有細份（A$17）同大份（A$23），細份可以叫多幾款試。",
+      "whenToGo": "今日（六）11:00–23:00 有開，但週末全單加 10% 附加費。最抵係平日午市：Mon–Fri 11:00–14:30 有 Lunch Combo（粉麵飯＋娘惹炸雞／煎蛋／Achar 配菜＋一杯飲品，細份 A$22／大份 A$28，只限堂食，公眾假期除外）。Happy Hour 每日 15:00–17:30（公眾假期除外）。週五六晚 18:30–20:30 最多人。",
+      "hours": "官網 holiao.com.au/melbourne（2026-10-31 讀取）：Sun–Thu 11:00–22:00；Fri–Sat 11:00–23:00；冇休息日。公眾假期 11:00–15:00＋17:00–22:00（加 15% 附加費）。OpenTable／Google 資料一致。⚠️ Broadsheet 2025 年開幕文寫「Mon–Sat 11am–midnight」係舊資料，以官網為準。",
+      "specials": "平日 Lunch Combo A$22／A$28（粉麵飯＋配菜＋飲品）；Happy Hour 15:00–17:30；A$75 Signature Banquet（2 位起，含烤鴨餅皮、娘惹魚、炒粿角、沙爹等）、A$65 素食 Banquet；Asian BBQ Wrap 三拼 A$138。⚠️ 週六日全單 +10%、VIC 公眾假期 +15%、10 人以上 +10% 服務費；Broadsheet 2025 年寫粉麵飯「封頂 $15」已經過時，而家細份 A$17／大份 A$23。Ho Jiak 集團有 Royalty Program 會員計劃。",
+      "why": "馬來西亞菜之前上過看板（Grand Tofu 釀豆腐、Danny's Kopitiam、Sixteen H），但今次係悉尼名廚 Junda Khoo 嘅檳城／娘惹家常菜，招牌係 10 日風乾烤鴨、叉燒牛肋排同活蟹，同之前嘅 kopitiam 小食完全唔同層次；同今日嘅雲南菜係兩個國家兩種口味（一個南洋香料椰漿、一個高原野菌酸辣）。喺 Bourke St 正中，入城辦事、約朋友飲番杯都方便；烤鴨、牛肋排、沙爹、海鮮高蛋白，練完拳一大班人 share 一流。粉麵飯細份 A$17 起，平日午市 A$22 包飲品，CBD 嚟講唔貴。",
+      "sourceUrl": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/junda-khoos-ho-liao-new-malaysian-beer-hall-karaoke",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Liao%20Melbourne%20235%20Bourke%20St%20Melbourne%20VIC%203000",
+      "images": [
+        "images/ho-liao-cbd/01.jpg",
+        "images/ho-liao-cbd/02.jpg",
+        "images/ho-liao-cbd/03.jpg",
+        "images/ho-liao-cbd/04.jpg",
+        "images/ho-liao-cbd/05.jpg",
+        "images/ho-liao-cbd/06.jpg",
+        "images/ho-liao-cbd/07.jpg",
+        "images/ho-liao-cbd/08.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "S1 Satay 沙爹烤串（雞／牛）",
+          "price": "A$6／A$8 每串",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "S2 Kiam Ah Nui Kay 金沙鹹蛋黃雞翼",
+          "price": "A$20",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "S3 Loh Bak 五香肉卷",
+          "price": "A$20",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "S4 Char Koay Kak 炒粿角",
+          "price": "A$19",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "S6 Flossy Fried Chicken 肉鬆脆皮雞翼（3 件）",
+          "price": "A$20",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "R1 Chicken Curry Roti Canai 咖喱雞印度煎餅",
+          "price": "A$25",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "R2 Wagyu Rendang Roti Canai 冷當和牛印度煎餅",
+          "price": "A$27",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "SF1 Assam Nyonya 亞參娘惹盲鰽",
+          "price": "A$36",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "SF4 Black Pepper Prawn 黑胡椒蝦球",
+          "price": "A$43",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "SF5 Salted Duck Egg Squid 金沙鹹蛋黃魷魚",
+          "price": "A$35",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "M1 Hainanese Chicken 海南雞",
+          "price": "A$35",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "M4 Malaysian Roast Duck 馬來脆皮烤鴨",
+          "price": "A$51",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌；加餅皮小料 +A$15"
+        },
+        {
+          "name": "M7 Yunnan Rose Char Siu Pork Belly 雲南玫瑰蜜汁叉燒",
+          "price": "A$39",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "M8 Twice Cooked Angus Char Siu Ribs 蜜汁牛肋排",
+          "price": "A$52",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "M9 Wagyu Rendang 冷當咖喱和牛",
+          "price": "A$49",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "N1 Char Koay Teow 招牌炒粿條",
+          "price": "A$17 細／A$23 大",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌（所有粉麵同價）"
+        },
+        {
+          "name": "N3 Chicken Laksa 雞肉咖喱叻沙",
+          "price": "A$17 細／A$23 大",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "R3 Nasi Lemak 娘惹炸雞椰漿飯",
+          "price": "A$17 細／A$23 大",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌（所有飯類同價）"
+        },
+        {
+          "name": "R1 Hainan Chicken Rice 海南雞飯",
+          "price": "A$17 細／A$23 大",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "CR1 Char Siu Beef Ribs Claypot Rice 叉燒牛肋排煲仔飯",
+          "price": "A$36 半份／A$56 全份",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌；要等約 20 分鐘"
+        },
+        {
+          "name": "CR3 Malaysian Chicken Claypot Rice 馬來西亞煲仔飯",
+          "price": "A$32",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "E3 Nanyang Mapo Tofu 南洋麻婆豆腐",
+          "price": "A$22",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "LS Mud Crab／Lobster 活蟹／龍蝦（黑胡椒咖喱／金沙／辣椒）",
+          "price": "時價／kg",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌；配麵／炸饅頭 +A$18"
+        },
+        {
+          "name": "A1 Asian BBQ Wrap 三拼烤肉卷餅套餐",
+          "price": "A$138",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "Signature Banquet 招牌套餐（每位，2 位起）",
+          "price": "A$75",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "Lunch Combo 平日午市套餐（粉麵飯＋配菜＋飲品）",
+          "price": "A$22 細／A$28 大",
+          "note": "官網 Lunch_Combo.pdf；Mon–Fri 11:00–14:30，只限堂食"
+        },
+        {
+          "name": "DS3 Teh Tarik Affogato 拉茶雪糕咖啡",
+          "price": "A$13",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        },
+        {
+          "name": "DS1 Ice Kacang 三色冰／DS2 Ice Cendol 煎蕊",
+          "price": "A$13",
+          "note": "官網 Ho_Liao_June_2026_Menu.pdf 堂食餐牌"
+        }
+      ],
+      "menuPriceNote": "價錢來自官網 holiao.com.au/melbourne 嘅堂食餐牌 PDF（Ho_Liao_June_2026_Menu.pdf，2026-10-31 下載）同 Lunch Combo PDF；相片亦取自同一份官方餐牌。⚠️ 週六日全單 +10%、VIC 公眾假期 +15%；活海鮮時價以店內為準。"
+    },
+    {
+      "id": "colourful-yunnan-hawthorn",
+      "date": "2026-10-31",
+      "name": "Colourful Yunnan 彩雲南（Hawthorn）",
+      "cuisine": "中國雲南菜（滇菜）／野生菌·汽鍋雞·過橋米線·傣族酸辣",
+      "area": "Hawthorn",
+      "address": "826 Glenferrie Rd, Hawthorn VIC 3122（Glenferrie Rd 購物街一段，16 號電車沿 Glenferrie Rd 行；2018 年 7 月開嘅彩雲南旗艦店「孔雀·精品雲南菜」）",
+      "priceBand": "$$",
+      "hook": "The Age Good Food Guide 14.5/20（2026-10-08 更新）：「Fungi-phobes need not apply.」菌類係主角——銅鍋牛肝菌燜飯（飯焦、牛肝菌、蛋、雲南臘腸）、松茸汽鍋雞清湯、辣油涼拌豬耳、蟹黃（鹹蛋黃）嫩豆腐；Good Food 話最啱叫幾個朋友一齊嚟擺滿一枱，最後飲杯金銀花茶。DoorDash 4.7/5（66 評）。",
+      "vibe": "光猛寬敞、樓底高，係墨爾本少有嘅高檔雲南菜館，有包廂可以做私人飯局；枱上擺滿青花瓷碟，多數係一大班人或者一家人圍枱食，氣氛熱鬧但唔嘈。有食客話繁忙時上菜會慢。",
+      "partySize": "3–8 人最好（Good Food 都話「Bring a few buddies」；菜份量大、一碟 A$35–55，2 人叫 1 個燜飯＋1 個小炒＋1 個涼菜已經好飽；有包廂適合 8 人以上）",
+      "dishes": [
+        "銅鍋牛肝菌燜飯（含臘腸）Stewed Rice with Boletus Mushroom & Egg（Good Food 推）",
+        "松茸野生菌火腿土雞鍋／汽鍋雞 Steam Pot Chicken with Matsutake（Good Food 推）",
+        "蟹黃嫩豆腐（鹹蛋黃醬）Tender Tofu with Salted Egg Yolk Sauce（Good Food 推）",
+        "極品過橋米線 Crossing the Bridge Rice Noodle",
+        "野味雞樅菌爆炒小牛肉 Stir-Fried Beef with Yunnan Wild Mushroom",
+        "砂鍋乾撈菌 Stir-Fried Mixed Yunnan Wild Mushroom",
+        "景頗鬼雞 Jingpo Chicken（青檸辣椒手撕雞，傣族酸辣涼菜）",
+        "香茅草烤魚 Grilled Barramundi with Lemongrass",
+        "傣家銅鍋油燜雞（配麵餅）",
+        "泡魯達 Coconut Milk Drink with Crisp Bread（雲南椰奶甜品飲品）"
+      ],
+      "howToOrder": "揸車由 Huntingdale 經 Warrigal Rd／Burke Rd 或 Glenferrie Rd 約 20–30 分鐘，Glenferrie Rd 街泊為主（以實際為準）；公共交通：Huntingdale 搭火車經 Caulfield／Richmond 轉 Lilydale／Belgrave 線到 Glenferrie 站，再轉 16 號電車或行過去，約 45–60 分鐘（以 PTV 即時路線為準）。訂位打 (03) 9044 6948；大枱或者包廂一定要預先訂。外賣有 DoorDash（價錢比堂食貴）。第一次 2–3 人：景頗鬼雞或涼拌牛肝菌做涼菜，主食銅鍋牛肝菌燜飯（要等），加一個野味雞樅菌爆炒小牛肉或者蟹黃嫩豆腐，飲金銀花茶或泡魯達；4 人以上加汽鍋雞同香茅草烤魚。唔食得辣同店員講，好多菜有辣／不辣選擇。",
+      "whenToGo": "今日（六）午市 12:00–15:00、晚市 17:00–21:30 有開。週五六晚 18:00–19:30 最旺，一定要訂位；想鬆動啲揀平日晚市或者週末午市 12:00 一開門就到。燜飯要時間，唔好趕。",
+      "hours": "官網 colourfulyunnan.com.au/hawthorn（2026-10-31 讀取）：Mon–Thu 12:00–15:00、17:00–21:00；Fri–Sat 12:00–15:00、17:00–21:30；Sun 12:00–15:00、17:00–21:00；冇休息日。DoorDash 外送接單時間較短（約 12:00–14:20、17:00–20:20）。官網資料較舊，公眾假期或者落場時間出發前打電話確認。",
+      "specials": "未見公開堂食優惠。DoorDash 有外送，但價錢明顯高過堂食（一碟小炒 A$35–47），堂食應該抵啲。彩雲南喺 Box Hill Central、Carlton、City Swanston St 有姊妹店（彩鋪子，較平價快餐式），想食過橋米線快餐可以去嗰邊。",
+      "why": "雲南菜第一次上看板：同之前嘅川湘、蘭州拉麵、新疆菜都唔同，主打野生菌、火腿、汽鍋雞同傣族酸辣，同今日嘅馬來西亞菜係兩個國家兩種風味。Good Food Guide 14.5/20，係墨爾本最高評分嘅雲南菜之一；Hawthorn 喺東邊 inner east，揸車 20–30 分鐘。汽鍋雞、牛肝菌、牛肉、烤魚高蛋白又唔油膩，練完拳約一班朋友或者屋企人圍枱食最啱。",
+      "sourceUrl": "https://www.theage.com.au/goodfood/vic-good-food-guide/colourful-yunnan-hawthorn-20241106-p5kodh.html",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colourful%20Yunnan%20826%20Glenferrie%20Rd%20Hawthorn%20VIC%203122",
+      "images": [
+        "images/colourful-yunnan-hawthorn/01.jpg",
+        "images/colourful-yunnan-hawthorn/02.jpg",
+        "images/colourful-yunnan-hawthorn/03.jpg",
+        "images/colourful-yunnan-hawthorn/04.jpg",
+        "images/colourful-yunnan-hawthorn/05.jpg",
+        "images/colourful-yunnan-hawthorn/06.jpg",
+        "images/colourful-yunnan-hawthorn/07.jpg",
+        "images/colourful-yunnan-hawthorn/08.jpg",
+        "images/colourful-yunnan-hawthorn/09.jpg",
+        "images/colourful-yunnan-hawthorn/10.jpg"
+      ],
+      "menuItems": [
+        {
+          "name": "銅鍋牛肝菌燜飯（含臘腸）Stewed Rice with Boletus Mushroom & Egg",
+          "price": "A$44.60",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "松茸野生菌火腿土雞鍋 Chicken & Ham Pot with Matsutake & Morel",
+          "price": "A$46.90",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "蟹黃嫩豆腐 Tender Tofu with Salted Egg Yolk Sauce",
+          "price": "A$44.60",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "極品過橋米線（不辣）Crossing the Bridge Rice Noodle",
+          "price": "A$35.30",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "野味雞樅菌爆炒小牛肉 Stir-Fried Beef with Yunnan Wild Mushroom",
+          "price": "A$46.90",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "砂鍋乾撈菌 Stir-Fried Mixed Yunnan Wild Mushroom",
+          "price": "A$44.60",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "景頗鬼雞 Jingpo Chicken",
+          "price": "A$24.80",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "滇味手撕雞 Shredded Chicken Salad with Chilli Sauce",
+          "price": "A$25.90",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "保山大薄片 Sour & Spicy Sliced Pork Face Meat",
+          "price": "A$21.80",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "香茅草烤魚 Grilled Barramundi with Lemongrass Sauce",
+          "price": "A$41.10",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "傣家菜銅鍋油燜雞（配麵餅）",
+          "price": "A$55.10",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "老滇辣子雞 Stir-Fried Chicken with Hot Chilli",
+          "price": "A$45.70",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "燙嘴雲南豆腐 Traditional Yunnan Deep Fried Creamy Tofu",
+          "price": "A$38.80",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "土司家的櫻桃肉 Sweet & Sour Pork",
+          "price": "A$44.60",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "臘肉有機花菜 Organic Cauliflower with Cured Pork Belly",
+          "price": "A$45.70",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "金湯藤椒鱸魚 Golden Sour Soup with Bass Fish",
+          "price": "A$53.90",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "泡魯達 Coconut Milk Drink with Crisp Bread",
+          "price": "A$16.10",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        },
+        {
+          "name": "米飯 Steamed Rice",
+          "price": "A$5.50",
+          "note": "DoorDash 外送餐牌（2026-10-31 讀取）"
+        }
+      ],
+      "menuPriceNote": "官網冇公開堂食價目；所有價錢來自 DoorDash 外送餐牌（2026-10-31 讀取，約 80 款）。⚠️ 外送平台價通常明顯高過堂食（估計貴 20–30%），堂食以店內餐牌為準。相片取自 DoorDash 菜式圖。"
+    },
+    {
       "id": "cha-adda-hughesdale",
       "date": "2026-10-28",
       "name": "Cha Adda（Hughesdale）",
